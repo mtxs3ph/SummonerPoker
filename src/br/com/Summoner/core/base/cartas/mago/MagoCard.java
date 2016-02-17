@@ -37,7 +37,7 @@ public class MagoCard extends Card{
             
             ElementType elemento = magoElemento.Elemento;
             
-            danoExtraPorElemento = itens.stream().map((item) -> (MagoItemCard)item).filter((itemMago) -> ( itemMago.Elemento == elemento )).map((itemMago) -> itemMago.DanoMagia).reduce(danoExtraPorElemento, (accumulator, _item) -> accumulator + _item);
+            //danoExtraPorElemento = itens.stream().map((item) -> (MagoItemCard)item).filter((itemMago) -> ( itemMago.Elemento == elemento )).map((itemMago) -> itemMago.DanoMagia).reduce(danoExtraPorElemento, (accumulator, _item) -> accumulator + _item);
             
             if (danoExtraPorElemento > danoExtraMagia){
                 danoExtraMagia = danoExtraPorElemento;

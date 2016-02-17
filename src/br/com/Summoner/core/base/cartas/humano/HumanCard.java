@@ -6,22 +6,16 @@
 package br.com.Summoner.core.base.cartas.humano;
 
 import br.com.Summoner.core.Jogada;
-import br.com.Summoner.core.Partida;
-import br.com.Summoner.core.Turno;
 import br.com.Summoner.core.base.interfaces.Card;
-import br.com.Summoner.core.base.tipos.TipoCarta;
-import br.com.Summoner.core.base.tipos.TipoMonstro;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
-import java.util.HashMap;
 
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 import org.apache.commons.lang.StringUtils;
 import org.jsefa.csv.annotation.CsvDataType;
-import org.jsefa.csv.annotation.CsvField;
 
 import org.jsefa.csv.annotation.CsvSubRecordList;
 import org.jsefa.rbf.annotation.Record;
@@ -43,7 +37,8 @@ public class HumanCard extends Card {
         long forcaBonus = 0;
 
         if (cartasUtilizadasCombo.size() > 0) {
-            String[] golpesCombo = cartasUtilizadasCombo.stream().map(carta -> ((HumanItemCard) carta).tipoGolpe.toString()).collect(Collectors.joining()).split("");
+//            String[] golpesCombo = cartasUtilizadasCombo.stream().map(carta -> ((HumanItemCard) carta).tipoGolpe.toString()).collect(Collectors.joining()).split("");
+            String[] golpesCombo = {};
             Arrays.sort(golpesCombo);
             String comboRealizado = StringUtils.join(Arrays.asList(golpesCombo), "");
             comboResult.ComboRealizado = comboRealizado;
@@ -87,19 +82,18 @@ public class HumanCard extends Card {
         strbOut.append(" Estatísticas de Combo Humano ");
         strbOut.append("\r\n");
         strbOut.append("\r\n");
-        
+
         Comparator<HumanComboResult> byCombo = (e1, e2) -> e2.ComboCriatura.compareTo(e1.ComboCriatura);
         CombosRealizados = CombosRealizados.stream().filter(c -> c.ComboCriatura != null && c.ComboCriatura.length() > 1).sorted(byCombo).collect(Collectors.toList());
-        
+
         Map<String, List<HumanComboResult>> combosRealizados;
         combosRealizados = CombosRealizados.stream()
                 .collect(Collectors.groupingBy(classifier -> classifier.ComboCriatura));
-        
-        for (Map.Entry<String, List<HumanComboResult>> entry : combosRealizados.entrySet())
-        {
+
+        for (Map.Entry<String, List<HumanComboResult>> entry : combosRealizados.entrySet()) {
             strbOut.append(" Combo Realizado:\t").append(entry.getKey()).append("\tQuantidade:\t").append(entry.getValue().size()).append("\r\n");
         }
-        
+
 //        for (HumanComboResult comboResult : CombosRealizados) {
 //
 //            if (comboResult.ComboRealizado.length() > 1) {
@@ -107,7 +101,6 @@ public class HumanCard extends Card {
 //                strbOut.append(" Combo Utilizado - ").append(comboResult.ComboCartaUtilizado == null ? "" : comboResult.ComboCartaUtilizado).append("\r\n");
 //                strbOut.append("\r\n");
 //            }
-
 //            for (HumanMonsterCombo combo : comboResult.CombosCarta)
 //            {
 //                strbOut.append(" Combo - ").append(combo.CombinacaoCombo);
@@ -116,7 +109,6 @@ public class HumanCard extends Card {
 //            strbOut.append("\r\n");
 //            strbOut.append("\r\n");
 //        }
-
         strbOut.append("\r\n");
         strbOut.append("\r\n");
 

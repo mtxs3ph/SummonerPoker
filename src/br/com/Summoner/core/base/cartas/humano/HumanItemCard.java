@@ -9,7 +9,8 @@ import br.com.Summoner.core.Jogada;
 import br.com.Summoner.core.base.interfaces.Card;
 import java.util.List;
 import org.jsefa.csv.annotation.CsvDataType;
-import org.jsefa.csv.annotation.CsvField;
+import org.jsefa.csv.annotation.CsvSubRecordList;
+import org.jsefa.rbf.annotation.Record;
 
 /**
  *
@@ -18,9 +19,9 @@ import org.jsefa.csv.annotation.CsvField;
 @CsvDataType()
 public class HumanItemCard extends Card {
 
-    @CsvField(pos = 6)
-    HumanAtackType tipoGolpe;
-
+    @CsvSubRecordList(pos = 6, records = @Record(prefix = "Golpe"))
+    List<HumanAtack> Golpes;
+    
     @Override
     public long CalculaBonus(Jogada jogada, List<Card> listaMonstrosAdversarios) {
         return 0;
