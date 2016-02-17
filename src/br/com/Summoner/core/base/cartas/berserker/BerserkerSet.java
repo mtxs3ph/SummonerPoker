@@ -5,8 +5,6 @@
  */
 package br.com.Summoner.core.base.cartas.berserker;
 
-import br.com.Summoner.core.base.cartas.berserker.*;
-import br.com.Summoner.core.base.tipos.TipoMonstro;
 import java.util.List;
 import org.jsefa.csv.annotation.CsvDataType;
 import org.jsefa.csv.annotation.CsvField;
@@ -17,7 +15,7 @@ import org.jsefa.rbf.annotation.Record;
  *
  * @author dferreira
  */
-@CsvDataType(defaultPrefix="Set") 
+@CsvDataType(defaultPrefix="Setco") 
 public class BerserkerSet {
     
     @CsvSubRecordList(pos = 1, records = @Record(prefix = "Equip"))

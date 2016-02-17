@@ -1,0 +1,259 @@
+Dados Estatísticos - 17/02/2016 15:01:42
+Número de Jogadores: 2
+Número de Turnos: 10
+
+	Turno 1
+		Mesa
+				Item: Pentagram         	|	Profano	|	11	
+				Item: ABC03             	|	Berserker	|	0	
+				Item: Frost Nova        	|	Mago	|	9	
+				Item: Fire Blast        	|	Mago	|	10	
+				Item: Sacrificial Knife 	|	Profano	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Humano ----- ForçaTotal: 6
+						Carta :Criatura	|Taekwondo         	|	Humano	|	7	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Profano ----- ForçaTotal: 30
+						Carta :Criatura	|Demonologist      	|	Profano	|	9	
+						Carta :Item	|Pentagram         	|	Profano	|	11	
+						Carta :Item	|Sacrificial Knife 	|	Profano	|	9	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Profano ----- ForçaTotal: 30
+	Turno 2
+		Mesa
+				Item: Index Prohibitorum	|	Profano	|	11	
+				Item: ABC05             	|	Berserker	|	0	
+				Item: ABC03             	|	Berserker	|	0	
+				Item: Meteor Shower     	|	Mago	|	12	
+				Item: Ice Bolt          	|	Mago	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Berserker ----- ForçaTotal: 9
+						Carta :Criatura	|Barbarian         	|	Berserker	|	7	
+						Carta :Item	|ABC09             	|	Berserker	|	0	
+						Carta :Item	|ABC05             	|	Berserker	|	0	
+						Carta :Item	|ABC03             	|	Berserker	|	0	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Mago ----- ForçaTotal: 39
+						Carta :Criatura	|Arch Wizard       	|	Mago	|	10	
+						Carta :Item	|Meteor Shower     	|	Mago	|	12	
+						Carta :Item	|Ice Bolt          	|	Mago	|	10	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Mago ----- ForçaTotal: 39
+	Turno 3
+		Mesa
+				Item: Cauldron of Souls 	|	Profano	|	10	
+				Item: Sacrificial Knife 	|	Profano	|	9	
+				Item: ABC03             	|	Berserker	|	0	
+				Item: ABC09             	|	Berserker	|	0	
+				Item: ABC05             	|	Berserker	|	0	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Mago ----- ForçaTotal: 17
+						Carta :Criatura	|Pyromancer        	|	Mago	|	6	
+						Carta :Item	|Tornado           	|	Mago	|	11	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Mago ----- ForçaTotal: 8
+						Carta :Criatura	|Aeromancer        	|	Mago	|	8	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Mago ----- ForçaTotal: 17
+	Turno 4
+		Mesa
+				Item: Jab Punch         	|	Humano	|	9	
+				Item: Knee Kick         	|	Humano	|	10	
+				Item: Middle Kick       	|	Humano	|	10	
+				Item: Scorch            	|	Mago	|	9	
+				Item: Cauldron of Souls 	|	Profano	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Profano ----- ForçaTotal: 16
+						Carta :Criatura	|Apprentice        	|	Profano	|	6	
+						Carta :Item	|Cauldron of Souls 	|	Profano	|	10	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Mago ----- ForçaTotal: 17
+						Carta :Criatura	|Pyromancer        	|	Mago	|	6	
+						Carta :Item	|Scorch            	|	Mago	|	9	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Mago ----- ForçaTotal: 17
+	Turno 5
+		Mesa
+				Item: Low Kick          	|	Humano	|	9	
+				Item: Fire Blast        	|	Mago	|	10	
+				Item: Index Prohibitorum	|	Profano	|	11	
+				Item: Dragon Punch      	|	Humano	|	12	
+				Item: Ice Bolt          	|	Mago	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Humano ----- ForçaTotal: 31
+						Carta :Criatura	|Taekwondo         	|	Humano	|	7	
+						Carta :Item	|Low Kick          	|	Humano	|	9	
+						Carta :Item	|Dragon Punch      	|	Humano	|	12	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Profano ----- ForçaTotal: 20
+						Carta :Criatura	|Demonologist      	|	Profano	|	9	
+						Carta :Item	|Index Prohibitorum	|	Profano	|	11	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Humano ----- ForçaTotal: 31
+	Turno 6
+		Mesa
+				Item: ﻿Witchs Scepter   	|	Profano	|	9	
+				Item: Tornado           	|	Mago	|	11	
+				Item: Index Prohibitorum	|	Profano	|	11	
+				Item: Jab Punch         	|	Humano	|	9	
+				Item: Meteor Shower     	|	Mago	|	12	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Berserker ----- ForçaTotal: 10
+						Carta :Criatura	|Troll             	|	Berserker	|	10	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Mago ----- ForçaTotal: 51
+						Carta :Criatura	|Master Mage       	|	Mago	|	9	
+						Carta :Item	|Blizzard          	|	Mago	|	11	
+						Carta :Item	|Tornado           	|	Mago	|	11	
+						Carta :Item	|Meteor Shower     	|	Mago	|	12	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Mago ----- ForçaTotal: 51
+	Turno 7
+		Mesa
+				Item: Round House Kick  	|	Humano	|	11	
+				Item: ABC03             	|	Berserker	|	0	
+				Item: Meteor Shower     	|	Mago	|	12	
+				Item: Index Prohibitorum	|	Profano	|	11	
+				Item: Blizzard          	|	Mago	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Mago ----- ForçaTotal: 30
+						Carta :Criatura	|Hydromancer       	|	Mago	|	7	
+						Carta :Item	|Meteor Shower     	|	Mago	|	12	
+						Carta :Item	|Blizzard          	|	Mago	|	11	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Berserker ----- ForçaTotal: 6
+						Carta :Criatura	|Warrior           	|	Berserker	|	6	
+						Carta :Item	|ABC06             	|	Berserker	|	0	
+						Carta :Item	|ABC03             	|	Berserker	|	0	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Mago ----- ForçaTotal: 30
+	Turno 8
+		Mesa
+				Item: Pentagram         	|	Profano	|	11	
+				Item: Pandoras Box      	|	Profano	|	10	
+				Item: ABC10             	|	Berserker	|	0	
+				Item: Frost Nova        	|	Mago	|	9	
+				Item: Demons Horn       	|	Profano	|	12	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Berserker ----- ForçaTotal: 5
+						Carta :Criatura	|Warrior           	|	Berserker	|	6	
+						Carta :Item	|ABC10             	|	Berserker	|	0	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Profano ----- ForçaTotal: 40
+						Carta :Criatura	|Apprentice        	|	Profano	|	6	
+						Carta :Item	|Pentagram         	|	Profano	|	11	
+						Carta :Item	|Pandoras Box      	|	Profano	|	10	
+						Carta :Item	|Demons Horn       	|	Profano	|	12	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Profano ----- ForçaTotal: 40
+	Turno 9
+		Mesa
+				Item: Jab Punch         	|	Humano	|	9	
+				Item: ABC07             	|	Berserker	|	0	
+				Item: Pandoras Box      	|	Profano	|	10	
+				Item: Knee Kick         	|	Humano	|	10	
+				Item: Uppercut          	|	Humano	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Profano ----- ForçaTotal: 19
+						Carta :Criatura	|Templar           	|	Profano	|	7	
+						Carta :Item	|Pandoras Box      	|	Profano	|	10	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Humano ----- ForçaTotal: 42
+						Carta :Criatura	|Muay Thai         	|	Humano	|	8	
+						Carta :Item	|Jab Punch         	|	Humano	|	9	
+						Carta :Item	|Knee Kick         	|	Humano	|	10	
+						Carta :Item	|Uppercut          	|	Humano	|	11	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Humano ----- ForçaTotal: 42
+	Turno 10
+		Mesa
+				Item: Index Prohibitorum	|	Profano	|	11	
+				Item: Cauldron of Souls 	|	Profano	|	10	
+				Item: Blizzard          	|	Mago	|	11	
+				Item: ABC06             	|	Berserker	|	0	
+				Item: Thunder Bolt      	|	Mago	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Berserker ----- ForçaTotal: 9
+						Carta :Criatura	|Ogre              	|	Berserker	|	9	
+						Carta :Item	|ABC06             	|	Berserker	|	0	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Mago ----- ForçaTotal: 33
+						Carta :Criatura	|Aeromancer        	|	Mago	|	8	
+						Carta :Item	|Blizzard          	|	Mago	|	11	
+						Carta :Item	|Thunder Bolt      	|	Mago	|	10	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Mago ----- ForçaTotal: 33
+
+
+Vitórias de Profano : 2  Empates: (0)
+Vitórias de Humano : 2  Empates: (0)
+Vitórias de Mago : 6  Empates: (0)
+
+
+Vitórias limpas de Profano: 2
+Vitórias limpas de Humano: 2
+Vitórias limpas de Mago: 6
+
+
+Monstro-Humano
+Level Vencedor:	LEVEL-2              	 revelado:	5 	 vitórias:	2 	 rev-vito:	    1	(	50,00%	)
+Level Vencedor:	LEVEL-3              	 revelado:	3 	 vitórias:	2 	 rev-vito:	    0	(	100,00%	)
+
+Monstro-Mago
+Level Vencedor:	LEVEL-5              	 revelado:	2 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+Level Vencedor:	LEVEL-1              	 revelado:	6 	 vitórias:	3 	 rev-vito:	    0	(	100,00%	)
+Level Vencedor:	LEVEL-2              	 revelado:	5 	 vitórias:	2 	 rev-vito:	    0	(	100,00%	)
+Level Vencedor:	LEVEL-3              	 revelado:	3 	 vitórias:	2 	 rev-vito:	    1	(	50,00%	)
+Level Vencedor:	LEVEL-4              	 revelado:	4 	 vitórias:	2 	 rev-vito:	    0	(	100,00%	)
+
+Monstro-Profano
+Level Vencedor:	LEVEL-1              	 revelado:	6 	 vitórias:	3 	 rev-vito:	    1	(	50,00%	)
+Level Vencedor:	LEVEL-4              	 revelado:	4 	 vitórias:	2 	 rev-vito:	    1	(	50,00%	)
+
+
+
+
+Criatura Vencedora:	Mago    	-	Aeromancer           	 revelado:	2 	 vitórias:	1 	 rev-vito:	    1	(	50,00%	)
+Criatura Vencedora:	Profano    	-	Apprentice           	 revelado:	2 	 vitórias:	1 	 rev-vito:	    1	(	50,00%	)
+Criatura Vencedora:	Mago    	-	Arch Wizard          	 revelado:	1 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+Criatura Vencedora:	Profano    	-	Demonologist         	 revelado:	2 	 vitórias:	1 	 rev-vito:	    1	(	50,00%	)
+Criatura Vencedora:	Mago    	-	Hydromancer          	 revelado:	1 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+Criatura Vencedora:	Mago    	-	Master Mage          	 revelado:	1 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+Criatura Vencedora:	Humano    	-	Muay Thai            	 revelado:	1 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+Criatura Vencedora:	Mago    	-	Pyromancer           	 revelado:	2 	 vitórias:	2 	 rev-vito:	    0	(	100,00%	)
+Criatura Vencedora:	Humano    	-	Taekwondo            	 revelado:	2 	 vitórias:	1 	 rev-vito:	    1	(	50,00%	)
+
+
+
+Força das Vitórias: LEVEL-5        	  Min:	39	  Avg:	39,00	  Max:	39
+Força das Vitórias: LEVEL-1        	  Min:	17	  Avg:	24,67	  Max:	40
+Força das Vitórias: LEVEL-2        	  Min:	30	  Avg:	30,50	  Max:	31
+Força das Vitórias: LEVEL-3        	  Min:	33	  Avg:	37,50	  Max:	42
+Força das Vitórias: LEVEL-4        	  Min:	30	  Avg:	40,50	  Max:	51
+
+
+
+Força das Vitórias: Arch Wizard    	  Min:	39	  Avg:	39,00	  Max:	39
+Força das Vitórias: Demonologist   	  Min:	30	  Avg:	30,00	  Max:	30
+Força das Vitórias: Master Mage    	  Min:	51	  Avg:	51,00	  Max:	51
+Força das Vitórias: Pyromancer     	  Min:	17	  Avg:	17,00	  Max:	17
+Força das Vitórias: Muay Thai      	  Min:	42	  Avg:	42,00	  Max:	42
+Força das Vitórias: Taekwondo      	  Min:	31	  Avg:	31,00	  Max:	31
+Força das Vitórias: Hydromancer    	  Min:	30	  Avg:	30,00	  Max:	30
+Força das Vitórias: Aeromancer     	  Min:	33	  Avg:	33,00	  Max:	33
+Força das Vitórias: Apprentice     	  Min:	40	  Avg:	40,00	  Max:	40
+
+
+
+Força das Vitórias: Profano        	  Min:	30	  Avg:	35,00	  Max:	40
+Força das Vitórias: Humano         	  Min:	31	  Avg:	36,50	  Max:	42
+Força das Vitórias: Mago           	  Min:	17	  Avg:	31,17	  Max:	51
+
+Força das Vitórias: Profano        	 QntItensUsados:2	 Min:	30	  Avg:	30,00	  Max:	30 Count:1
+Força das Vitórias: Profano        	 QntItensUsados:3	 Min:	40	  Avg:	40,00	  Max:	40 Count:1
+
+Força das Vitórias: Humano         	 QntItensUsados:2	 Min:	31	  Avg:	31,00	  Max:	31 Count:1
+Força das Vitórias: Humano         	 QntItensUsados:3	 Min:	42	  Avg:	42,00	  Max:	42 Count:1
+
+Força das Vitórias: Mago           	 QntItensUsados:1	 Min:	17	  Avg:	17,00	  Max:	17 Count:2
+Força das Vitórias: Mago           	 QntItensUsados:2	 Min:	30	  Avg:	34,00	  Max:	39 Count:3
+Força das Vitórias: Mago           	 QntItensUsados:3	 Min:	51	  Avg:	51,00	  Max:	51 Count:1
+
+
+
+ Estatísticas de Combo Humano 
+
+ Combo Realizado:	KP	Quantidade:	1
+ Combo Realizado:	KPP	Quantidade:	1
+
+

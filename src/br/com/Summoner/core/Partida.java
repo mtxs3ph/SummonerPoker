@@ -14,7 +14,6 @@ import java.util.Comparator;
 import java.util.List;
 import org.apache.logging.log4j.Level;
 import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 
 
 /**
@@ -31,11 +30,12 @@ public class Partida {
     public static List<String> RetornaDecksPossiveis()
     {
         List<String> DecksPossiveis = new ArrayList<>();
-        DecksPossiveis.add(TipoMonstro.Fera.name());
+        DecksPossiveis.add(TipoMonstro.Berserker.name());
         DecksPossiveis.add(TipoMonstro.Humano.name());
         DecksPossiveis.add(TipoMonstro.Mago.name());
         DecksPossiveis.add(TipoMonstro.Profano.name());
         DecksPossiveis.add(TipoMonstro.Wizard.name());
+        DecksPossiveis.add(TipoMonstro.Fera.name());
         DecksPossiveis.add(TipoMonstro.Nenhum.name());
         return DecksPossiveis;
     }
@@ -43,8 +43,6 @@ public class Partida {
         this.Turnos = new ArrayList<>(Configuracoes.NumeroDeTurnos);
         MesaDaPartida = new Mesa();
         Jogadores = new ArrayList<>(Configuracoes.NumeroDeJogadores);
-        
-        
         
         for (int i = 0; i < Configuracoes.NumeroDeJogadores; i++) {
             Player a = new Player();

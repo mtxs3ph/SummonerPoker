@@ -17,5 +17,9 @@ public enum BerserkerEquipType {
     @EnumConstant("Espada")
     Espada,
     @EnumConstant("Armadura")
-    Armadura
+    Armadura,
+    @EnumConstant("Montaria")
+    Montaria,
+    @EnumConstant("Desconhecido")
+    Desconhecido
 }

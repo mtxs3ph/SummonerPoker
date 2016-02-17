@@ -1,0 +1,266 @@
+Dados Estatísticos - 17/02/2016 14:55:55
+Número de Jogadores: 2
+Número de Turnos: 10
+
+	Turno 1
+		Mesa
+				Item: ABC02             	|	Berserker	|	0	
+				Item: Pandoras Box      	|	Profano	|	10	
+				Item: Index Prohibitorum	|	Profano	|	11	
+				Item: Low Kick          	|	Humano	|	9	
+				Item: Thunder Bolt      	|	Mago	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Berserker ----- ForçaTotal: 7
+						Carta :Criatura	|Barbarian         	|	Berserker	|	7	
+						Carta :Item	|ABC02             	|	Berserker	|	0	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Mago ----- ForçaTotal: 20
+						Carta :Criatura	|Arch Wizard       	|	Mago	|	10	
+						Carta :Item	|Thunder Bolt      	|	Mago	|	10	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Mago ----- ForçaTotal: 20
+	Turno 2
+		Mesa
+				Item: Low Kick          	|	Humano	|	9	
+				Item: Frost Nova        	|	Mago	|	9	
+				Item: Middle Kick       	|	Humano	|	10	
+				Item: Dragon Punch      	|	Humano	|	12	
+				Item: Pandoras Box      	|	Profano	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Berserker ----- ForçaTotal: 7
+						Carta :Criatura	|Barbarian         	|	Berserker	|	7	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Mago ----- ForçaTotal: 34
+						Carta :Criatura	|Aeromancer        	|	Mago	|	8	
+						Carta :Item	|Blizzard          	|	Mago	|	11	
+						Carta :Item	|Frost Nova        	|	Mago	|	9	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Mago ----- ForçaTotal: 34
+	Turno 3
+		Mesa
+				Item: Ghost Chains      	|	Profano	|	9	
+				Item: Fireball          	|	Mago	|	11	
+				Item: Thunder Bolt      	|	Mago	|	10	
+				Item: ABC05             	|	Berserker	|	0	
+				Item: Tornado           	|	Mago	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Berserker ----- ForçaTotal: 6
+						Carta :Criatura	|Warrior           	|	Berserker	|	6	
+						Carta :Item	|ABC05             	|	Berserker	|	0	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Mago ----- ForçaTotal: 58
+						Carta :Criatura	|Hydromancer       	|	Mago	|	7	
+						Carta :Item	|Meteor Shower     	|	Mago	|	12	
+						Carta :Item	|Fireball          	|	Mago	|	11	
+						Carta :Item	|Thunder Bolt      	|	Mago	|	10	
+						Carta :Item	|Tornado           	|	Mago	|	11	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Mago ----- ForçaTotal: 58
+	Turno 4
+		Mesa
+				Item: Ghost Chains      	|	Profano	|	9	
+				Item: ABC02             	|	Berserker	|	0	
+				Item: ﻿Witchs Scepter   	|	Profano	|	9	
+				Item: ABC05             	|	Berserker	|	0	
+				Item: Ice Bolt          	|	Mago	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Humano ----- ForçaTotal: 6
+						Carta :Criatura	|Karate            	|	Humano	|	6	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Berserker ----- ForçaTotal: 7
+						Carta :Criatura	|Barbarian         	|	Berserker	|	7	
+						Carta :Item	|ABC02             	|	Berserker	|	0	
+						Carta :Item	|ABC05             	|	Berserker	|	0	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Berserker ----- ForçaTotal: 7
+	Turno 5
+		Mesa
+				Item: ABC03             	|	Berserker	|	0	
+				Item: ABC04             	|	Berserker	|	0	
+				Item: Pandoras Box      	|	Profano	|	10	
+				Item: Pentagram         	|	Profano	|	11	
+				Item: Blizzard          	|	Mago	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Berserker ----- ForçaTotal: 4
+						Carta :Criatura	|Warrior           	|	Berserker	|	6	
+						Carta :Item	|ABC03             	|	Berserker	|	0	
+						Carta :Item	|ABC04             	|	Berserker	|	0	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Profano ----- ForçaTotal: 31
+						Carta :Criatura	|Necromancer       	|	Profano	|	8	
+						Carta :Item	|Pandoras Box      	|	Profano	|	10	
+						Carta :Item	|Pentagram         	|	Profano	|	11	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Profano ----- ForçaTotal: 31
+	Turno 6
+		Mesa
+				Item: Thunder Bolt      	|	Mago	|	10	
+				Item: ABC07             	|	Berserker	|	0	
+				Item: Scorch            	|	Mago	|	9	
+				Item: ABC03             	|	Berserker	|	0	
+				Item: Meteor Shower     	|	Mago	|	12	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Mago ----- ForçaTotal: 43
+						Carta :Criatura	|Aeromancer        	|	Mago	|	8	
+						Carta :Item	|Thunder Bolt      	|	Mago	|	10	
+						Carta :Item	|Scorch            	|	Mago	|	9	
+						Carta :Item	|Meteor Shower     	|	Mago	|	12	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Mago ----- ForçaTotal: 39
+						Carta :Criatura	|Pyromancer        	|	Mago	|	6	
+						Carta :Item	|Thunder Bolt      	|	Mago	|	10	
+						Carta :Item	|Scorch            	|	Mago	|	9	
+						Carta :Item	|Meteor Shower     	|	Mago	|	12	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Mago ----- ForçaTotal: 43
+	Turno 7
+		Mesa
+				Item: Meteor Shower     	|	Mago	|	12	
+				Item: Straight Punch    	|	Humano	|	10	
+				Item: Dragon Punch      	|	Humano	|	12	
+				Item: Dragon Kick       	|	Humano	|	11	
+				Item: ABC10             	|	Berserker	|	0	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Humano ----- ForçaTotal: 51
+						Carta :Criatura	|Commando Sambo    	|	Humano	|	9	
+						Carta :Item	|Straight Punch    	|	Humano	|	10	
+						Carta :Item	|Dragon Punch      	|	Humano	|	12	
+						Carta :Item	|Dragon Kick       	|	Humano	|	11	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Berserker ----- ForçaTotal: 10
+						Carta :Criatura	|Troll             	|	Berserker	|	10	
+						Carta :Item	|ABC10             	|	Berserker	|	0	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Humano ----- ForçaTotal: 51
+	Turno 8
+		Mesa
+				Item: ABC03             	|	Berserker	|	0	
+				Item: Wind Blast        	|	Mago	|	9	
+				Item: Straight Punch    	|	Humano	|	10	
+				Item: Blizzard          	|	Mago	|	11	
+				Item: Dragon Punch      	|	Humano	|	12	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Berserker ----- ForçaTotal: 10
+						Carta :Criatura	|Troll             	|	Berserker	|	10	
+						Carta :Item	|ABC03             	|	Berserker	|	0	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Humano ----- ForçaTotal: 31
+						Carta :Criatura	|Commando Sambo    	|	Humano	|	9	
+						Carta :Item	|Straight Punch    	|	Humano	|	10	
+						Carta :Item	|Dragon Punch      	|	Humano	|	12	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Humano ----- ForçaTotal: 31
+	Turno 9
+		Mesa
+				Item: ﻿Witchs Scepter   	|	Profano	|	9	
+				Item: ABC04             	|	Berserker	|	0	
+				Item: Middle Kick       	|	Humano	|	10	
+				Item: Jab Punch         	|	Humano	|	9	
+				Item: Low Kick          	|	Humano	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Berserker ----- ForçaTotal: 9
+						Carta :Criatura	|Ogre              	|	Berserker	|	9	
+						Carta :Item	|ABC04             	|	Berserker	|	0	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Profano ----- ForçaTotal: 18
+						Carta :Criatura	|Demonologist      	|	Profano	|	9	
+						Carta :Item	|﻿Witchs Scepter   	|	Profano	|	9	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Profano ----- ForçaTotal: 18
+	Turno 10
+		Mesa
+				Item: ABC10             	|	Berserker	|	0	
+				Item: ABC03             	|	Berserker	|	0	
+				Item: Ghost Chains      	|	Profano	|	9	
+				Item: Middle Kick       	|	Humano	|	10	
+				Item: ABC01             	|	Berserker	|	0	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Berserker ----- ForçaTotal: 10
+						Carta :Criatura	|Troll             	|	Berserker	|	10	
+						Carta :Item	|ABC08             	|	Berserker	|	0	
+						Carta :Item	|ABC10             	|	Berserker	|	0	
+						Carta :Item	|ABC03             	|	Berserker	|	0	
+						Carta :Item	|ABC01             	|	Berserker	|	0	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Mago ----- ForçaTotal: 7
+						Carta :Criatura	|Hydromancer       	|	Mago	|	7	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Berserker ----- ForçaTotal: 10
+
+
+Vitórias de Berserker : 2  Empates: (0)
+Vitórias de Mago : 4  Empates: (0)
+Vitórias de Profano : 2  Empates: (0)
+Vitórias de Humano : 2  Empates: (0)
+
+
+Vitórias limpas de Berserker: 2
+Vitórias limpas de Mago: 4
+Vitórias limpas de Profano: 2
+Vitórias limpas de Humano: 2
+
+
+Monstro-Humano
+Level Vencedor:	LEVEL-4              	 revelado:	4 	 vitórias:	3 	 rev-vito:	    0	(	100,00%	)
+
+Monstro-Berserker
+Level Vencedor:	LEVEL-5              	 revelado:	4 	 vitórias:	2 	 rev-vito:	    2	(	33,33%	)
+Level Vencedor:	LEVEL-2              	 revelado:	5 	 vitórias:	2 	 rev-vito:	    2	(	33,33%	)
+
+Monstro-Mago
+Level Vencedor:	LEVEL-5              	 revelado:	4 	 vitórias:	2 	 rev-vito:	    0	(	100,00%	)
+Level Vencedor:	LEVEL-2              	 revelado:	5 	 vitórias:	2 	 rev-vito:	    1	(	50,00%	)
+Level Vencedor:	LEVEL-3              	 revelado:	3 	 vitórias:	3 	 rev-vito:	    0	(	100,00%	)
+
+Monstro-Profano
+Level Vencedor:	LEVEL-3              	 revelado:	3 	 vitórias:	3 	 rev-vito:	    0	(	100,00%	)
+Level Vencedor:	LEVEL-4              	 revelado:	4 	 vitórias:	3 	 rev-vito:	    0	(	100,00%	)
+
+
+
+
+Criatura Vencedora:	Mago    	-	Aeromancer           	 revelado:	2 	 vitórias:	2 	 rev-vito:	    0	(	100,00%	)
+Criatura Vencedora:	Mago    	-	Arch Wizard          	 revelado:	1 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+Criatura Vencedora:	Berserker    	-	Barbarian            	 revelado:	3 	 vitórias:	1 	 rev-vito:	    2	(	33,33%	)
+Criatura Vencedora:	Humano    	-	Commando Sambo       	 revelado:	2 	 vitórias:	2 	 rev-vito:	    0	(	100,00%	)
+Criatura Vencedora:	Profano    	-	Demonologist         	 revelado:	1 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+Criatura Vencedora:	Mago    	-	Hydromancer          	 revelado:	2 	 vitórias:	1 	 rev-vito:	    1	(	50,00%	)
+Criatura Vencedora:	Profano    	-	Necromancer          	 revelado:	1 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+Criatura Vencedora:	Berserker    	-	Troll                	 revelado:	3 	 vitórias:	1 	 rev-vito:	    2	(	33,33%	)
+
+
+
+Força das Vitórias: LEVEL-5        	  Min:	10	  Avg:	15,00	  Max:	20
+Força das Vitórias: LEVEL-2        	  Min:	7	  Avg:	32,50	  Max:	58
+Força das Vitórias: LEVEL-3        	  Min:	31	  Avg:	36,00	  Max:	43
+Força das Vitórias: LEVEL-4        	  Min:	18	  Avg:	33,33	  Max:	51
+
+
+
+Força das Vitórias: Arch Wizard    	  Min:	20	  Avg:	20,00	  Max:	20
+Força das Vitórias: Demonologist   	  Min:	18	  Avg:	18,00	  Max:	18
+Força das Vitórias: Barbarian      	  Min:	7	  Avg:	7,00	  Max:	7
+Força das Vitórias: Troll          	  Min:	10	  Avg:	10,00	  Max:	10
+Força das Vitórias: Necromancer    	  Min:	31	  Avg:	31,00	  Max:	31
+Força das Vitórias: Hydromancer    	  Min:	58	  Avg:	58,00	  Max:	58
+Força das Vitórias: Commando Sambo 	  Min:	31	  Avg:	41,00	  Max:	51
+Força das Vitórias: Aeromancer     	  Min:	34	  Avg:	38,50	  Max:	43
+
+
+
+Força das Vitórias: Berserker      	  Min:	7	  Avg:	8,50	  Max:	10
+Força das Vitórias: Mago           	  Min:	20	  Avg:	38,75	  Max:	58
+Força das Vitórias: Profano        	  Min:	18	  Avg:	24,50	  Max:	31
+Força das Vitórias: Humano         	  Min:	31	  Avg:	41,00	  Max:	51
+
+Força das Vitórias: Berserker      	 QntItensUsados:2	 Min:	7	  Avg:	7,00	  Max:	7 Count:1
+Força das Vitórias: Berserker      	 QntItensUsados:4	 Min:	10	  Avg:	10,00	  Max:	10 Count:1
+
+Força das Vitórias: Mago           	 QntItensUsados:1	 Min:	20	  Avg:	20,00	  Max:	20 Count:1
+Força das Vitórias: Mago           	 QntItensUsados:2	 Min:	34	  Avg:	34,00	  Max:	34 Count:1
+Força das Vitórias: Mago           	 QntItensUsados:3	 Min:	43	  Avg:	43,00	  Max:	43 Count:1
+Força das Vitórias: Mago           	 QntItensUsados:4	 Min:	58	  Avg:	58,00	  Max:	58 Count:1
+
+Força das Vitórias: Profano        	 QntItensUsados:1	 Min:	18	  Avg:	18,00	  Max:	18 Count:1
+Força das Vitórias: Profano        	 QntItensUsados:2	 Min:	31	  Avg:	31,00	  Max:	31 Count:1
+
+Força das Vitórias: Humano         	 QntItensUsados:2	 Min:	31	  Avg:	31,00	  Max:	31 Count:1
+Força das Vitórias: Humano         	 QntItensUsados:3	 Min:	51	  Avg:	51,00	  Max:	51 Count:1
+
+
+
+ Estatísticas de Combo Humano 
+
+ Combo Realizado:	KPP	Quantidade:	1
+
+

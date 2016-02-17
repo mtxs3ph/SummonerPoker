@@ -22,6 +22,8 @@ public enum TipoMonstro {
         Profano,
     @EnumConstant("Mago")
         Mago,
+    @EnumConstant("Berserker")
+        Berserker,
     @EnumConstant(" ")
         Nenhum
 }

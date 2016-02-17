@@ -12,6 +12,7 @@ import br.com.Summoner.core.base.cartas.humano.*;
 import br.com.Summoner.core.base.cartas.mago.MagoCard;
 import br.com.Summoner.core.base.cartas.mago.MagoItemCard;
 import br.com.Summoner.core.base.cartas.profano.*;
+import br.com.Summoner.core.base.cartas.berserker.*;
 import br.com.Summoner.core.base.cartas.wizard.WizardCard;
 import br.com.Summoner.core.base.cartas.wizard.WizardItemCard;
 import br.com.Summoner.core.base.interfaces.IDeck;
@@ -75,6 +76,13 @@ public final class Deck implements IDeck {
                         Cartas.addAll((List) CardLoader.GetCardList(WizardCard.class, Configuracoes.CaminhoCSVMonstros));
                     }
                     break;
+                case "Berserker":
+                    if (tipoDeck == TipoDeck.Item) {
+                        Cartas.addAll((List) CardLoader.GetCardList(BerserkerItemCard.class, Configuracoes.CaminhoCSVItens));
+                    } else {
+                        Cartas.addAll((List) CardLoader.GetCardList(BerserkerCard.class, Configuracoes.CaminhoCSVMonstros));
+                    }
+                    break;    
                 default:
                     break;
             }

@@ -1,0 +1,255 @@
+Dados Estatísticos - 17/02/2016 11:36:43
+Número de Jogadores: 2
+Número de Turnos: 10
+
+	Turno 1
+		Mesa
+				Item: Ice Bolt          	|	Mago	|	10	
+				Item: Ghost Chains      	|	Profano	|	9	
+				Item: Scorch            	|	Mago	|	9	
+				Item: Straight Punch    	|	Humano	|	10	
+				Item: Blizzard          	|	Mago	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Profano ----- ForçaTotal: 19
+						Carta :Criatura	|Necromancer       	|	Profano	|	8	
+						Carta :Item	|Ghost Chains      	|	Profano	|	9	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Humano ----- ForçaTotal: 15
+						Carta :Criatura	|Taekwondo         	|	Humano	|	7	
+						Carta :Item	|Straight Punch    	|	Humano	|	10	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Profano ----- ForçaTotal: 19
+	Turno 2
+		Mesa
+				Item: Dual Wield Axe    	|	Fera	|	10	
+				Item: Tornado           	|	Mago	|	11	
+				Item: Pandoras Box      	|	Profano	|	10	
+				Item: Ice Bolt          	|	Mago	|	10	
+				Item: Cauldron of Souls 	|	Profano	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Fera ----- ForçaTotal: 18
+						Carta :Criatura	|Giant             	|	Fera	|	8	
+						Carta :Item	|Dual Wield Axe    	|	Fera	|	10	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Fera ----- ForçaTotal: 20
+						Carta :Criatura	|Troll             	|	Fera	|	10	
+						Carta :Item	|Dual Wield Axe    	|	Fera	|	10	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Fera ----- ForçaTotal: 20
+	Turno 3
+		Mesa
+				Item: Throwing Knife    	|	Fera	|	9	
+				Item: Pentagram         	|	Profano	|	11	
+				Item: Sacrificial Knife 	|	Profano	|	9	
+				Item: Bastard Sword     	|	Fera	|	11	
+				Item: Long Sword        	|	Fera	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Humano ----- ForçaTotal: 7
+						Carta :Criatura	|Taekwondo         	|	Humano	|	7	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Humano ----- ForçaTotal: 20
+						Carta :Criatura	|Jeet Kune Do      	|	Humano	|	10	
+						Carta :Item	|Middle Kick       	|	Humano	|	10	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Humano ----- ForçaTotal: 20
+	Turno 4
+		Mesa
+				Item: Battle Axe        	|	Fera	|	12	
+				Item: Warhammer         	|	Fera	|	11	
+				Item: Ogre Club         	|	Fera	|	10	
+				Item: Middle Kick       	|	Humano	|	10	
+				Item: Ghost Chains      	|	Profano	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Mago ----- ForçaTotal: 15
+						Carta :Criatura	|Pyromancer        	|	Mago	|	6	
+						Carta :Item	|Wind Blast        	|	Mago	|	9	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Humano ----- ForçaTotal: 19
+						Carta :Criatura	|Commando Sambo    	|	Humano	|	9	
+						Carta :Item	|Middle Kick       	|	Humano	|	10	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Humano ----- ForçaTotal: 19
+	Turno 5
+		Mesa
+				Item: Tornado           	|	Mago	|	11	
+				Item: Throwing Knife    	|	Fera	|	9	
+				Item: Dragon Kick       	|	Humano	|	11	
+				Item: Long Sword        	|	Fera	|	10	
+				Item: Index Prohibitorum	|	Profano	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Mago ----- ForçaTotal: 18
+						Carta :Criatura	|Hydromancer       	|	Mago	|	7	
+						Carta :Item	|Tornado           	|	Mago	|	11	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Profano ----- ForçaTotal: 20
+						Carta :Criatura	|Demonologist      	|	Profano	|	9	
+						Carta :Item	|Index Prohibitorum	|	Profano	|	11	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Profano ----- ForçaTotal: 20
+	Turno 6
+		Mesa
+				Item: Ghost Chains      	|	Profano	|	9	
+				Item: Jab Punch         	|	Humano	|	9	
+				Item: Middle Kick       	|	Humano	|	10	
+				Item: Knee Kick         	|	Humano	|	10	
+				Item: Double Edge Sword 	|	Fera	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Humano ----- ForçaTotal: 38
+						Carta :Criatura	|Commando Sambo    	|	Humano	|	9	
+						Carta :Item	|Jab Punch         	|	Humano	|	9	
+						Carta :Item	|Middle Kick       	|	Humano	|	10	
+						Carta :Item	|Knee Kick         	|	Humano	|	10	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Humano ----- ForçaTotal: 39
+						Carta :Criatura	|Jeet Kune Do      	|	Humano	|	10	
+						Carta :Item	|Jab Punch         	|	Humano	|	9	
+						Carta :Item	|Middle Kick       	|	Humano	|	10	
+						Carta :Item	|Knee Kick         	|	Humano	|	10	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Humano ----- ForçaTotal: 39
+	Turno 7
+		Mesa
+				Item: Low Kick          	|	Humano	|	9	
+				Item: Pandoras Box      	|	Profano	|	10	
+				Item: Dragon Kick       	|	Humano	|	11	
+				Item: Haunted Doll      	|	Profano	|	10	
+				Item: Wind Blast        	|	Mago	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Fera ----- ForçaTotal: 6
+						Carta :Criatura	|Warrior           	|	Fera	|	6	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Mago ----- ForçaTotal: 28
+						Carta :Criatura	|Arch Wizard       	|	Mago	|	10	
+						Carta :Item	|Frost Nova        	|	Mago	|	9	
+						Carta :Item	|Wind Blast        	|	Mago	|	9	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Mago ----- ForçaTotal: 28
+	Turno 8
+		Mesa
+				Item: Iron Claws        	|	Fera	|	9	
+				Item: Tornado           	|	Mago	|	11	
+				Item: Blizzard          	|	Mago	|	11	
+				Item: Jab Punch         	|	Humano	|	9	
+				Item: Low Kick          	|	Humano	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Profano ----- ForçaTotal: 6
+						Carta :Criatura	|Apprentice        	|	Profano	|	6	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Humano ----- ForçaTotal: 27
+						Carta :Criatura	|Commando Sambo    	|	Humano	|	9	
+						Carta :Item	|Jab Punch         	|	Humano	|	9	
+						Carta :Item	|Low Kick          	|	Humano	|	9	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Humano ----- ForçaTotal: 27
+	Turno 9
+		Mesa
+				Item: Warhammer         	|	Fera	|	11	
+				Item: Dragon Kick       	|	Humano	|	11	
+				Item: Knee Kick         	|	Humano	|	10	
+				Item: Straight Punch    	|	Humano	|	10	
+				Item: Index Prohibitorum	|	Profano	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Profano ----- ForçaTotal: 30
+						Carta :Criatura	|Apprentice        	|	Profano	|	6	
+						Carta :Item	|Demons Horn       	|	Profano	|	12	
+						Carta :Item	|Index Prohibitorum	|	Profano	|	11	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Humano ----- ForçaTotal: 36
+						Carta :Criatura	|Karate            	|	Humano	|	6	
+						Carta :Item	|Dragon Kick       	|	Humano	|	11	
+						Carta :Item	|Knee Kick         	|	Humano	|	10	
+						Carta :Item	|Straight Punch    	|	Humano	|	10	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Humano ----- ForçaTotal: 36
+	Turno 10
+		Mesa
+				Item: Bastard Sword     	|	Fera	|	11	
+				Item: Double Edge Sword 	|	Fera	|	11	
+				Item: Jab Punch         	|	Humano	|	9	
+				Item: Scorch            	|	Mago	|	9	
+				Item: Ghost Chains      	|	Profano	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Humano ----- ForçaTotal: 15
+						Carta :Criatura	|Karate            	|	Humano	|	6	
+						Carta :Item	|Jab Punch         	|	Humano	|	9	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Mago ----- ForçaTotal: 15
+						Carta :Criatura	|Pyromancer        	|	Mago	|	6	
+						Carta :Item	|Scorch            	|	Mago	|	9	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Humano ----- ForçaTotal: 15
+				Player: Jogador 02 ----- Criatura: Mago ----- ForçaTotal: 15
+
+
+Vitórias de Mago : 2  Empates: (1)
+Vitórias de Humano : 6  Empates: (1)
+Vitórias de Profano : 2  Empates: (0)
+Vitórias de Fera : 1  Empates: (0)
+
+
+Vitórias limpas de Mago: 1
+Vitórias limpas de Humano: 5
+Vitórias limpas de Profano: 2
+Vitórias limpas de Fera: 1
+
+
+Monstro-Humano
+Level Vencedor:	LEVEL-5              	 revelado:	4 	 vitórias:	4 	 rev-vito:	    0	(	100,00%	)
+Level Vencedor:	LEVEL-1              	 revelado:	7 	 vitórias:	3 	 rev-vito:	    0	(	100,00%	)
+Level Vencedor:	LEVEL-4              	 revelado:	4 	 vitórias:	3 	 rev-vito:	    1	(	66,67%	)
+
+Monstro-Mago
+Level Vencedor:	LEVEL-5              	 revelado:	4 	 vitórias:	4 	 rev-vito:	    0	(	100,00%	)
+Level Vencedor:	LEVEL-1              	 revelado:	7 	 vitórias:	3 	 rev-vito:	    1	(	50,00%	)
+
+Monstro-Profano
+Level Vencedor:	LEVEL-3              	 revelado:	2 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+Level Vencedor:	LEVEL-4              	 revelado:	4 	 vitórias:	3 	 rev-vito:	    0	(	100,00%	)
+
+Monstro-Fera
+Level Vencedor:	LEVEL-5              	 revelado:	4 	 vitórias:	4 	 rev-vito:	    0	(	100,00%	)
+
+
+
+
+Criatura Vencedora:	Mago    	-	Arch Wizard          	 revelado:	1 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+Criatura Vencedora:	Humano    	-	Commando Sambo       	 revelado:	3 	 vitórias:	2 	 rev-vito:	    1	(	66,67%	)
+Criatura Vencedora:	Profano    	-	Demonologist         	 revelado:	1 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+Criatura Vencedora:	Humano    	-	Jeet Kune Do         	 revelado:	2 	 vitórias:	2 	 rev-vito:	    0	(	100,00%	)
+Criatura Vencedora:	Humano    	-	Karate               	 revelado:	2 	 vitórias:	2 	 rev-vito:	    0	(	100,00%	)
+Criatura Vencedora:	Profano    	-	Necromancer          	 revelado:	1 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+Criatura Vencedora:	Mago    	-	Pyromancer           	 revelado:	2 	 vitórias:	1 	 rev-vito:	    1	(	50,00%	)
+Criatura Vencedora:	Fera    	-	Troll                	 revelado:	1 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+
+
+
+Força das Vitórias: LEVEL-5        	  Min:	20	  Avg:	26,75	  Max:	39
+Força das Vitórias: LEVEL-1        	  Min:	15	  Avg:	22,00	  Max:	36
+Força das Vitórias: LEVEL-3        	  Min:	19	  Avg:	19,00	  Max:	19
+Força das Vitórias: LEVEL-4        	  Min:	19	  Avg:	22,00	  Max:	27
+
+
+
+Força das Vitórias: Karate         	  Min:	15	  Avg:	25,50	  Max:	36
+Força das Vitórias: Arch Wizard    	  Min:	28	  Avg:	28,00	  Max:	28
+Força das Vitórias: Demonologist   	  Min:	20	  Avg:	20,00	  Max:	20
+Força das Vitórias: Troll          	  Min:	20	  Avg:	20,00	  Max:	20
+Força das Vitórias: Jeet Kune Do   	  Min:	20	  Avg:	29,50	  Max:	39
+Força das Vitórias: Pyromancer     	  Min:	15	  Avg:	15,00	  Max:	15
+Força das Vitórias: Necromancer    	  Min:	19	  Avg:	19,00	  Max:	19
+Força das Vitórias: Commando Sambo 	  Min:	19	  Avg:	23,00	  Max:	27
+
+
+
+Força das Vitórias: Mago           	  Min:	15	  Avg:	21,50	  Max:	28
+Força das Vitórias: Humano         	  Min:	15	  Avg:	26,00	  Max:	39
+Força das Vitórias: Profano        	  Min:	19	  Avg:	19,50	  Max:	20
+Força das Vitórias: Fera           	  Min:	20	  Avg:	20,00	  Max:	20
+
+Força das Vitórias: Mago           	 QntItensUsados:1	 Min:	15	  Avg:	15,00	  Max:	15 Count:1
+Força das Vitórias: Mago           	 QntItensUsados:2	 Min:	28	  Avg:	28,00	  Max:	28 Count:1
+
+Força das Vitórias: Humano         	 QntItensUsados:1	 Min:	15	  Avg:	18,00	  Max:	20 Count:3
+Força das Vitórias: Humano         	 QntItensUsados:2	 Min:	27	  Avg:	27,00	  Max:	27 Count:1
+Força das Vitórias: Humano         	 QntItensUsados:3	 Min:	36	  Avg:	37,50	  Max:	39 Count:2
+
+Força das Vitórias: Profano        	 QntItensUsados:1	 Min:	19	  Avg:	19,50	  Max:	20 Count:2
+
+Força das Vitórias: Fera           	 QntItensUsados:1	 Min:	20	  Avg:	20,00	  Max:	20 Count:1
+
+
+
+ Estatísticas de Combo Humano 
+
+
+

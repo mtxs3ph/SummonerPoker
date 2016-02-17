@@ -16,11 +16,11 @@ import org.jsefa.rbf.annotation.Record;
  *
  * @author dferreira
  */
-@CsvDataType()
+@CsvDataType(defaultPrefix = "Item")
 public class HumanItemCard extends Card {
 
-    @CsvSubRecordList(pos = 6, records = @Record(prefix = "Golpe"))
-    List<HumanAtack> Golpes;
+    @CsvSubRecordList(pos = 6, records = @Record(prefix = "Golp"))
+    List<HumanItemAttack> Golpes;
     
     @Override
     public long CalculaBonus(Jogada jogada, List<Card> listaMonstrosAdversarios) {

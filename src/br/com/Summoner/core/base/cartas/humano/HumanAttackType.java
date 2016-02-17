@@ -5,14 +5,15 @@
  */
 package br.com.Summoner.core.base.cartas.humano;
 
-import org.jsefa.csv.annotation.CsvField;
+import org.jsefa.common.converter.EnumConstant;
 
 /**
  *
  * @author dferreira
  */
-public class HumanAtack {
-    
-    @CsvField(pos = 1)
-    HumanAtackType tipoGolpe;
+public enum HumanAttackType {
+    @EnumConstant("P")
+    P,
+    @EnumConstant("K")
+    K
 }

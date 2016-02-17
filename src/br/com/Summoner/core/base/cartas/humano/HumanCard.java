@@ -37,12 +37,11 @@ public class HumanCard extends Card {
         long forcaBonus = 0;
 
         if (cartasUtilizadasCombo.size() > 0) {
-//            String[] golpesCombo = cartasUtilizadasCombo.stream().map(carta -> ((HumanItemCard) carta).tipoGolpe.toString()).collect(Collectors.joining()).split("");
-            String[] golpesCombo = {};
+            String[] golpesCombo = cartasUtilizadasCombo.stream().map(carta -> ((HumanItemCard) carta).Golpes.stream().map(golpe -> golpe.tipoGolpe.toString()).collect(Collectors.joining())).collect(Collectors.joining()).split("");
             Arrays.sort(golpesCombo);
             String comboRealizado = StringUtils.join(Arrays.asList(golpesCombo), "");
             comboResult.ComboRealizado = comboRealizado;
-//            comboResult.CombosCarta.addAll(this.Combos);
+//          comboResult.CombosCarta.addAll(this.Combos);
 
             for (int i = 0; i < this.Combos.size(); i++) {
                 HumanMonsterCombo combo = this.Combos.get(i);

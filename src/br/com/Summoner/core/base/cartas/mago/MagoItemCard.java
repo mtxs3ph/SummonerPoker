@@ -17,7 +17,7 @@ import org.jsefa.rbf.annotation.Record;
  *
  * @author dferreira
  */
-@CsvDataType()
+@CsvDataType(defaultPrefix = "Items")
 public class MagoItemCard extends Card {
 
     @CsvSubRecordList(pos = 6, records = @Record(prefix = "Eleme"))

@@ -5,13 +5,14 @@
  */
 package br.com.Summoner.core.base.cartas.berserker;
 
-import br.com.Summoner.core.base.tipos.TipoMonstro;
+import org.jsefa.csv.annotation.CsvDataType;
 import org.jsefa.csv.annotation.CsvField;
 
 /**
  *
  * @author dferreira
  */
+@CsvDataType(defaultPrefix="Equip") 
 public class BerserkerEquipamentos {
   
     @CsvField(pos = 1)
