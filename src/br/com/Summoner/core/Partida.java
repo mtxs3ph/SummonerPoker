@@ -30,10 +30,10 @@ public class Partida {
     public static List<String> RetornaDecksPossiveis()
     {
         List<String> DecksPossiveis = new ArrayList<>();
-        DecksPossiveis.add(TipoMonstro.Berserker.name());
-        DecksPossiveis.add(TipoMonstro.Humano.name());
-        DecksPossiveis.add(TipoMonstro.Mago.name());
-        DecksPossiveis.add(TipoMonstro.Profano.name());
+        DecksPossiveis.add(TipoMonstro.Warrior.name());
+        DecksPossiveis.add(TipoMonstro.Monk.name());
+        DecksPossiveis.add(TipoMonstro.Mage.name());
+        DecksPossiveis.add(TipoMonstro.Warlock.name());
         DecksPossiveis.add(TipoMonstro.Wizard.name());
         DecksPossiveis.add(TipoMonstro.Fera.name());
         DecksPossiveis.add(TipoMonstro.Nenhum.name());

@@ -9,7 +9,7 @@ import br.com.Summoner.core.Configuracoes;
 import br.com.Summoner.core.Jogada;
 import br.com.Summoner.core.Partida;
 import br.com.Summoner.core.Turno;
-import br.com.Summoner.core.base.cartas.humano.HumanCard;
+import br.com.Summoner.core.base.cartas.monk.MonkCard;
 import br.com.Summoner.core.base.interfaces.Card;
 import br.com.Summoner.core.base.tipos.TipoCarta;
 import br.com.Summoner.core.base.tipos.TipoMonstro;
@@ -330,7 +330,7 @@ public class Estatisticas {
             
         }
 
-        HumanCard.GeraEstatisca(strbRelat);
+        MonkCard.GeraEstatisca(strbRelat);
         
         FileIO.WriteStingToFile(strbRelat.toString(), Configuracoes.CaminhoDestinoEstatisticas + String.format("RelatorioAnalitico_%1$s.txt", new SimpleDateFormat("yyyyMMddHHmmss").format(new Date())));
     }

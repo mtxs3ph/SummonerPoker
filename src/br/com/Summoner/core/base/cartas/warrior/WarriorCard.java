@@ -3,9 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.com.Summoner.core.base.cartas.berserker;
+package br.com.Summoner.core.base.cartas.warrior;
 
-import br.com.Summoner.core.base.cartas.berserker.*;
 import br.com.Summoner.core.Jogada;
 import br.com.Summoner.core.base.interfaces.Card;
 import br.com.Summoner.core.base.tipos.TipoCarta;
@@ -24,25 +23,25 @@ import org.jsefa.rbf.annotation.Record;
  * @author dferreira
  */
 @CsvDataType(defaultPrefix = "Monst")
-public class BerserkerCard extends Card {
+public class WarriorCard extends Card {
 
     @CsvSubRecordList(pos = 6, records = @Record(prefix = "Setco"))
-    List<BerserkerSet> BonusSet;
+    List<WarriorSet> BonusSet;
 
     @Override
     public long CalculaBonus(Jogada jogada, List<Card> listaMonstrosAdversarios) {
         long bonusDoSet = 0;
-        List<BerserkerEquipType> equipamentosNosItens = jogada.CartasUtilizadas.stream().filter(item -> item.TipoCarta == TipoCarta.Item).map(item -> ((BerserkerItemCard) item).Equipamentos.stream().map(equip -> equip.Equipamento)).flatMap(item -> item).distinct().collect(Collectors.toList());
+        List<WarriorEquipType> equipamentosNosItens = jogada.CartasUtilizadas.stream().filter(item -> item.TipoCarta == TipoCarta.Item).map(item -> ((WarriorItemCard) item).Equipamentos.stream().map(equip -> equip.Equipamento)).flatMap(item -> item).distinct().collect(Collectors.toList());
         
-        for (BerserkerSet set : this.BonusSet) {
+        for (WarriorSet set : this.BonusSet) {
             long bonusSetAtual = 0;
             
-            List<BerserkerEquipType> listaEquipamentosNoSet = set.Equipamentos.stream().map(equip -> equip.Equipamento).collect(Collectors.toList());
+            List<WarriorEquipType> listaEquipamentosNoSet = set.Equipamentos.stream().map(equip -> equip.Equipamento).collect(Collectors.toList());
             
-            for (BerserkerEquipType equipeNoItem : equipamentosNosItens)
+            for (WarriorEquipType equipeNoItem : equipamentosNosItens)
             {
-               BerserkerEquipType referenciaEncontrada = listaEquipamentosNoSet.stream().filter(equip -> equip == equipeNoItem).findFirst().orElse(BerserkerEquipType.Desconhecido);
-               if (referenciaEncontrada!= BerserkerEquipType.Desconhecido)
+               WarriorEquipType referenciaEncontrada = listaEquipamentosNoSet.stream().filter(equip -> equip == equipeNoItem).findFirst().orElse(WarriorEquipType.Desconhecido);
+               if (referenciaEncontrada!= WarriorEquipType.Desconhecido)
                 listaEquipamentosNoSet.remove(referenciaEncontrada);
             }
             

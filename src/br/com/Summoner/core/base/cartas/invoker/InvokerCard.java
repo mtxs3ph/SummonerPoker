@@ -9,13 +9,10 @@ package br.com.Summoner.core.base.cartas.invoker;
 import br.com.Summoner.core.Jogada;
 import br.com.Summoner.core.base.interfaces.Card;
 
-import java.util.Arrays;
 
 import java.util.List;
 import java.util.stream.Collectors;
-import org.apache.commons.lang.StringUtils;
 import org.jsefa.csv.annotation.CsvDataType;
-import org.jsefa.csv.annotation.CsvField;
 
 import org.jsefa.csv.annotation.CsvSubRecordList;
 import org.jsefa.rbf.annotation.Record;
@@ -32,7 +29,7 @@ public class InvokerCard extends Card {
 
     @Override
     public long CalculaBonus(Jogada jogada, List<Card> listaMonstrosAdversarios) {
-        List<Card> cartasUtilizadasCombo = jogada.CartasUtilizadas.stream().filter(carta -> carta.TipoCarta == TipoCarta.Item && carta.TipoMonstro == TipoMonstro.Humano).collect(Collectors.toList());
+        List<Card> cartasUtilizadasCombo = jogada.CartasUtilizadas.stream().filter(carta -> carta.TipoCarta == TipoCarta.Item && carta.TipoMonstro == TipoMonstro.Monk).collect(Collectors.toList());
         
         long forcaBonus = 0;
 

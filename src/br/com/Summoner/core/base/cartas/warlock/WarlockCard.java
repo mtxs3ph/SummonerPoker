@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.com.Summoner.core.base.cartas.profano;
+package br.com.Summoner.core.base.cartas.warlock;
 
 import br.com.Summoner.UI.FXMLDocumentController;
 import br.com.Summoner.core.Jogada;
@@ -28,10 +28,10 @@ import org.jsefa.rbf.annotation.Record;
  * @author dferreira
  */
 @CsvDataType(defaultPrefix = "Monst")
-public class ProfanoCard extends Card {
+public class WarlockCard extends Card {
 
     @CsvSubRecordList(pos = 6, records = @Record(prefix = "Drain"))
-    public List<ProfanoResourceGain> ListaGanhoMana;
+    public List<WarlockResourceGain> ListaGanhoMana;
 
     @Override
     public long CalculaBonus(Jogada jogada, List<Card> listaMonstrosAdversarios) {
@@ -46,13 +46,13 @@ public class ProfanoCard extends Card {
         boolean singleTarget = true;
 
         if (itens.size() > 0) {
-            valorRecursoDark = itens.stream().collect(Collectors.summarizingLong(mapper -> ((ProfanoItemCard) mapper).DarkEnergy)).getSum();
+            valorRecursoDark = itens.stream().collect(Collectors.summarizingLong(mapper -> ((WarlockItemCard) mapper).DarkEnergy)).getSum();
         }
 
         if (valorRecursoDark > 0) {
             long valorPrevisto = 0;
             for (int i = 0; i < this.ListaGanhoMana.size(); i++) {
-                ProfanoResourceGain recurso = this.ListaGanhoMana.get(i);
+                WarlockResourceGain recurso = this.ListaGanhoMana.get(i);
                 if (valorRecursoDark >= recurso.MinGrimorio && valorRecursoDark <= recurso.MaxGrimorio) {
 
                     if (recurso.SingleTarget) {

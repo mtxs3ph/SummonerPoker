@@ -1,32 +1,32 @@
-Monst;Karate;Criatura;Humano;6;1
+Monst;Karate;Criatura;Monk;6;1
 Combo;PK;2;;
 Combo;PP;3;;
 Combo;PPK;4;;
 Combo;PPP;5;;
 Combo;PPPP;6;;
 Combo;PPPPP;9;;
-Monst;Taekwondo;Criatura;Humano;7;2
+Monst;Taekwondo;Criatura;Monk;7;2
 Combo;PK;3;;
 Combo;KK;4;;
 Combo;KKP;5;;
 Combo;KKK;6;;
 Combo;KKKK;7;;
 Combo;KKKKK;10;;
-Monst;Muay Thai;Criatura;Humano;8;3
+Monst;Muay Thai;Criatura;Monk;8;3
 Combo;PP;4;;
 Combo;KK;5;;
 Combo;PPK;6;;
 Combo;PKK;7;;
 Combo;PKKK;9;;
 Combo;PPKKK;11;;
-Monst;Commando Sambo;Criatura;Humano;9;4
+Monst;Commando Sambo;Criatura;Monk;9;4
 Combo;PK;5;;
 Combo;KK;6;;
 Combo;PPK;7;;
 Combo;KKP;8;;
 Combo;PPK;9;;
 Combo;PPPKK;11;;
-Monst;Jeet Kune Do;Criatura;Humano;10;5
+Monst;Jeet Kune Do;Criatura;Monk;10;5
 Combo;PK;6;;
 Combo;PP;7;;
 Combo;PPK;8;;

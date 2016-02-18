@@ -5,14 +5,17 @@
  */
 package br.com.Summoner.core.base;
 
+import br.com.Summoner.core.base.cartas.warlock.WarlockCard;
+import br.com.Summoner.core.base.cartas.warlock.WarlockItemCard;
+import br.com.Summoner.core.base.cartas.monk.MonkItemCard;
+import br.com.Summoner.core.base.cartas.monk.MonkCard;
+import br.com.Summoner.core.base.cartas.warrior.WarriorItemCard;
+import br.com.Summoner.core.base.cartas.warrior.WarriorCard;
 import br.com.Summoner.core.Configuracoes;
 import br.com.Summoner.core.base.cartas.CardLoader;
 import br.com.Summoner.core.base.cartas.fera.*;
-import br.com.Summoner.core.base.cartas.humano.*;
-import br.com.Summoner.core.base.cartas.mago.MagoCard;
-import br.com.Summoner.core.base.cartas.mago.MagoItemCard;
-import br.com.Summoner.core.base.cartas.profano.*;
-import br.com.Summoner.core.base.cartas.berserker.*;
+import br.com.Summoner.core.base.cartas.mage.MageCard;
+import br.com.Summoner.core.base.cartas.mage.MageItemCard;
 import br.com.Summoner.core.base.cartas.wizard.WizardCard;
 import br.com.Summoner.core.base.cartas.wizard.WizardItemCard;
 import br.com.Summoner.core.base.interfaces.IDeck;
@@ -50,23 +53,23 @@ public final class Deck implements IDeck {
                     break;
                 case "Mago":
                     if (tipoDeck == TipoDeck.Item) {
-                        Cartas.addAll((List) CardLoader.GetCardList(MagoItemCard.class, Configuracoes.CaminhoCSVItens));
+                        Cartas.addAll((List) CardLoader.GetCardList(MageItemCard.class, Configuracoes.CaminhoCSVItens));
                     } else {
-                        Cartas.addAll((List) CardLoader.GetCardList(MagoCard.class, Configuracoes.CaminhoCSVMonstros));
+                        Cartas.addAll((List) CardLoader.GetCardList(MageCard.class, Configuracoes.CaminhoCSVMonstros));
                     }
                     break;
-                case "Humano":
+                case "Monk":
                     if (tipoDeck == TipoDeck.Item) {
-                        Cartas.addAll((List) CardLoader.GetCardList(HumanItemCard.class, Configuracoes.CaminhoCSVItens));
+                        Cartas.addAll((List) CardLoader.GetCardList(MonkItemCard.class, Configuracoes.CaminhoCSVItens));
                     } else {
-                        Cartas.addAll((List) CardLoader.GetCardList(HumanCard.class, Configuracoes.CaminhoCSVMonstros));
+                        Cartas.addAll((List) CardLoader.GetCardList(MonkCard.class, Configuracoes.CaminhoCSVMonstros));
                     }
                     break;
-                case "Profano":
+                case "Warlock":
                     if (tipoDeck == TipoDeck.Item) {
-                        Cartas.addAll((List) CardLoader.GetCardList(ProfanoItemCard.class, Configuracoes.CaminhoCSVItens));
+                        Cartas.addAll((List) CardLoader.GetCardList(WarlockItemCard.class, Configuracoes.CaminhoCSVItens));
                     } else {
-                        Cartas.addAll((List) CardLoader.GetCardList(ProfanoCard.class, Configuracoes.CaminhoCSVMonstros));
+                        Cartas.addAll((List) CardLoader.GetCardList(WarlockCard.class, Configuracoes.CaminhoCSVMonstros));
                     }
                     break;
                 case "Wizard":
@@ -76,11 +79,11 @@ public final class Deck implements IDeck {
                         Cartas.addAll((List) CardLoader.GetCardList(WizardCard.class, Configuracoes.CaminhoCSVMonstros));
                     }
                     break;
-                case "Berserker":
+                case "Warrior":
                     if (tipoDeck == TipoDeck.Item) {
-                        Cartas.addAll((List) CardLoader.GetCardList(BerserkerItemCard.class, Configuracoes.CaminhoCSVItens));
+                        Cartas.addAll((List) CardLoader.GetCardList(WarriorItemCard.class, Configuracoes.CaminhoCSVItens));
                     } else {
-                        Cartas.addAll((List) CardLoader.GetCardList(BerserkerCard.class, Configuracoes.CaminhoCSVMonstros));
+                        Cartas.addAll((List) CardLoader.GetCardList(WarriorCard.class, Configuracoes.CaminhoCSVMonstros));
                     }
                     break;    
                 default:

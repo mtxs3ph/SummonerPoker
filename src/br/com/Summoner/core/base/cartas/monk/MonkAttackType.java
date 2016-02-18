@@ -3,20 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.com.Summoner.core.base.cartas.mago;
+package br.com.Summoner.core.base.cartas.monk;
 
 import org.jsefa.common.converter.EnumConstant;
-
 
 /**
  *
  * @author dferreira
  */
-public enum ElementType {
-    @EnumConstant("F")
-    F,
-    @EnumConstant("A")
-    A,
-    @EnumConstant("V")
-    V  
+public enum MonkAttackType {
+    @EnumConstant("P")
+    P,
+    @EnumConstant("K")
+    K
 }

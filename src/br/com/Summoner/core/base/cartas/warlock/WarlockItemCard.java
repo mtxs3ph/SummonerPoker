@@ -3,28 +3,24 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.com.Summoner.core.base.cartas.mago;
+package br.com.Summoner.core.base.cartas.warlock;
 
 import br.com.Summoner.core.Jogada;
 import br.com.Summoner.core.base.interfaces.Card;
 import java.util.List;
+import java.util.stream.Stream;
 import org.jsefa.csv.annotation.CsvDataType;
 import org.jsefa.csv.annotation.CsvField;
-import org.jsefa.csv.annotation.CsvSubRecordList;
-import org.jsefa.rbf.annotation.Record;
 
 /**
  *
  * @author dferreira
  */
-@CsvDataType(defaultPrefix = "Items")
-public class MagoItemCard extends Card {
+@CsvDataType()
+public class WarlockItemCard extends Card {
 
-    @CsvSubRecordList(pos = 6, records = @Record(prefix = "Eleme"))
-    public List<MagoElement> Elementos;
-
-    @CsvField(pos = 7)
-    public long DanoMagia;
+    @CsvField(pos = 6)
+    public long DarkEnergy;
 
     @Override
     public long CalculaBonus(Jogada jogada, List<Card> listaMonstrosAdversarios) {
@@ -32,7 +28,7 @@ public class MagoItemCard extends Card {
     }
     
     @Override
-    public long CalculaBonusPosJogadas(Jogada minhaJogada, List<Jogada> jogdasDosAdversarios) {
+    public long CalculaBonusPosJogadas(Jogada minhaJogada, List<Jogada> jogadasDosAdversarios) {
         return 0;
     }
 }

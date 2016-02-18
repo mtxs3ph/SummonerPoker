@@ -12,18 +12,18 @@ import org.jsefa.common.converter.EnumConstant;
  * @author dferreira
  */
 public enum TipoMonstro {
-    @EnumConstant("Humano")
-        Humano,
+    @EnumConstant("Monk")
+        Monk,
     @EnumConstant("Fera")
         Fera,
     @EnumConstant("Wizard")
         Wizard,
-    @EnumConstant("Profano")
-        Profano,
-    @EnumConstant("Mago")
-        Mago,
-    @EnumConstant("Berserker")
-        Berserker,
+    @EnumConstant("Warlock")
+        Warlock,
+    @EnumConstant("Mage")
+        Mage,
+    @EnumConstant("Warrior")
+        Warrior,
     @EnumConstant(" ")
         Nenhum
 }

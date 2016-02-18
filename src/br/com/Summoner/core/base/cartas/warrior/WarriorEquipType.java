@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.com.Summoner.core.base.cartas.berserker;
+package br.com.Summoner.core.base.cartas.warrior;
 
 import org.jsefa.common.converter.EnumConstant;
 
@@ -11,7 +11,7 @@ import org.jsefa.common.converter.EnumConstant;
  *
  * @author dferreira
  */
-public enum BerserkerEquipType {
+public enum WarriorEquipType {
     @EnumConstant("Escudo")
     Escudo,
     @EnumConstant("Espada")

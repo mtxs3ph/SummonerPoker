@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.com.Summoner.core.base.cartas.mago;
+package br.com.Summoner.core.base.cartas.warrior;
 
 import org.jsefa.csv.annotation.CsvDataType;
 import org.jsefa.csv.annotation.CsvField;
@@ -12,8 +12,9 @@ import org.jsefa.csv.annotation.CsvField;
  *
  * @author dferreira
  */
-@CsvDataType(defaultPrefix="Eleme") 
-public class MagoElement {
+@CsvDataType(defaultPrefix="Equip") 
+public class WarriorEquipamentos {
+  
     @CsvField(pos = 1)
-    public ElementType Elemento;
+    public WarriorEquipType Equipamento;  
 }

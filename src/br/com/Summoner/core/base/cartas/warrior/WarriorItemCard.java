@@ -3,25 +3,25 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.com.Summoner.core.base.cartas.profano;
+package br.com.Summoner.core.base.cartas.warrior;
 
 import br.com.Summoner.core.Jogada;
 import br.com.Summoner.core.base.interfaces.Card;
 import java.util.List;
-import java.util.stream.Stream;
 import org.jsefa.csv.annotation.CsvDataType;
-import org.jsefa.csv.annotation.CsvField;
+import org.jsefa.csv.annotation.CsvSubRecordList;
+import org.jsefa.rbf.annotation.Record;
 
 /**
  *
  * @author dferreira
  */
-@CsvDataType()
-public class ProfanoItemCard extends Card {
+@CsvDataType(defaultPrefix = "Items")
+public class WarriorItemCard extends Card {
 
-    @CsvField(pos = 6)
-    public long DarkEnergy;
-
+    @CsvSubRecordList(pos = 6, records = @Record(prefix = "Equip"))
+    List<WarriorEquipamentos> Equipamentos; 
+    
     @Override
     public long CalculaBonus(Jogada jogada, List<Card> listaMonstrosAdversarios) {
         return 0;

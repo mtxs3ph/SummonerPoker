@@ -1,0 +1,20 @@
+Item;Jab Punch;Item;Monk;9;0
+Golp;P;;;
+Item;Hook Punch;Item;Monk;9;0;P
+Golp;P;;;
+Item;Low Kick;Item;Monk;9;0;K
+Golp;K;;;
+Item;Straight Punch;Item;Monk;10;0;P
+Golp;P;;;
+Item;Middle Kick;Item;Monk;10;0;K
+Golp;K;;;
+Item;Knee Kick;Item;Monk;10;0;K
+Golp;K;;;
+Item;Uppercut;Item;Monk;11;0;P
+Golp;P;;;
+Item;Dragon Kick;Item;Monk;11;0;K
+Golp;K;;;
+Item;Round House Kick;Item;Monk;11;0;K
+Golp;K;;;
+Item;Dragon Punch;Item;Monk;12;0;P
+Golp;P;;;

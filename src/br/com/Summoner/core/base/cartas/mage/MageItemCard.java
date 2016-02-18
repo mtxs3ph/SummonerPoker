@@ -3,12 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.com.Summoner.core.base.cartas.humano;
+package br.com.Summoner.core.base.cartas.mage;
 
 import br.com.Summoner.core.Jogada;
 import br.com.Summoner.core.base.interfaces.Card;
 import java.util.List;
 import org.jsefa.csv.annotation.CsvDataType;
+import org.jsefa.csv.annotation.CsvField;
 import org.jsefa.csv.annotation.CsvSubRecordList;
 import org.jsefa.rbf.annotation.Record;
 
@@ -16,19 +17,22 @@ import org.jsefa.rbf.annotation.Record;
  *
  * @author dferreira
  */
-@CsvDataType(defaultPrefix = "Item")
-public class HumanItemCard extends Card {
+@CsvDataType(defaultPrefix = "Items")
+public class MageItemCard extends Card {
 
-    @CsvSubRecordList(pos = 6, records = @Record(prefix = "Golp"))
-    List<HumanItemAttack> Golpes;
-    
+    @CsvSubRecordList(pos = 6, records = @Record(prefix = "Eleme"))
+    public List<MageElement> Elementos;
+
+    @CsvField(pos = 7)
+    public long DanoMagia;
+
     @Override
     public long CalculaBonus(Jogada jogada, List<Card> listaMonstrosAdversarios) {
         return 0;
     }
     
     @Override
-    public long CalculaBonusPosJogadas(Jogada minhaJogada, List<Jogada> jogadasDosAdversarios) {
+    public long CalculaBonusPosJogadas(Jogada minhaJogada, List<Jogada> jogdasDosAdversarios) {
         return 0;
     }
 }

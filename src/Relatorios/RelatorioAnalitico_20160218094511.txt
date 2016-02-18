@@ -1,0 +1,269 @@
+Dados Estatísticos - 18/02/2016 09:45:11
+Número de Jogadores: 2
+Número de Turnos: 10
+
+	Turno 1
+		Mesa
+				Item: Pandoras Box      	|	Warlock	|	10	
+				Item: ABC09             	|	Warrior	|	0	
+				Item: Ghost Chains      	|	Warlock	|	9	
+				Item: Straight Punch    	|	Monk	|	10	
+				Item: Demons Horn       	|	Warlock	|	12	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Warrior ----- ForçaTotal: 10
+						Carta :Criatura	|Troll             	|	Warrior	|	10	
+						Carta :Item	|ABC09             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 17
+						Carta :Criatura	|Taekwondo         	|	Monk	|	7	
+						Carta :Item	|Straight Punch    	|	Monk	|	10	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 17
+	Turno 2
+		Mesa
+				Item: Knee Kick         	|	Monk	|	10	
+				Item: Straight Punch    	|	Monk	|	10	
+				Item: ABC10             	|	Warrior	|	0	
+				Item: Middle Kick       	|	Monk	|	10	
+				Item: Uppercut          	|	Monk	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 56
+						Carta :Criatura	|Muay Thai         	|	Monk	|	8	
+						Carta :Item	|Knee Kick         	|	Monk	|	10	
+						Carta :Item	|Straight Punch    	|	Monk	|	10	
+						Carta :Item	|Middle Kick       	|	Monk	|	10	
+						Carta :Item	|Uppercut          	|	Monk	|	11	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Warrior ----- ForçaTotal: 6
+						Carta :Criatura	|Warrior           	|	Warrior	|	6	
+						Carta :Item	|ABC10             	|	Warrior	|	0	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 56
+	Turno 3
+		Mesa
+				Item: Index Prohibitorum	|	Warlock	|	11	
+				Item: Hook Punch        	|	Monk	|	9	
+				Item: Ghost Chains      	|	Warlock	|	9	
+				Item: ABC09             	|	Warrior	|	0	
+				Item: ABC04             	|	Warrior	|	0	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Warrior ----- ForçaTotal: 8
+						Carta :Criatura	|Troll             	|	Warrior	|	10	
+						Carta :Item	|ABC09             	|	Warrior	|	0	
+						Carta :Item	|ABC04             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 30
+						Carta :Criatura	|Necromancer       	|	Warlock	|	8	
+						Carta :Item	|Index Prohibitorum	|	Warlock	|	11	
+						Carta :Item	|Ghost Chains      	|	Warlock	|	9	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 30
+	Turno 4
+		Mesa
+				Item: Hook Punch        	|	Monk	|	9	
+				Item: Jab Punch         	|	Monk	|	9	
+				Item: Uppercut          	|	Monk	|	11	
+				Item: Sacrificial Knife 	|	Warlock	|	9	
+				Item: Index Prohibitorum	|	Warlock	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 38
+						Carta :Criatura	|Commando Sambo    	|	Monk	|	9	
+						Carta :Item	|Hook Punch        	|	Monk	|	9	
+						Carta :Item	|Jab Punch         	|	Monk	|	9	
+						Carta :Item	|Uppercut          	|	Monk	|	11	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 58
+						Carta :Criatura	|Jeet Kune Do      	|	Monk	|	10	
+						Carta :Item	|Dragon Punch      	|	Monk	|	12	
+						Carta :Item	|Hook Punch        	|	Monk	|	9	
+						Carta :Item	|Jab Punch         	|	Monk	|	9	
+						Carta :Item	|Uppercut          	|	Monk	|	11	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 58
+	Turno 5
+		Mesa
+				Item: ABC03             	|	Warrior	|	0	
+				Item: Jab Punch         	|	Monk	|	9	
+				Item: Index Prohibitorum	|	Warlock	|	11	
+				Item: ABC07             	|	Warrior	|	0	
+				Item: Ghost Chains      	|	Warlock	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 14
+						Carta :Criatura	|Karate            	|	Monk	|	6	
+						Carta :Item	|Jab Punch         	|	Monk	|	9	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 30
+						Carta :Criatura	|Demonologist      	|	Warlock	|	9	
+						Carta :Item	|Index Prohibitorum	|	Warlock	|	11	
+						Carta :Item	|Ghost Chains      	|	Warlock	|	9	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 30
+	Turno 6
+		Mesa
+				Item: ABC07             	|	Warrior	|	0	
+				Item: Hook Punch        	|	Monk	|	9	
+				Item: ABC02             	|	Warrior	|	0	
+				Item: Soulstone         	|	Warlock	|	11	
+				Item: Ghost Chains      	|	Warlock	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 8
+						Carta :Criatura	|Troll             	|	Warrior	|	10	
+						Carta :Item	|ABC07             	|	Warrior	|	0	
+						Carta :Item	|ABC02             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 32
+						Carta :Criatura	|Master Warlock    	|	Warlock	|	10	
+						Carta :Item	|Soulstone         	|	Warlock	|	11	
+						Carta :Item	|Ghost Chains      	|	Warlock	|	9	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 32
+	Turno 7
+		Mesa
+				Item: Jab Punch         	|	Monk	|	9	
+				Item: Uppercut          	|	Monk	|	11	
+				Item: ABC03             	|	Warrior	|	0	
+				Item: ABC05             	|	Warrior	|	0	
+				Item: Hook Punch        	|	Monk	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 8
+						Carta :Criatura	|Necromancer       	|	Warlock	|	8	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 8
+						Carta :Criatura	|Warrior           	|	Warrior	|	6	
+						Carta :Item	|ABC03             	|	Warrior	|	0	
+						Carta :Item	|ABC05             	|	Warrior	|	0	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 8
+				Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 8
+	Turno 8
+		Mesa
+				Item: Dragon Punch      	|	Monk	|	12	
+				Item: Low Kick          	|	Monk	|	9	
+				Item: Straight Punch    	|	Monk	|	10	
+				Item: ABC10             	|	Warrior	|	0	
+				Item: ABC07             	|	Warrior	|	0	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 61
+						Carta :Criatura	|Jeet Kune Do      	|	Monk	|	10	
+						Carta :Item	|Knee Kick         	|	Monk	|	10	
+						Carta :Item	|Dragon Punch      	|	Monk	|	12	
+						Carta :Item	|Low Kick          	|	Monk	|	9	
+						Carta :Item	|Straight Punch    	|	Monk	|	10	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 6
+						Carta :Criatura	|Apprentice        	|	Warlock	|	6	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 61
+	Turno 9
+		Mesa
+				Item: ABC08             	|	Warrior	|	0	
+				Item: ABC03             	|	Warrior	|	0	
+				Item: Uppercut          	|	Monk	|	11	
+				Item: ABC04             	|	Warrior	|	0	
+				Item: Sacrificial Knife 	|	Warlock	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 26
+						Carta :Criatura	|Apprentice        	|	Warlock	|	6	
+						Carta :Item	|Cauldron of Souls 	|	Warlock	|	10	
+						Carta :Item	|Sacrificial Knife 	|	Warlock	|	9	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 17
+						Carta :Criatura	|Taekwondo         	|	Monk	|	7	
+						Carta :Item	|Uppercut          	|	Monk	|	11	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 26
+	Turno 10
+		Mesa
+				Item: ABC08             	|	Warrior	|	0	
+				Item: ABC07             	|	Warrior	|	0	
+				Item: Cauldron of Souls 	|	Warlock	|	10	
+				Item: ABC09             	|	Warrior	|	0	
+				Item: Demons Horn       	|	Warlock	|	12	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 9
+						Carta :Criatura	|Ogre              	|	Warrior	|	9	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+						Carta :Item	|ABC07             	|	Warrior	|	0	
+						Carta :Item	|ABC09             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Warrior ----- ForçaTotal: 10
+						Carta :Criatura	|Troll             	|	Warrior	|	10	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+						Carta :Item	|ABC07             	|	Warrior	|	0	
+						Carta :Item	|ABC09             	|	Warrior	|	0	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Warrior ----- ForçaTotal: 10
+
+
+Vitórias de Monk : 4  Empates: (0)
+Vitórias de Warrior : 2  Empates: (1)
+Vitórias de Warlock : 5  Empates: (1)
+
+
+Vitórias limpas de Monk: 4
+Vitórias limpas de Warrior: 1
+Vitórias limpas de Warlock: 4
+
+
+Monstro-Warrior
+Level Vencedor:	LEVEL-5              	 revelado:	7 	 vitórias:	4 	 rev-vito:	    3	(	25,00%	)
+Level Vencedor:	LEVEL-1              	 revelado:	5 	 vitórias:	2 	 rev-vito:	    1	(	50,00%	)
+
+Monstro-Monk
+Level Vencedor:	LEVEL-5              	 revelado:	7 	 vitórias:	4 	 rev-vito:	    0	(	100,00%	)
+Level Vencedor:	LEVEL-2              	 revelado:	2 	 vitórias:	1 	 rev-vito:	    1	(	50,00%	)
+Level Vencedor:	LEVEL-3              	 revelado:	3 	 vitórias:	3 	 rev-vito:	    0	(	100,00%	)
+
+Monstro-Warlock
+Level Vencedor:	LEVEL-5              	 revelado:	7 	 vitórias:	4 	 rev-vito:	    0	(	100,00%	)
+Level Vencedor:	LEVEL-1              	 revelado:	5 	 vitórias:	2 	 rev-vito:	    1	(	50,00%	)
+Level Vencedor:	LEVEL-3              	 revelado:	3 	 vitórias:	3 	 rev-vito:	    0	(	100,00%	)
+Level Vencedor:	LEVEL-4              	 revelado:	3 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+
+
+
+
+Criatura Vencedora:	Warlock    	-	Apprentice           	 revelado:	2 	 vitórias:	1 	 rev-vito:	    1	(	50,00%	)
+Criatura Vencedora:	Warlock    	-	Demonologist         	 revelado:	1 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+Criatura Vencedora:	Monk    	-	Jeet Kune Do         	 revelado:	2 	 vitórias:	2 	 rev-vito:	    0	(	100,00%	)
+Criatura Vencedora:	Warlock    	-	Master Warlock       	 revelado:	1 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+Criatura Vencedora:	Monk    	-	Muay Thai            	 revelado:	1 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+Criatura Vencedora:	Warlock    	-	Necromancer          	 revelado:	2 	 vitórias:	2 	 rev-vito:	    0	(	100,00%	)
+Criatura Vencedora:	Monk    	-	Taekwondo            	 revelado:	2 	 vitórias:	1 	 rev-vito:	    1	(	50,00%	)
+Criatura Vencedora:	Warrior    	-	Troll                	 revelado:	4 	 vitórias:	1 	 rev-vito:	    3	(	25,00%	)
+Criatura Vencedora:	Warrior    	-	Warrior              	 revelado:	2 	 vitórias:	1 	 rev-vito:	    1	(	50,00%	)
+
+
+
+Força das Vitórias: LEVEL-5        	  Min:	10	  Avg:	40,25	  Max:	61
+Força das Vitórias: LEVEL-1        	  Min:	8	  Avg:	17,00	  Max:	26
+Força das Vitórias: LEVEL-2        	  Min:	17	  Avg:	17,00	  Max:	17
+Força das Vitórias: LEVEL-3        	  Min:	8	  Avg:	31,33	  Max:	56
+Força das Vitórias: LEVEL-4        	  Min:	30	  Avg:	30,00	  Max:	30
+
+
+
+Força das Vitórias: Warrior        	  Min:	8	  Avg:	8,00	  Max:	8
+Força das Vitórias: Demonologist   	  Min:	30	  Avg:	30,00	  Max:	30
+Força das Vitórias: Troll          	  Min:	10	  Avg:	10,00	  Max:	10
+Força das Vitórias: Jeet Kune Do   	  Min:	58	  Avg:	59,50	  Max:	61
+Força das Vitórias: Master Warlock 	  Min:	32	  Avg:	32,00	  Max:	32
+Força das Vitórias: Necromancer    	  Min:	8	  Avg:	19,00	  Max:	30
+Força das Vitórias: Muay Thai      	  Min:	56	  Avg:	56,00	  Max:	56
+Força das Vitórias: Taekwondo      	  Min:	17	  Avg:	17,00	  Max:	17
+Força das Vitórias: Apprentice     	  Min:	26	  Avg:	26,00	  Max:	26
+
+
+
+Força das Vitórias: Monk           	  Min:	17	  Avg:	48,00	  Max:	61
+Força das Vitórias: Warrior        	  Min:	8	  Avg:	9,00	  Max:	10
+Força das Vitórias: Warlock        	  Min:	8	  Avg:	25,20	  Max:	32
+
+Força das Vitórias: Monk           	 QntItensUsados:1	 Min:	17	  Avg:	17,00	  Max:	17 Count:1
+Força das Vitórias: Monk           	 QntItensUsados:4	 Min:	56	  Avg:	58,33	  Max:	61 Count:3
+
+Força das Vitórias: Warrior        	 QntItensUsados:2	 Min:	8	  Avg:	8,00	  Max:	8 Count:1
+Força das Vitórias: Warrior        	 QntItensUsados:3	 Min:	10	  Avg:	10,00	  Max:	10 Count:1
+
+Força das Vitórias: Warlock        	 QntItensUsados:0	 Min:	8	  Avg:	8,00	  Max:	8 Count:1
+Força das Vitórias: Warlock        	 QntItensUsados:2	 Min:	26	  Avg:	29,50	  Max:	32 Count:4
+
+
+
+ Estatísticas de Combo Humano 
+
+ Combo Realizado:	PP	Quantidade:	1
+ Combo Realizado:	KKP	Quantidade:	1
+ Combo Realizado:	KKPP	Quantidade:	1
+
+

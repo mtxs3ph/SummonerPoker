@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.com.Summoner.core.base.cartas.berserker;
+package br.com.Summoner.core.base.cartas.monk;
 
 import br.com.Summoner.core.Jogada;
 import br.com.Summoner.core.base.interfaces.Card;
@@ -16,11 +16,11 @@ import org.jsefa.rbf.annotation.Record;
  *
  * @author dferreira
  */
-@CsvDataType(defaultPrefix = "Items")
-public class BerserkerItemCard extends Card {
+@CsvDataType(defaultPrefix = "Item")
+public class MonkItemCard extends Card {
 
-    @CsvSubRecordList(pos = 6, records = @Record(prefix = "Equip"))
-    List<BerserkerEquipamentos> Equipamentos; 
+    @CsvSubRecordList(pos = 6, records = @Record(prefix = "Golp"))
+    List<MonkItemAttack> Golpes;
     
     @Override
     public long CalculaBonus(Jogada jogada, List<Card> listaMonstrosAdversarios) {
