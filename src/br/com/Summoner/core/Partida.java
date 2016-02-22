@@ -75,15 +75,13 @@ public class Partida {
 
             Jogadores.forEach(jogador -> jogador.Mao.add(this.MesaDaPartida.ComprarMonstro()));
             Jogadores.forEach(jogador -> jogador.Mao.add(this.MesaDaPartida.ComprarItem()));
-//            Jogadores.forEach(jogador -> jogador.Mao.add(this.MesaDaPartida.ComprarItem()));
+            Jogadores.forEach(jogador -> jogador.Mao.add(this.MesaDaPartida.ComprarItem()));
 //
 //            Jogadores.forEach(jogador -> jogador.Descartar());
 
             MesaDaPartida.RevelarItens(Configuracoes.QuantidadeItensReveladosPorTurno);
 
-            Jogadores.forEach(jogador
-                    -> {
-                {
+            Jogadores.forEach(jogador -> {{
                     try {
                         turnoAtual.Jogadas.add(jogador.RealizaJogada(MesaDaPartida));
                     } catch (CloneNotSupportedException ex) {

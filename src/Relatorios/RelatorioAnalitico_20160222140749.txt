@@ -1,0 +1,105 @@
+Dados Estatísticos - 22/02/2016 14:07:49
+Número de Jogadores: 2
+Número de Turnos: 2
+
+	Turno 1
+		Mesa
+				Item: ABC08             	|	Warrior	|	0	
+				Item: Soulstone         	|	Warlock	|	11	
+				Item: Hook Punch        	|	Monk	|	9	
+				Item: ABC03             	|	Warrior	|	0	
+				Item: Pandoras Box      	|	Warlock	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Warrior ----- ForçaTotal: 9
+						Carta :Criatura	|Warrior           	|	Warrior	|	6	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+						Carta :Item	|ABC03             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 11
+						Carta :Criatura	|Giant             	|	Warrior	|	8	
+						Carta :Item	|ABC04             	|	Warrior	|	0	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+						Carta :Item	|ABC03             	|	Warrior	|	0	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 11
+	Turno 2
+		Mesa
+				Item: Uppercut          	|	Monk	|	11	
+				Item: ABC06             	|	Warrior	|	0	
+				Item: Index Prohibitorum	|	Warlock	|	11	
+				Item: ABC01             	|	Warrior	|	0	
+				Item: Jab Punch         	|	Monk	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 15
+						Carta :Criatura	|Troll             	|	Warrior	|	10	
+						Carta :Item	|ABC05             	|	Warrior	|	0	
+						Carta :Item	|ABC06             	|	Warrior	|	0	
+						Carta :Item	|ABC01             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 20
+						Carta :Criatura	|Demonologist      	|	Warlock	|	9	
+						Carta :Item	|Index Prohibitorum	|	Warlock	|	11	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 20
+
+
+Vitórias de Warlock : 1  Empates: (0)
+Vitórias de Warrior : 1  Empates: (0)
+
+
+Vitórias limpas de Warlock: 1
+Vitórias limpas de Warrior: 1
+
+
+Monstro-Warrior
+Level Vencedor:	LEVEL-3              	 revelado:	1 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+
+Monstro-Warlock
+Level Vencedor:	LEVEL-4              	 revelado:	1 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+
+
+
+
+Criatura Vencedora:	Warlock    	-	Demonologist         	 revelado:	1 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+Criatura Vencedora:	Warrior    	-	Giant                	 revelado:	1 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+
+
+
+Força das Vitórias: LEVEL-3        	  Min:	11	  Avg:	11,00	  Max:	11
+Força das Vitórias: LEVEL-4        	  Min:	20	  Avg:	20,00	  Max:	20
+
+
+
+Força das Vitórias: Demonologist   	  Min:	20	  Avg:	20,00	  Max:	20
+Força das Vitórias: Giant          	  Min:	11	  Avg:	11,00	  Max:	11
+
+
+
+Força das Vitórias: Warlock        	  Min:	20	  Avg:	20,00	  Max:	20
+Força das Vitórias: Warrior        	  Min:	11	  Avg:	11,00	  Max:	11
+
+Força das Vitórias: Warlock        	 QntItensUsados:1	 Min:	20	  Avg:	20,00	  Max:	20 Count:1
+
+Força das Vitórias: Warrior        	 QntItensUsados:3	 Min:	11	  Avg:	11,00	  Max:	11 Count:1
+
+
+
+		Monstros X Quantidade de Itens Utilizados X Força Média por Jogada
+
+	Monstro: Demonologist      	Itens:	2	Vezes Realizada	1	 Força Média: 20,00
+	Monstro: Giant             	Itens:	4	Vezes Realizada	1	 Força Média: 11,00
+	Monstro: Troll             	Itens:	4	Vezes Realizada	1	 Força Média: 15,00
+	Monstro: Warrior           	Itens:	3	Vezes Realizada	1	 Força Média: 9,00
+
+
+ Estatísticas de Combo Humano 
+
+ Combo Realizado:	KK	Quantidade:	12
+ Combo Realizado:	PP	Quantidade:	9
+ Combo Realizado:	KKP	Quantidade:	17
+ Combo Realizado:	PPP	Quantidade:	2
+ Combo Realizado:	KKPP	Quantidade:	1
+ Combo Realizado:	KKPPP	Quantidade:	1
+ Combo Realizado:	KP	Quantidade:	21
+ Combo Realizado:	KKK	Quantidade:	6
+ Combo Realizado:	KPP	Quantidade:	20
+
+

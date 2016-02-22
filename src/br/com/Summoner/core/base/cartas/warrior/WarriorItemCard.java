@@ -20,7 +20,7 @@ import org.jsefa.rbf.annotation.Record;
 public class WarriorItemCard extends Card {
 
     @CsvSubRecordList(pos = 6, records = @Record(prefix = "Equip"))
-    List<WarriorEquipamentos> Equipamentos; 
+    List<WarriorEquipamento> Equipamentos; 
     
     @Override
     public long CalculaBonus(Jogada jogada, List<Card> listaMonstrosAdversarios) {

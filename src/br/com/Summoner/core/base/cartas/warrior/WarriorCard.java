@@ -7,14 +7,11 @@ package br.com.Summoner.core.base.cartas.warrior;
 
 import br.com.Summoner.core.Jogada;
 import br.com.Summoner.core.base.interfaces.Card;
-import br.com.Summoner.core.base.tipos.TipoCarta;
-import br.com.Summoner.core.base.tipos.TipoMonstro;
+import java.util.ArrayList;
 
 import java.util.List;
 import java.util.stream.Collectors;
-import javafx.scene.AccessibleAction;
 import org.jsefa.csv.annotation.CsvDataType;
-import org.jsefa.csv.annotation.CsvField;
 import org.jsefa.csv.annotation.CsvSubRecordList;
 import org.jsefa.rbf.annotation.Record;
 
@@ -25,33 +22,39 @@ import org.jsefa.rbf.annotation.Record;
 @CsvDataType(defaultPrefix = "Monst")
 public class WarriorCard extends Card {
 
-    @CsvSubRecordList(pos = 6, records = @Record(prefix = "Setco"))
-    List<WarriorSet> BonusSet;
+    @CsvSubRecordList(pos = 6, records = @Record(prefix = "Equip"))
+    List<WarriorEquipamento> Equipamentos;
+
+    @CsvSubRecordList(pos = 7, records = @Record(prefix = "Bonus"))
+    List<WarriorSetBonus> SetBonus;
 
     @Override
     public long CalculaBonus(Jogada jogada, List<Card> listaMonstrosAdversarios) {
-        long bonusDoSet = 0;
-        List<WarriorEquipType> equipamentosNosItens = jogada.CartasUtilizadas.stream().filter(item -> item.TipoCarta == TipoCarta.Item).map(item -> ((WarriorItemCard) item).Equipamentos.stream().map(equip -> equip.Equipamento)).flatMap(item -> item).distinct().collect(Collectors.toList());
-        
-        for (WarriorSet set : this.BonusSet) {
+        long forcaBonus = 0;
+        List<WarriorEquipamento> equipamentosUtilizadosParaBonus = new ArrayList<>();
+        List<WarriorEquipamento> equipamentosNosItens = new ArrayList<>();
+        equipamentosNosItens.addAll(jogada.CartasUtilizadas.stream().filter(item -> item.TipoCarta == TipoCarta.Item).map(item -> ((WarriorItemCard) item).Equipamentos.stream()).flatMap(item -> item).collect(Collectors.toList()));
+
+        for (WarriorEquipamento slot : this.Equipamentos) {
             long bonusSetAtual = 0;
-            
-            List<WarriorEquipType> listaEquipamentosNoSet = set.Equipamentos.stream().map(equip -> equip.Equipamento).collect(Collectors.toList());
-            
-            for (WarriorEquipType equipeNoItem : equipamentosNosItens)
-            {
-               WarriorEquipType referenciaEncontrada = listaEquipamentosNoSet.stream().filter(equip -> equip == equipeNoItem).findFirst().orElse(WarriorEquipType.Desconhecido);
-               if (referenciaEncontrada!= WarriorEquipType.Desconhecido)
-                listaEquipamentosNoSet.remove(referenciaEncontrada);
+            boolean encontrou = false;
+            WarriorEquipamento referenciaEncontrada = equipamentosNosItens.stream().filter(equip -> equip.Equipamento == slot.Equipamento && !equipamentosUtilizadosParaBonus.contains(equip)).findFirst().orElse(null);
+            if (referenciaEncontrada != null) {
+                equipamentosUtilizadosParaBonus.add(referenciaEncontrada);
             }
-            
-            if (listaEquipamentosNoSet.isEmpty())
-               bonusSetAtual = set.BonusForca;
-            
-            if(bonusSetAtual > bonusDoSet)
-                bonusDoSet = bonusSetAtual;
         }
-        return bonusDoSet;
+
+        if (equipamentosUtilizadosParaBonus.size() > 0) {
+            for (WarriorSetBonus setBonus : this.SetBonus) {
+                if (setBonus.Quantidade <= equipamentosUtilizadosParaBonus.size()) {
+                    if (forcaBonus < setBonus.BonusForca) {
+                        forcaBonus = setBonus.BonusForca;
+                    }
+                }
+            }
+        }
+
+        return forcaBonus;
     }
 
     @Override

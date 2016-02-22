@@ -1,0 +1,123 @@
+Dados Estatísticos - 22/02/2016 14:14:14
+Número de Jogadores: 2
+Número de Turnos: 3
+
+	Turno 1
+		Mesa
+				Item: Pandoras Box      	|	Warlock	|	10	
+				Item: Pentagram         	|	Warlock	|	11	
+				Item: Uppercut          	|	Monk	|	11	
+				Item: ABC09             	|	Warrior	|	0	
+				Item: Cauldron of Souls 	|	Warlock	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 35
+						Carta :Criatura	|Jeet Kune Do      	|	Monk	|	10	
+						Carta :Item	|Hook Punch        	|	Monk	|	9	
+						Carta :Item	|Uppercut          	|	Monk	|	11	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 51
+						Carta :Criatura	|Templar           	|	Warlock	|	7	
+						Carta :Item	|Index Prohibitorum	|	Warlock	|	11	
+						Carta :Item	|Pandoras Box      	|	Warlock	|	10	
+						Carta :Item	|Pentagram         	|	Warlock	|	11	
+						Carta :Item	|Cauldron of Souls 	|	Warlock	|	10	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 51
+	Turno 2
+		Mesa
+				Item: ABC09             	|	Warrior	|	0	
+				Item: Pandoras Box      	|	Warlock	|	10	
+				Item: ﻿Witchs Scepter   	|	Warlock	|	9	
+				Item: ABC10             	|	Warrior	|	0	
+				Item: Dragon Punch      	|	Monk	|	12	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 15
+						Carta :Criatura	|Troll             	|	Warrior	|	10	
+						Carta :Item	|ABC07             	|	Warrior	|	0	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+						Carta :Item	|ABC09             	|	Warrior	|	0	
+						Carta :Item	|ABC10             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 18
+						Carta :Criatura	|Karate            	|	Monk	|	6	
+						Carta :Item	|Dragon Punch      	|	Monk	|	12	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 18
+	Turno 3
+		Mesa
+				Item: Hook Punch        	|	Monk	|	9	
+				Item: ABC08             	|	Warrior	|	0	
+				Item: Dragon Punch      	|	Monk	|	12	
+				Item: Pentagram         	|	Warlock	|	11	
+				Item: Low Kick          	|	Monk	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 39
+						Carta :Criatura	|Templar           	|	Warlock	|	7	
+						Carta :Item	|Pandoras Box      	|	Warlock	|	10	
+						Carta :Item	|Ghost Chains      	|	Warlock	|	9	
+						Carta :Item	|Pentagram         	|	Warlock	|	11	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 38
+						Carta :Criatura	|Taekwondo         	|	Monk	|	7	
+						Carta :Item	|Hook Punch        	|	Monk	|	9	
+						Carta :Item	|Dragon Punch      	|	Monk	|	12	
+						Carta :Item	|Low Kick          	|	Monk	|	9	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 39
+
+
+Vitórias de Warlock : 2  Empates: (0)
+Vitórias de Monk : 1  Empates: (0)
+
+
+Vitórias limpas de Warlock: 2
+Vitórias limpas de Monk: 1
+
+
+Monstro-Monk
+Level Vencedor:	LEVEL-1              	 revelado:	1 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+
+Monstro-Warlock
+Level Vencedor:	LEVEL-2              	 revelado:	3 	 vitórias:	2 	 rev-vito:	    0	(	100,00%	)
+
+
+
+
+Criatura Vencedora:	Monk    	-	Karate               	 revelado:	1 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+Criatura Vencedora:	Warlock    	-	Templar              	 revelado:	2 	 vitórias:	2 	 rev-vito:	    0	(	100,00%	)
+
+
+
+Força das Vitórias: LEVEL-1        	  Min:	18	  Avg:	18,00	  Max:	18
+Força das Vitórias: LEVEL-2        	  Min:	39	  Avg:	45,00	  Max:	51
+
+
+
+Força das Vitórias: Templar        	  Min:	39	  Avg:	45,00	  Max:	51
+Força das Vitórias: Karate         	  Min:	18	  Avg:	18,00	  Max:	18
+
+
+
+Força das Vitórias: Warlock        	  Min:	39	  Avg:	45,00	  Max:	51
+Força das Vitórias: Monk           	  Min:	18	  Avg:	18,00	  Max:	18
+
+Força das Vitórias: Warlock        	 QntItensUsados:3	 Min:	39	  Avg:	39,00	  Max:	39 Count:1
+Força das Vitórias: Warlock        	 QntItensUsados:4	 Min:	51	  Avg:	51,00	  Max:	51 Count:1
+
+Força das Vitórias: Monk           	 QntItensUsados:1	 Min:	18	  Avg:	18,00	  Max:	18 Count:1
+
+
+
+		Monstros X Quantidade de Itens Utilizados X Força Média por Jogada
+
+	Monstro: Jeet Kune Do      	Itens:	2	Vezes Realizada	1	 Força Média: 35,00
+	Monstro: Karate            	Itens:	1	Vezes Realizada	1	 Força Média: 18,00
+	Monstro: Taekwondo         	Itens:	3	Vezes Realizada	1	 Força Média: 38,00
+	Monstro: Templar           	Itens:	3	Vezes Realizada	1	 Força Média: 39,00
+	Monstro: Templar           	Itens:	4	Vezes Realizada	1	 Força Média: 51,00
+	Monstro: Troll             	Itens:	4	Vezes Realizada	1	 Força Média: 15,00
+
+
+ Estatísticas de Combo Humano 
+
+ Combo Realizado:	PP	Quantidade:	1
+ Combo Realizado:	KP	Quantidade:	1
+
+

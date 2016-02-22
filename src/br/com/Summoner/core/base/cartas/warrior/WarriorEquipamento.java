@@ -5,22 +5,16 @@
  */
 package br.com.Summoner.core.base.cartas.warrior;
 
-import java.util.List;
 import org.jsefa.csv.annotation.CsvDataType;
 import org.jsefa.csv.annotation.CsvField;
-import org.jsefa.csv.annotation.CsvSubRecordList;
-import org.jsefa.rbf.annotation.Record;
 
 /**
  *
  * @author dferreira
  */
-@CsvDataType(defaultPrefix="Setco") 
-public class WarriorSet {
-    
-    @CsvSubRecordList(pos = 1, records = @Record(prefix = "Equip"))
-    List<WarriorEquipamentos> Equipamentos;
-    
-    @CsvField(pos = 2)
-    public long BonusForca;
+@CsvDataType(defaultPrefix="Equip") 
+public class WarriorEquipamento {
+  
+    @CsvField(pos = 1)
+    public WarriorEquipType Equipamento;  
 }
