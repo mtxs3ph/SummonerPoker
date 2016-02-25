@@ -74,9 +74,11 @@ public class Partida {
             Turnos.add(turnoAtual);
 
             Jogadores.forEach(jogador -> jogador.Mao.add(this.MesaDaPartida.ComprarMonstro()));
-            Jogadores.forEach(jogador -> jogador.Mao.add(this.MesaDaPartida.ComprarItem()));
-            Jogadores.forEach(jogador -> jogador.Mao.add(this.MesaDaPartida.ComprarItem()));
-//
+            for (int i = 1; i <= Configuracoes.QuantidadeItensCompradosPorJogador; i++)
+            {
+                Jogadores.forEach(jogador -> jogador.Mao.add(this.MesaDaPartida.ComprarItem()));
+            }
+            
 //            Jogadores.forEach(jogador -> jogador.Descartar());
 
             MesaDaPartida.RevelarItens(Configuracoes.QuantidadeItensReveladosPorTurno);

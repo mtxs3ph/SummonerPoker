@@ -18,6 +18,7 @@ public class Configuracoes {
     public static int NumeroDeTurnos = 10;
     public static int NumeroDeJogadores = 2;
     public static int QuantidadeItensReveladosPorTurno = 5;
+    public static int QuantidadeItensCompradosPorJogador = 2;
     public static String CaminhoCSVMonstros = "";
     public static String CaminhoCSVItens = "";
 //    public static String CaminhoCSVSetBonus = "";

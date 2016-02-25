@@ -51,7 +51,7 @@ public final class Deck implements IDeck {
                         Cartas.addAll((List) CardLoader.GetCardList(FeraCard.class, Configuracoes.CaminhoCSVMonstros));
                     }
                     break;
-                case "Mago":
+                case "Mage":
                     if (tipoDeck == TipoDeck.Item) {
                         Cartas.addAll((List) CardLoader.GetCardList(MageItemCard.class, Configuracoes.CaminhoCSVItens));
                     } else {

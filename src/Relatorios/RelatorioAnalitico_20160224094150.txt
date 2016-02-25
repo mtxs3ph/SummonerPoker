@@ -1,0 +1,2754 @@
+Dados Estatísticos - 24/02/2016 09:41:49
+Número de Jogadores: 4
+Número de Turnos: 100
+
+	Turno 1
+		Mesa
+				Item: Low Kick          	|	Monk	|	9	
+				Item: Haunted Doll      	|	Warlock	|	10	
+				Item: Fireball          	|	Mage	|	11	
+				Item: Ice Bolt          	|	Mage	|	10	
+				Item: Blizzard          	|	Mage	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 04 ----- Criatura: Monk ----- ForçaTotal: 16
+						Carta :Criatura	|Taekwondo         	|	Monk	|	7	
+						Carta :Item	|Low Kick          	|	Monk	|	9	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 16
+						Carta :Criatura	|Templar           	|	Warlock	|	7	
+						Carta :Item	|Haunted Doll      	|	Warlock	|	10	
+				Ordem: 3 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 39
+						Carta :Criatura	|Apprentice        	|	Warlock	|	6	
+						Carta :Item	|Index Prohibitorum	|	Warlock	|	11	
+						Carta :Item	|Pentagram         	|	Warlock	|	11	
+						Carta :Item	|Haunted Doll      	|	Warlock	|	10	
+				Ordem: 4 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 9
+						Carta :Criatura	|Ogre              	|	Warrior	|	9	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 39
+	Turno 2
+		Mesa
+				Item: Tornado           	|	Mage	|	11	
+				Item: Thunder Bolt      	|	Mage	|	10	
+				Item: Cauldron of Souls 	|	Warlock	|	10	
+				Item: Round House Kick  	|	Monk	|	11	
+				Item: Middle Kick       	|	Monk	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 31
+						Carta :Criatura	|Necromancer       	|	Warlock	|	8	
+						Carta :Item	|Index Prohibitorum	|	Warlock	|	11	
+						Carta :Item	|Cauldron of Souls 	|	Warlock	|	10	
+				Ordem: 2 - Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 44
+						Carta :Criatura	|Master Mage       	|	Mage	|	9	
+						Carta :Item	|Frost Nova        	|	Mage	|	9	
+						Carta :Item	|Tornado           	|	Mage	|	11	
+						Carta :Item	|Thunder Bolt      	|	Mage	|	10	
+				Ordem: 3 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 29
+						Carta :Criatura	|Aeromancer        	|	Mage	|	8	
+						Carta :Item	|Tornado           	|	Mage	|	11	
+						Carta :Item	|Thunder Bolt      	|	Mage	|	10	
+				Ordem: 4 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 37
+						Carta :Criatura	|Karate            	|	Monk	|	6	
+						Carta :Item	|Knee Kick         	|	Monk	|	10	
+						Carta :Item	|Round House Kick  	|	Monk	|	11	
+						Carta :Item	|Middle Kick       	|	Monk	|	10	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 44
+	Turno 3
+		Mesa
+				Item: ABC06             	|	Warrior	|	0	
+				Item: Blizzard          	|	Mage	|	11	
+				Item: Demons Horn       	|	Warlock	|	12	
+				Item: Wind Blast        	|	Mage	|	9	
+				Item: Pandoras Box      	|	Warlock	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 32
+						Carta :Criatura	|Master Mage       	|	Mage	|	9	
+						Carta :Item	|Blizzard          	|	Mage	|	11	
+						Carta :Item	|Wind Blast        	|	Mage	|	9	
+				Ordem: 2 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 10
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+						Carta :Item	|ABC06             	|	Warrior	|	0	
+				Ordem: 3 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 39
+						Carta :Criatura	|Apprentice        	|	Warlock	|	6	
+						Carta :Item	|Haunted Doll      	|	Warlock	|	10	
+						Carta :Item	|Demons Horn       	|	Warlock	|	12	
+						Carta :Item	|Pandoras Box      	|	Warlock	|	10	
+				Ordem: 4 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 10
+						Carta :Criatura	|Jeet Kune Do      	|	Monk	|	10	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 39
+	Turno 4
+		Mesa
+				Item: Jab Punch         	|	Monk	|	9	
+				Item: Round House Kick  	|	Monk	|	11	
+				Item: Dragon Kick       	|	Monk	|	11	
+				Item: Pentagram         	|	Warlock	|	11	
+				Item: Dragon Punch      	|	Monk	|	12	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 55
+						Carta :Criatura	|Taekwondo         	|	Monk	|	7	
+						Carta :Item	|Jab Punch         	|	Monk	|	9	
+						Carta :Item	|Round House Kick  	|	Monk	|	11	
+						Carta :Item	|Dragon Kick       	|	Monk	|	11	
+						Carta :Item	|Dragon Punch      	|	Monk	|	12	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 18
+						Carta :Criatura	|Templar           	|	Warlock	|	7	
+						Carta :Item	|Pentagram         	|	Warlock	|	11	
+				Ordem: 3 - Player: Jogador 03 ----- Criatura: Monk ----- ForçaTotal: 62
+						Carta :Criatura	|Karate            	|	Monk	|	6	
+						Carta :Item	|Low Kick          	|	Monk	|	9	
+						Carta :Item	|Jab Punch         	|	Monk	|	9	
+						Carta :Item	|Round House Kick  	|	Monk	|	11	
+						Carta :Item	|Dragon Kick       	|	Monk	|	11	
+						Carta :Item	|Dragon Punch      	|	Monk	|	12	
+				Ordem: 4 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 19
+						Carta :Criatura	|Necromancer       	|	Warlock	|	8	
+						Carta :Item	|Pentagram         	|	Warlock	|	11	
+		Vencedor(es)
+				Player: Jogador 03 ----- Criatura: Monk ----- ForçaTotal: 62
+	Turno 5
+		Mesa
+				Item: Wind Blast        	|	Mage	|	9	
+				Item: Haunted Doll      	|	Warlock	|	10	
+				Item: Fire Blast        	|	Mage	|	10	
+				Item: ABC10             	|	Warrior	|	0	
+				Item: ABC02             	|	Warrior	|	0	
+		Jogadas
+				Ordem: 1 - Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 32
+						Carta :Criatura	|Arch Wizard       	|	Mage	|	10	
+						Carta :Item	|Wind Blast        	|	Mage	|	9	
+						Carta :Item	|Fire Blast        	|	Mage	|	10	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 17
+						Carta :Criatura	|Templar           	|	Warlock	|	7	
+						Carta :Item	|Haunted Doll      	|	Warlock	|	10	
+				Ordem: 3 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 20
+						Carta :Criatura	|Jeet Kune Do      	|	Monk	|	10	
+						Carta :Item	|Straight Punch    	|	Monk	|	10	
+				Ordem: 4 - Player: Jogador 03 ----- Criatura: Monk ----- ForçaTotal: 8
+						Carta :Criatura	|Muay Thai         	|	Monk	|	8	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 32
+	Turno 6
+		Mesa
+				Item: Sacrificial Knife 	|	Warlock	|	9	
+				Item: Fireball          	|	Mage	|	11	
+				Item: ABC06             	|	Warrior	|	0	
+				Item: ABC01             	|	Warrior	|	0	
+				Item: Round House Kick  	|	Monk	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 03 ----- Criatura: Mage ----- ForçaTotal: 25
+						Carta :Criatura	|Hydromancer       	|	Mage	|	7	
+						Carta :Item	|Frost Nova        	|	Mage	|	9	
+						Carta :Item	|Fireball          	|	Mage	|	11	
+				Ordem: 2 - Player: Jogador 04 ----- Criatura: Monk ----- ForçaTotal: 18
+						Carta :Criatura	|Taekwondo         	|	Monk	|	7	
+						Carta :Item	|Round House Kick  	|	Monk	|	11	
+				Ordem: 3 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 15
+						Carta :Criatura	|Troll             	|	Warrior	|	10	
+						Carta :Item	|ABC09             	|	Warrior	|	0	
+						Carta :Item	|ABC06             	|	Warrior	|	0	
+						Carta :Item	|ABC01             	|	Warrior	|	0	
+				Ordem: 4 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 30
+						Carta :Criatura	|Necromancer       	|	Warlock	|	8	
+						Carta :Item	|Index Prohibitorum	|	Warlock	|	11	
+						Carta :Item	|Sacrificial Knife 	|	Warlock	|	9	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 30
+	Turno 7
+		Mesa
+				Item: Scorch            	|	Mage	|	9	
+				Item: Straight Punch    	|	Monk	|	10	
+				Item: Blizzard          	|	Mage	|	11	
+				Item: Round House Kick  	|	Monk	|	11	
+				Item: Wind Blast        	|	Mage	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 44
+						Carta :Criatura	|Muay Thai         	|	Monk	|	8	
+						Carta :Item	|Jab Punch         	|	Monk	|	9	
+						Carta :Item	|Straight Punch    	|	Monk	|	10	
+						Carta :Item	|Round House Kick  	|	Monk	|	11	
+				Ordem: 2 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 11
+						Carta :Criatura	|Ogre              	|	Warrior	|	9	
+						Carta :Item	|ABC02             	|	Warrior	|	0	
+				Ordem: 3 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 6
+						Carta :Criatura	|Apprentice        	|	Warlock	|	6	
+				Ordem: 4 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 6
+						Carta :Criatura	|Warrior           	|	Warrior	|	6	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 44
+	Turno 8
+		Mesa
+				Item: ABC10             	|	Warrior	|	0	
+				Item: Scorch            	|	Mage	|	9	
+				Item: Thunder Bolt      	|	Mage	|	10	
+				Item: Ice Bolt          	|	Mage	|	10	
+				Item: Ghost Chains      	|	Warlock	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 48
+						Carta :Criatura	|Hydromancer       	|	Mage	|	7	
+						Carta :Item	|Frost Nova        	|	Mage	|	9	
+						Carta :Item	|Scorch            	|	Mage	|	9	
+						Carta :Item	|Thunder Bolt      	|	Mage	|	10	
+						Carta :Item	|Ice Bolt          	|	Mage	|	10	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 17
+						Carta :Criatura	|Muay Thai         	|	Monk	|	8	
+						Carta :Item	|Low Kick          	|	Monk	|	9	
+				Ordem: 3 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 9
+						Carta :Criatura	|Warrior           	|	Warrior	|	6	
+						Carta :Item	|ABC07             	|	Warrior	|	0	
+						Carta :Item	|ABC10             	|	Warrior	|	0	
+				Ordem: 4 - Player: Jogador 04 ----- Criatura: Warrior ----- ForçaTotal: 12
+						Carta :Criatura	|Ogre              	|	Warrior	|	9	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+						Carta :Item	|ABC10             	|	Warrior	|	0	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 48
+	Turno 9
+		Mesa
+				Item: ABC01             	|	Warrior	|	0	
+				Item: ABC08             	|	Warrior	|	0	
+				Item: Uppercut          	|	Monk	|	11	
+				Item: Pentagram         	|	Warlock	|	11	
+				Item: Sacrificial Knife 	|	Warlock	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 04 ----- Criatura: Warrior ----- ForçaTotal: 11
+						Carta :Criatura	|Warrior           	|	Warrior	|	6	
+						Carta :Item	|ABC06             	|	Warrior	|	0	
+						Carta :Item	|ABC01             	|	Warrior	|	0	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 35
+						Carta :Criatura	|Jeet Kune Do      	|	Monk	|	10	
+						Carta :Item	|Middle Kick       	|	Monk	|	10	
+						Carta :Item	|Uppercut          	|	Monk	|	11	
+				Ordem: 3 - Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 7
+						Carta :Criatura	|Hydromancer       	|	Mage	|	7	
+				Ordem: 4 - Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 29
+						Carta :Criatura	|Templar           	|	Warlock	|	7	
+						Carta :Item	|Pentagram         	|	Warlock	|	11	
+						Carta :Item	|Sacrificial Knife 	|	Warlock	|	9	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 35
+	Turno 10
+		Mesa
+				Item: Uppercut          	|	Monk	|	11	
+				Item: Wind Blast        	|	Mage	|	9	
+				Item: Pandoras Box      	|	Warlock	|	10	
+				Item: ABC05             	|	Warrior	|	0	
+				Item: Demons Horn       	|	Warlock	|	12	
+		Jogadas
+				Ordem: 1 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 13
+						Carta :Criatura	|Troll             	|	Warrior	|	10	
+						Carta :Item	|ABC09             	|	Warrior	|	0	
+						Carta :Item	|ABC05             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 04 ----- Criatura: Warrior ----- ForçaTotal: 10
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+						Carta :Item	|ABC05             	|	Warrior	|	0	
+				Ordem: 3 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 39
+						Carta :Criatura	|Demonologist      	|	Warlock	|	9	
+						Carta :Item	|﻿Witchs Scepter   	|	Warlock	|	9	
+						Carta :Item	|Pandoras Box      	|	Warlock	|	10	
+						Carta :Item	|Demons Horn       	|	Warlock	|	12	
+				Ordem: 4 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 40
+						Carta :Criatura	|Apprentice        	|	Warlock	|	6	
+						Carta :Item	|Soulstone         	|	Warlock	|	11	
+						Carta :Item	|Pandoras Box      	|	Warlock	|	10	
+						Carta :Item	|Demons Horn       	|	Warlock	|	12	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 40
+	Turno 11
+		Mesa
+				Item: Fireball          	|	Mage	|	11	
+				Item: Hook Punch        	|	Monk	|	9	
+				Item: ABC05             	|	Warrior	|	0	
+				Item: Fire Blast        	|	Mage	|	10	
+				Item: ABC07             	|	Warrior	|	0	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 47
+						Carta :Criatura	|Commando Sambo    	|	Monk	|	9	
+						Carta :Item	|Knee Kick         	|	Monk	|	10	
+						Carta :Item	|Round House Kick  	|	Monk	|	11	
+						Carta :Item	|Hook Punch        	|	Monk	|	9	
+				Ordem: 2 - Player: Jogador 03 ----- Criatura: Monk ----- ForçaTotal: 48
+						Carta :Criatura	|Jeet Kune Do      	|	Monk	|	10	
+						Carta :Item	|Straight Punch    	|	Monk	|	10	
+						Carta :Item	|Dragon Kick       	|	Monk	|	11	
+						Carta :Item	|Hook Punch        	|	Monk	|	9	
+				Ordem: 3 - Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 30
+						Carta :Criatura	|Master Mage       	|	Mage	|	9	
+						Carta :Item	|Fireball          	|	Mage	|	11	
+						Carta :Item	|Fire Blast        	|	Mage	|	10	
+				Ordem: 4 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 61
+						Carta :Criatura	|Arch Wizard       	|	Mage	|	10	
+						Carta :Item	|Meteor Shower     	|	Mage	|	12	
+						Carta :Item	|Scorch            	|	Mage	|	9	
+						Carta :Item	|Fireball          	|	Mage	|	11	
+						Carta :Item	|Fire Blast        	|	Mage	|	10	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 61
+	Turno 12
+		Mesa
+				Item: Hook Punch        	|	Monk	|	9	
+				Item: Meteor Shower     	|	Mage	|	12	
+				Item: Uppercut          	|	Monk	|	11	
+				Item: ABC01             	|	Warrior	|	0	
+				Item: Fireball          	|	Mage	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 13
+						Carta :Criatura	|Giant             	|	Warrior	|	8	
+						Carta :Item	|ABC07             	|	Warrior	|	0	
+						Carta :Item	|ABC01             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 37
+						Carta :Criatura	|Arch Wizard       	|	Mage	|	10	
+						Carta :Item	|Meteor Shower     	|	Mage	|	12	
+						Carta :Item	|Fireball          	|	Mage	|	11	
+				Ordem: 3 - Player: Jogador 03 ----- Criatura: Monk ----- ForçaTotal: 32
+						Carta :Criatura	|Muay Thai         	|	Monk	|	8	
+						Carta :Item	|Hook Punch        	|	Monk	|	9	
+						Carta :Item	|Uppercut          	|	Monk	|	11	
+				Ordem: 4 - Player: Jogador 04 ----- Criatura: Warrior ----- ForçaTotal: 11
+						Carta :Criatura	|Warrior           	|	Warrior	|	6	
+						Carta :Item	|ABC01             	|	Warrior	|	0	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 37
+	Turno 13
+		Mesa
+				Item: Soulstone         	|	Warlock	|	11	
+				Item: Straight Punch    	|	Monk	|	10	
+				Item: Hook Punch        	|	Monk	|	9	
+				Item: ABC07             	|	Warrior	|	0	
+				Item: ABC04             	|	Warrior	|	0	
+		Jogadas
+				Ordem: 1 - Player: Jogador 04 ----- Criatura: Warrior ----- ForçaTotal: 13
+						Carta :Criatura	|Ogre              	|	Warrior	|	9	
+						Carta :Item	|ABC06             	|	Warrior	|	0	
+						Carta :Item	|ABC07             	|	Warrior	|	0	
+						Carta :Item	|ABC04             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 10
+						Carta :Criatura	|Arch Wizard       	|	Mage	|	10	
+				Ordem: 3 - Player: Jogador 02 ----- Criatura: Warrior ----- ForçaTotal: 12
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+						Carta :Item	|ABC07             	|	Warrior	|	0	
+						Carta :Item	|ABC04             	|	Warrior	|	0	
+				Ordem: 4 - Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 21
+						Carta :Criatura	|Demonologist      	|	Warlock	|	9	
+						Carta :Item	|Soulstone         	|	Warlock	|	11	
+		Vencedor(es)
+				Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 21
+	Turno 14
+		Mesa
+				Item: ABC10             	|	Warrior	|	0	
+				Item: Sacrificial Knife 	|	Warlock	|	9	
+				Item: ABC07             	|	Warrior	|	0	
+				Item: ﻿Witchs Scepter   	|	Warlock	|	9	
+				Item: ABC05             	|	Warrior	|	0	
+		Jogadas
+				Ordem: 1 - Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 27
+						Carta :Criatura	|Templar           	|	Warlock	|	7	
+						Carta :Item	|Sacrificial Knife 	|	Warlock	|	9	
+						Carta :Item	|﻿Witchs Scepter   	|	Warlock	|	9	
+				Ordem: 2 - Player: Jogador 04 ----- Criatura: Monk ----- ForçaTotal: 16
+						Carta :Criatura	|Muay Thai         	|	Monk	|	8	
+						Carta :Item	|Knee Kick         	|	Monk	|	10	
+				Ordem: 3 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 9
+						Carta :Criatura	|Master Mage       	|	Mage	|	9	
+				Ordem: 4 - Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 10
+						Carta :Criatura	|Arch Wizard       	|	Mage	|	10	
+		Vencedor(es)
+				Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 27
+	Turno 15
+		Mesa
+				Item: ABC04             	|	Warrior	|	0	
+				Item: Pandoras Box      	|	Warlock	|	10	
+				Item: Fire Blast        	|	Mage	|	10	
+				Item: ABC06             	|	Warrior	|	0	
+				Item: Index Prohibitorum	|	Warlock	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 15
+						Carta :Criatura	|Karate            	|	Monk	|	6	
+						Carta :Item	|Low Kick          	|	Monk	|	9	
+				Ordem: 2 - Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 31
+						Carta :Criatura	|Demonologist      	|	Warlock	|	9	
+						Carta :Item	|Pandoras Box      	|	Warlock	|	10	
+						Carta :Item	|Index Prohibitorum	|	Warlock	|	11	
+				Ordem: 3 - Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 17
+						Carta :Criatura	|Hydromancer       	|	Mage	|	7	
+						Carta :Item	|Fire Blast        	|	Mage	|	10	
+				Ordem: 4 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 18
+						Carta :Criatura	|Master Mage       	|	Mage	|	9	
+						Carta :Item	|Fire Blast        	|	Mage	|	10	
+		Vencedor(es)
+				Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 31
+	Turno 16
+		Mesa
+				Item: Low Kick          	|	Monk	|	9	
+				Item: Hook Punch        	|	Monk	|	9	
+				Item: Dragon Kick       	|	Monk	|	11	
+				Item: Haunted Doll      	|	Warlock	|	10	
+				Item: Cauldron of Souls 	|	Warlock	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 32
+						Carta :Criatura	|Master Warlock    	|	Warlock	|	10	
+						Carta :Item	|Haunted Doll      	|	Warlock	|	10	
+						Carta :Item	|Cauldron of Souls 	|	Warlock	|	10	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 34
+						Carta :Criatura	|Hydromancer       	|	Mage	|	7	
+						Carta :Item	|Meteor Shower     	|	Mage	|	12	
+						Carta :Item	|Tornado           	|	Mage	|	11	
+				Ordem: 3 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 10
+						Carta :Criatura	|Giant             	|	Warrior	|	8	
+						Carta :Item	|ABC07             	|	Warrior	|	0	
+				Ordem: 4 - Player: Jogador 04 ----- Criatura: Monk ----- ForçaTotal: 39
+						Carta :Criatura	|Taekwondo         	|	Monk	|	7	
+						Carta :Item	|Low Kick          	|	Monk	|	9	
+						Carta :Item	|Hook Punch        	|	Monk	|	9	
+						Carta :Item	|Dragon Kick       	|	Monk	|	11	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Monk ----- ForçaTotal: 39
+	Turno 17
+		Mesa
+				Item: ABC08             	|	Warrior	|	0	
+				Item: ABC09             	|	Warrior	|	0	
+				Item: ABC04             	|	Warrior	|	0	
+				Item: ﻿Witchs Scepter   	|	Warlock	|	9	
+				Item: ABC02             	|	Warrior	|	0	
+		Jogadas
+				Ordem: 1 - Player: Jogador 04 ----- Criatura: Monk ----- ForçaTotal: 7
+						Carta :Criatura	|Taekwondo         	|	Monk	|	7	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 8
+						Carta :Criatura	|Aeromancer        	|	Mage	|	8	
+				Ordem: 3 - Player: Jogador 02 ----- Criatura: Warrior ----- ForçaTotal: 11
+						Carta :Criatura	|Giant             	|	Warrior	|	8	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+						Carta :Item	|ABC09             	|	Warrior	|	0	
+						Carta :Item	|ABC04             	|	Warrior	|	0	
+						Carta :Item	|ABC02             	|	Warrior	|	0	
+				Ordem: 4 - Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 29
+						Carta :Criatura	|Necromancer       	|	Warlock	|	8	
+						Carta :Item	|Cauldron of Souls 	|	Warlock	|	10	
+						Carta :Item	|﻿Witchs Scepter   	|	Warlock	|	9	
+		Vencedor(es)
+				Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 29
+	Turno 18
+		Mesa
+				Item: Soulstone         	|	Warlock	|	11	
+				Item: Middle Kick       	|	Monk	|	10	
+				Item: Knee Kick         	|	Monk	|	10	
+				Item: ABC09             	|	Warrior	|	0	
+				Item: Wind Blast        	|	Mage	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 9
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+						Carta :Item	|ABC09             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 04 ----- Criatura: Warrior ----- ForçaTotal: 8
+						Carta :Criatura	|Warrior           	|	Warrior	|	6	
+						Carta :Item	|ABC09             	|	Warrior	|	0	
+				Ordem: 3 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 19
+						Carta :Criatura	|Arch Wizard       	|	Mage	|	10	
+						Carta :Item	|Wind Blast        	|	Mage	|	9	
+				Ordem: 4 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 30
+						Carta :Criatura	|Jeet Kune Do      	|	Monk	|	10	
+						Carta :Item	|Middle Kick       	|	Monk	|	10	
+						Carta :Item	|Knee Kick         	|	Monk	|	10	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 30
+	Turno 19
+		Mesa
+				Item: ABC01             	|	Warrior	|	0	
+				Item: Dragon Kick       	|	Monk	|	11	
+				Item: Index Prohibitorum	|	Warlock	|	11	
+				Item: Pentagram         	|	Warlock	|	11	
+				Item: Tornado           	|	Mage	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 32
+						Carta :Criatura	|Demonologist      	|	Warlock	|	9	
+						Carta :Item	|Index Prohibitorum	|	Warlock	|	11	
+						Carta :Item	|Pentagram         	|	Warlock	|	11	
+				Ordem: 2 - Player: Jogador 03 ----- Criatura: Monk ----- ForçaTotal: 42
+						Carta :Criatura	|Taekwondo         	|	Monk	|	7	
+						Carta :Item	|Round House Kick  	|	Monk	|	11	
+						Carta :Item	|Knee Kick         	|	Monk	|	10	
+						Carta :Item	|Dragon Kick       	|	Monk	|	11	
+				Ordem: 3 - Player: Jogador 04 ----- Criatura: Monk ----- ForçaTotal: 19
+						Carta :Criatura	|Muay Thai         	|	Monk	|	8	
+						Carta :Item	|Dragon Kick       	|	Monk	|	11	
+				Ordem: 4 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 32
+						Carta :Criatura	|Necromancer       	|	Warlock	|	8	
+						Carta :Item	|Index Prohibitorum	|	Warlock	|	11	
+						Carta :Item	|Pentagram         	|	Warlock	|	11	
+		Vencedor(es)
+				Player: Jogador 03 ----- Criatura: Monk ----- ForçaTotal: 42
+	Turno 20
+		Mesa
+				Item: Low Kick          	|	Monk	|	9	
+				Item: Uppercut          	|	Monk	|	11	
+				Item: ABC02             	|	Warrior	|	0	
+				Item: Scorch            	|	Mage	|	9	
+				Item: ﻿Witchs Scepter   	|	Warlock	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 13
+						Carta :Criatura	|Giant             	|	Warrior	|	8	
+						Carta :Item	|ABC01             	|	Warrior	|	0	
+						Carta :Item	|ABC02             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 35
+						Carta :Criatura	|Arch Wizard       	|	Mage	|	10	
+						Carta :Item	|Meteor Shower     	|	Mage	|	12	
+						Carta :Item	|Scorch            	|	Mage	|	9	
+				Ordem: 3 - Player: Jogador 03 ----- Criatura: Monk ----- ForçaTotal: 38
+						Carta :Criatura	|Karate            	|	Monk	|	6	
+						Carta :Item	|Middle Kick       	|	Monk	|	10	
+						Carta :Item	|Low Kick          	|	Monk	|	9	
+						Carta :Item	|Uppercut          	|	Monk	|	11	
+				Ordem: 4 - Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 29
+						Carta :Criatura	|Hydromancer       	|	Mage	|	7	
+						Carta :Item	|Thunder Bolt      	|	Mage	|	10	
+						Carta :Item	|Scorch            	|	Mage	|	9	
+		Vencedor(es)
+				Player: Jogador 03 ----- Criatura: Monk ----- ForçaTotal: 38
+	Turno 21
+		Mesa
+				Item: Demons Horn       	|	Warlock	|	12	
+				Item: ABC08             	|	Warrior	|	0	
+				Item: Meteor Shower     	|	Mage	|	12	
+				Item: Fireball          	|	Mage	|	11	
+				Item: Tornado           	|	Mage	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 04 ----- Criatura: Monk ----- ForçaTotal: 10
+						Carta :Criatura	|Jeet Kune Do      	|	Monk	|	10	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 46
+						Carta :Criatura	|Aeromancer        	|	Mage	|	8	
+						Carta :Item	|Meteor Shower     	|	Mage	|	12	
+						Carta :Item	|Fireball          	|	Mage	|	11	
+						Carta :Item	|Tornado           	|	Mage	|	11	
+				Ordem: 3 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 20
+						Carta :Criatura	|Necromancer       	|	Warlock	|	8	
+						Carta :Item	|Demons Horn       	|	Warlock	|	12	
+				Ordem: 4 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 11
+						Carta :Criatura	|Ogre              	|	Warrior	|	9	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 46
+	Turno 22
+		Mesa
+				Item: ABC06             	|	Warrior	|	0	
+				Item: ﻿Witchs Scepter   	|	Warlock	|	9	
+				Item: ABC07             	|	Warrior	|	0	
+				Item: ABC02             	|	Warrior	|	0	
+				Item: ABC09             	|	Warrior	|	0	
+		Jogadas
+				Ordem: 1 - Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 18
+						Carta :Criatura	|Master Warlock    	|	Warlock	|	10	
+						Carta :Item	|﻿Witchs Scepter   	|	Warlock	|	9	
+				Ordem: 2 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 30
+						Carta :Criatura	|Demonologist      	|	Warlock	|	9	
+						Carta :Item	|Soulstone         	|	Warlock	|	11	
+						Carta :Item	|﻿Witchs Scepter   	|	Warlock	|	9	
+				Ordem: 3 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 9
+						Carta :Criatura	|Master Mage       	|	Mage	|	9	
+				Ordem: 4 - Player: Jogador 02 ----- Criatura: Warrior ----- ForçaTotal: 11
+						Carta :Criatura	|Warrior           	|	Warrior	|	6	
+						Carta :Item	|ABC06             	|	Warrior	|	0	
+						Carta :Item	|ABC07             	|	Warrior	|	0	
+						Carta :Item	|ABC02             	|	Warrior	|	0	
+						Carta :Item	|ABC09             	|	Warrior	|	0	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 30
+	Turno 23
+		Mesa
+				Item: ABC06             	|	Warrior	|	0	
+				Item: Index Prohibitorum	|	Warlock	|	11	
+				Item: Fireball          	|	Mage	|	11	
+				Item: Round House Kick  	|	Monk	|	11	
+				Item: Hook Punch        	|	Monk	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Warrior ----- ForçaTotal: 14
+						Carta :Criatura	|Ogre              	|	Warrior	|	9	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+						Carta :Item	|ABC06             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 35
+						Carta :Criatura	|Master Warlock    	|	Warlock	|	10	
+						Carta :Item	|Demons Horn       	|	Warlock	|	12	
+						Carta :Item	|Index Prohibitorum	|	Warlock	|	11	
+				Ordem: 3 - Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 19
+						Carta :Criatura	|Aeromancer        	|	Mage	|	8	
+						Carta :Item	|Fireball          	|	Mage	|	11	
+				Ordem: 4 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 33
+						Carta :Criatura	|Arch Wizard       	|	Mage	|	10	
+						Carta :Item	|Ice Bolt          	|	Mage	|	10	
+						Carta :Item	|Fireball          	|	Mage	|	11	
+		Vencedor(es)
+				Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 35
+	Turno 24
+		Mesa
+				Item: ABC03             	|	Warrior	|	0	
+				Item: Blizzard          	|	Mage	|	11	
+				Item: Straight Punch    	|	Monk	|	10	
+				Item: Thunder Bolt      	|	Mage	|	10	
+				Item: Uppercut          	|	Monk	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 10
+						Carta :Criatura	|Master Warlock    	|	Warlock	|	10	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 38
+						Carta :Criatura	|Jeet Kune Do      	|	Monk	|	10	
+						Carta :Item	|Straight Punch    	|	Monk	|	10	
+						Carta :Item	|Uppercut          	|	Monk	|	11	
+				Ordem: 3 - Player: Jogador 03 ----- Criatura: Mage ----- ForçaTotal: 35
+						Carta :Criatura	|Arch Wizard       	|	Mage	|	10	
+						Carta :Item	|Blizzard          	|	Mage	|	11	
+						Carta :Item	|Thunder Bolt      	|	Mage	|	10	
+				Ordem: 4 - Player: Jogador 04 ----- Criatura: Warrior ----- ForçaTotal: 9
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+						Carta :Item	|ABC03             	|	Warrior	|	0	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 38
+	Turno 25
+		Mesa
+				Item: Hook Punch        	|	Monk	|	9	
+				Item: Pandoras Box      	|	Warlock	|	10	
+				Item: Low Kick          	|	Monk	|	9	
+				Item: ABC05             	|	Warrior	|	0	
+				Item: ABC04             	|	Warrior	|	0	
+		Jogadas
+				Ordem: 1 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 19
+						Carta :Criatura	|Templar           	|	Warlock	|	7	
+						Carta :Item	|Pandoras Box      	|	Warlock	|	10	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 24
+						Carta :Criatura	|Muay Thai         	|	Monk	|	8	
+						Carta :Item	|Hook Punch        	|	Monk	|	9	
+						Carta :Item	|Low Kick          	|	Monk	|	9	
+				Ordem: 3 - Player: Jogador 02 ----- Criatura: Warrior ----- ForçaTotal: 14
+						Carta :Criatura	|Ogre              	|	Warrior	|	9	
+						Carta :Item	|ABC07             	|	Warrior	|	0	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+						Carta :Item	|ABC05             	|	Warrior	|	0	
+						Carta :Item	|ABC04             	|	Warrior	|	0	
+				Ordem: 4 - Player: Jogador 03 ----- Criatura: Mage ----- ForçaTotal: 18
+						Carta :Criatura	|Pyromancer        	|	Mage	|	6	
+						Carta :Item	|Meteor Shower     	|	Mage	|	12	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 24
+	Turno 26
+		Mesa
+				Item: Middle Kick       	|	Monk	|	10	
+				Item: Round House Kick  	|	Monk	|	11	
+				Item: Blizzard          	|	Mage	|	11	
+				Item: ABC07             	|	Warrior	|	0	
+				Item: Cauldron of Souls 	|	Warlock	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 03 ----- Criatura: Mage ----- ForçaTotal: 18
+						Carta :Criatura	|Hydromancer       	|	Mage	|	7	
+						Carta :Item	|Blizzard          	|	Mage	|	11	
+				Ordem: 2 - Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 44
+						Carta :Criatura	|Master Mage       	|	Mage	|	9	
+						Carta :Item	|Fireball          	|	Mage	|	11	
+						Carta :Item	|Scorch            	|	Mage	|	9	
+						Carta :Item	|Blizzard          	|	Mage	|	11	
+				Ordem: 3 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 8
+						Carta :Criatura	|Warrior           	|	Warrior	|	6	
+						Carta :Item	|ABC07             	|	Warrior	|	0	
+				Ordem: 4 - Player: Jogador 02 ----- Criatura: Warrior ----- ForçaTotal: 10
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+						Carta :Item	|ABC03             	|	Warrior	|	0	
+						Carta :Item	|ABC07             	|	Warrior	|	0	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 44
+	Turno 27
+		Mesa
+				Item: Ghost Chains      	|	Warlock	|	9	
+				Item: ABC03             	|	Warrior	|	0	
+				Item: Fireball          	|	Mage	|	11	
+				Item: Low Kick          	|	Monk	|	9	
+				Item: Demons Horn       	|	Warlock	|	12	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 18
+						Carta :Criatura	|Aeromancer        	|	Mage	|	8	
+						Carta :Item	|Fireball          	|	Mage	|	11	
+				Ordem: 2 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 8
+						Carta :Criatura	|Warrior           	|	Warrior	|	6	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+						Carta :Item	|ABC03             	|	Warrior	|	0	
+				Ordem: 3 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 44
+						Carta :Criatura	|Demonologist      	|	Warlock	|	9	
+						Carta :Item	|Soulstone         	|	Warlock	|	11	
+						Carta :Item	|Ghost Chains      	|	Warlock	|	9	
+						Carta :Item	|Demons Horn       	|	Warlock	|	12	
+				Ordem: 4 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 33
+						Carta :Criatura	|Commando Sambo    	|	Monk	|	9	
+						Carta :Item	|Knee Kick         	|	Monk	|	10	
+						Carta :Item	|Low Kick          	|	Monk	|	9	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 44
+	Turno 28
+		Mesa
+				Item: Scorch            	|	Mage	|	9	
+				Item: Low Kick          	|	Monk	|	9	
+				Item: Ghost Chains      	|	Warlock	|	9	
+				Item: ﻿Witchs Scepter   	|	Warlock	|	9	
+				Item: Soulstone         	|	Warlock	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 36
+						Carta :Criatura	|Apprentice        	|	Warlock	|	6	
+						Carta :Item	|Ghost Chains      	|	Warlock	|	9	
+						Carta :Item	|﻿Witchs Scepter   	|	Warlock	|	9	
+						Carta :Item	|Soulstone         	|	Warlock	|	11	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 47
+						Carta :Criatura	|Templar           	|	Warlock	|	7	
+						Carta :Item	|Demons Horn       	|	Warlock	|	12	
+						Carta :Item	|Ghost Chains      	|	Warlock	|	9	
+						Carta :Item	|﻿Witchs Scepter   	|	Warlock	|	9	
+						Carta :Item	|Soulstone         	|	Warlock	|	11	
+				Ordem: 3 - Player: Jogador 03 ----- Criatura: Monk ----- ForçaTotal: 27
+						Carta :Criatura	|Karate            	|	Monk	|	6	
+						Carta :Item	|Uppercut          	|	Monk	|	11	
+						Carta :Item	|Low Kick          	|	Monk	|	9	
+				Ordem: 4 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 40
+						Carta :Criatura	|Master Warlock    	|	Warlock	|	10	
+						Carta :Item	|Ghost Chains      	|	Warlock	|	9	
+						Carta :Item	|﻿Witchs Scepter   	|	Warlock	|	9	
+						Carta :Item	|Soulstone         	|	Warlock	|	11	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 47
+	Turno 29
+		Mesa
+				Item: ABC06             	|	Warrior	|	0	
+				Item: Fireball          	|	Mage	|	11	
+				Item: Jab Punch         	|	Monk	|	9	
+				Item: ABC02             	|	Warrior	|	0	
+				Item: Pandoras Box      	|	Warlock	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 26
+						Carta :Criatura	|Apprentice        	|	Warlock	|	6	
+						Carta :Item	|Pentagram         	|	Warlock	|	11	
+						Carta :Item	|Pandoras Box      	|	Warlock	|	10	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 19
+						Carta :Criatura	|Necromancer       	|	Warlock	|	8	
+						Carta :Item	|Pandoras Box      	|	Warlock	|	10	
+				Ordem: 3 - Player: Jogador 02 ----- Criatura: Warrior ----- ForçaTotal: 13
+						Carta :Criatura	|Troll             	|	Warrior	|	10	
+						Carta :Item	|ABC06             	|	Warrior	|	0	
+						Carta :Item	|ABC02             	|	Warrior	|	0	
+				Ordem: 4 - Player: Jogador 03 ----- Criatura: Monk ----- ForçaTotal: 15
+						Carta :Criatura	|Karate            	|	Monk	|	6	
+						Carta :Item	|Jab Punch         	|	Monk	|	9	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 26
+	Turno 30
+		Mesa
+				Item: Blizzard          	|	Mage	|	11	
+				Item: Knee Kick         	|	Monk	|	10	
+				Item: Dragon Kick       	|	Monk	|	11	
+				Item: ABC08             	|	Warrior	|	0	
+				Item: Pentagram         	|	Warlock	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 13
+						Carta :Criatura	|Troll             	|	Warrior	|	10	
+						Carta :Item	|ABC10             	|	Warrior	|	0	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 19
+						Carta :Criatura	|Necromancer       	|	Warlock	|	8	
+						Carta :Item	|Pentagram         	|	Warlock	|	11	
+				Ordem: 3 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 42
+						Carta :Criatura	|Taekwondo         	|	Monk	|	7	
+						Carta :Item	|Hook Punch        	|	Monk	|	9	
+						Carta :Item	|Knee Kick         	|	Monk	|	10	
+						Carta :Item	|Dragon Kick       	|	Monk	|	11	
+				Ordem: 4 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 27
+						Carta :Criatura	|Karate            	|	Monk	|	6	
+						Carta :Item	|Knee Kick         	|	Monk	|	10	
+						Carta :Item	|Dragon Kick       	|	Monk	|	11	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 42
+	Turno 31
+		Mesa
+				Item: ﻿Witchs Scepter   	|	Warlock	|	9	
+				Item: Middle Kick       	|	Monk	|	10	
+				Item: Demons Horn       	|	Warlock	|	12	
+				Item: ABC03             	|	Warrior	|	0	
+				Item: Hook Punch        	|	Monk	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Warrior ----- ForçaTotal: 11
+						Carta :Criatura	|Ogre              	|	Warrior	|	9	
+						Carta :Item	|ABC03             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 03 ----- Criatura: Mage ----- ForçaTotal: 19
+						Carta :Criatura	|Arch Wizard       	|	Mage	|	10	
+						Carta :Item	|Wind Blast        	|	Mage	|	9	
+				Ordem: 3 - Player: Jogador 04 ----- Criatura: Monk ----- ForçaTotal: 43
+						Carta :Criatura	|Muay Thai         	|	Monk	|	8	
+						Carta :Item	|Round House Kick  	|	Monk	|	11	
+						Carta :Item	|Middle Kick       	|	Monk	|	10	
+						Carta :Item	|Hook Punch        	|	Monk	|	9	
+				Ordem: 4 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 42
+						Carta :Criatura	|Master Warlock    	|	Warlock	|	10	
+						Carta :Item	|Ghost Chains      	|	Warlock	|	9	
+						Carta :Item	|﻿Witchs Scepter   	|	Warlock	|	9	
+						Carta :Item	|Demons Horn       	|	Warlock	|	12	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Monk ----- ForçaTotal: 43
+	Turno 32
+		Mesa
+				Item: Dragon Kick       	|	Monk	|	11	
+				Item: Dragon Punch      	|	Monk	|	12	
+				Item: ﻿Witchs Scepter   	|	Warlock	|	9	
+				Item: Tornado           	|	Mage	|	11	
+				Item: Uppercut          	|	Monk	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 44
+						Carta :Criatura	|Karate            	|	Monk	|	6	
+						Carta :Item	|Dragon Kick       	|	Monk	|	11	
+						Carta :Item	|Dragon Punch      	|	Monk	|	12	
+						Carta :Item	|Uppercut          	|	Monk	|	11	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 24
+						Carta :Criatura	|Master Mage       	|	Mage	|	9	
+						Carta :Item	|Tornado           	|	Mage	|	11	
+				Ordem: 3 - Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 19
+						Carta :Criatura	|Master Warlock    	|	Warlock	|	10	
+						Carta :Item	|﻿Witchs Scepter   	|	Warlock	|	9	
+				Ordem: 4 - Player: Jogador 04 ----- Criatura: Monk ----- ForçaTotal: 64
+						Carta :Criatura	|Jeet Kune Do      	|	Monk	|	10	
+						Carta :Item	|Middle Kick       	|	Monk	|	10	
+						Carta :Item	|Dragon Kick       	|	Monk	|	11	
+						Carta :Item	|Dragon Punch      	|	Monk	|	12	
+						Carta :Item	|Uppercut          	|	Monk	|	11	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Monk ----- ForçaTotal: 64
+	Turno 33
+		Mesa
+				Item: ABC02             	|	Warrior	|	0	
+				Item: Uppercut          	|	Monk	|	11	
+				Item: ﻿Witchs Scepter   	|	Warlock	|	9	
+				Item: Low Kick          	|	Monk	|	9	
+				Item: Index Prohibitorum	|	Warlock	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 04 ----- Criatura: Monk ----- ForçaTotal: 45
+						Carta :Criatura	|Commando Sambo    	|	Monk	|	9	
+						Carta :Item	|Jab Punch         	|	Monk	|	9	
+						Carta :Item	|Uppercut          	|	Monk	|	11	
+						Carta :Item	|Low Kick          	|	Monk	|	9	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 11
+						Carta :Criatura	|Giant             	|	Warrior	|	8	
+						Carta :Item	|ABC05             	|	Warrior	|	0	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+						Carta :Item	|ABC02             	|	Warrior	|	0	
+				Ordem: 3 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 29
+						Carta :Criatura	|Templar           	|	Warlock	|	7	
+						Carta :Item	|﻿Witchs Scepter   	|	Warlock	|	9	
+						Carta :Item	|Index Prohibitorum	|	Warlock	|	11	
+				Ordem: 4 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 10
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+						Carta :Item	|ABC06             	|	Warrior	|	0	
+						Carta :Item	|ABC02             	|	Warrior	|	0	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Monk ----- ForçaTotal: 45
+	Turno 34
+		Mesa
+				Item: Ghost Chains      	|	Warlock	|	9	
+				Item: ABC02             	|	Warrior	|	0	
+				Item: ABC06             	|	Warrior	|	0	
+				Item: Tornado           	|	Mage	|	11	
+				Item: Dragon Punch      	|	Monk	|	12	
+		Jogadas
+				Ordem: 1 - Player: Jogador 03 ----- Criatura: Mage ----- ForçaTotal: 24
+						Carta :Criatura	|Master Mage       	|	Mage	|	9	
+						Carta :Item	|Tornado           	|	Mage	|	11	
+				Ordem: 2 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 30
+						Carta :Criatura	|Master Warlock    	|	Warlock	|	10	
+						Carta :Item	|Sacrificial Knife 	|	Warlock	|	9	
+						Carta :Item	|Ghost Chains      	|	Warlock	|	9	
+				Ordem: 3 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 27
+						Carta :Criatura	|Pyromancer        	|	Mage	|	6	
+						Carta :Item	|Meteor Shower     	|	Mage	|	12	
+						Carta :Item	|Tornado           	|	Mage	|	11	
+				Ordem: 4 - Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 19
+						Carta :Criatura	|Aeromancer        	|	Mage	|	8	
+						Carta :Item	|Tornado           	|	Mage	|	11	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 30
+	Turno 35
+		Mesa
+				Item: Haunted Doll      	|	Warlock	|	10	
+				Item: Uppercut          	|	Monk	|	11	
+				Item: Soulstone         	|	Warlock	|	11	
+				Item: Ghost Chains      	|	Warlock	|	9	
+				Item: Wind Blast        	|	Mage	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 18
+						Carta :Criatura	|Hydromancer       	|	Mage	|	7	
+						Carta :Item	|Wind Blast        	|	Mage	|	9	
+				Ordem: 2 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 7
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+				Ordem: 3 - Player: Jogador 04 ----- Criatura: Warrior ----- ForçaTotal: 8
+						Carta :Criatura	|Giant             	|	Warrior	|	8	
+				Ordem: 4 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 20
+						Carta :Criatura	|Master Mage       	|	Mage	|	9	
+						Carta :Item	|Wind Blast        	|	Mage	|	9	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 20
+	Turno 36
+		Mesa
+				Item: Knee Kick         	|	Monk	|	10	
+				Item: Round House Kick  	|	Monk	|	11	
+				Item: Pentagram         	|	Warlock	|	11	
+				Item: Index Prohibitorum	|	Warlock	|	11	
+				Item: Fireball          	|	Mage	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 31
+						Carta :Criatura	|Jeet Kune Do      	|	Monk	|	10	
+						Carta :Item	|Knee Kick         	|	Monk	|	10	
+						Carta :Item	|Round House Kick  	|	Monk	|	11	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 29
+						Carta :Criatura	|Apprentice        	|	Warlock	|	6	
+						Carta :Item	|Pentagram         	|	Warlock	|	11	
+						Carta :Item	|Index Prohibitorum	|	Warlock	|	11	
+				Ordem: 3 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 9
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+						Carta :Item	|ABC10             	|	Warrior	|	0	
+				Ordem: 4 - Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 34
+						Carta :Criatura	|Master Mage       	|	Mage	|	9	
+						Carta :Item	|Tornado           	|	Mage	|	11	
+						Carta :Item	|Fireball          	|	Mage	|	11	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 34
+	Turno 37
+		Mesa
+				Item: Dragon Punch      	|	Monk	|	12	
+				Item: Meteor Shower     	|	Mage	|	12	
+				Item: ABC04             	|	Warrior	|	0	
+				Item: ABC05             	|	Warrior	|	0	
+				Item: ABC10             	|	Warrior	|	0	
+		Jogadas
+				Ordem: 1 - Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 30
+						Carta :Criatura	|Hydromancer       	|	Mage	|	7	
+						Carta :Item	|Wind Blast        	|	Mage	|	9	
+						Carta :Item	|Meteor Shower     	|	Mage	|	12	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 15
+						Carta :Criatura	|Troll             	|	Warrior	|	10	
+						Carta :Item	|ABC04             	|	Warrior	|	0	
+						Carta :Item	|ABC05             	|	Warrior	|	0	
+						Carta :Item	|ABC10             	|	Warrior	|	0	
+				Ordem: 3 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 6
+						Carta :Criatura	|Apprentice        	|	Warlock	|	6	
+				Ordem: 4 - Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 18
+						Carta :Criatura	|Necromancer       	|	Warlock	|	8	
+						Carta :Item	|Haunted Doll      	|	Warlock	|	10	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 30
+	Turno 38
+		Mesa
+				Item: Haunted Doll      	|	Warlock	|	10	
+				Item: Wind Blast        	|	Mage	|	9	
+				Item: Fire Blast        	|	Mage	|	10	
+				Item: Meteor Shower     	|	Mage	|	12	
+				Item: ABC07             	|	Warrior	|	0	
+		Jogadas
+				Ordem: 1 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 12
+						Carta :Criatura	|Troll             	|	Warrior	|	10	
+						Carta :Item	|ABC07             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 04 ----- Criatura: Warrior ----- ForçaTotal: 9
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+						Carta :Item	|ABC07             	|	Warrior	|	0	
+				Ordem: 3 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 7
+						Carta :Criatura	|Taekwondo         	|	Monk	|	7	
+				Ordem: 4 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 8
+						Carta :Criatura	|Muay Thai         	|	Monk	|	8	
+		Vencedor(es)
+				Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 12
+	Turno 39
+		Mesa
+				Item: Cauldron of Souls 	|	Warlock	|	10	
+				Item: Blizzard          	|	Mage	|	11	
+				Item: ABC02             	|	Warrior	|	0	
+				Item: Jab Punch         	|	Monk	|	9	
+				Item: Dragon Kick       	|	Monk	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 36
+						Carta :Criatura	|Jeet Kune Do      	|	Monk	|	10	
+						Carta :Item	|Jab Punch         	|	Monk	|	9	
+						Carta :Item	|Dragon Kick       	|	Monk	|	11	
+				Ordem: 2 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 11
+						Carta :Criatura	|Giant             	|	Warrior	|	8	
+						Carta :Item	|ABC06             	|	Warrior	|	0	
+						Carta :Item	|ABC02             	|	Warrior	|	0	
+				Ordem: 3 - Player: Jogador 04 ----- Criatura: Warrior ----- ForçaTotal: 8
+						Carta :Criatura	|Warrior           	|	Warrior	|	6	
+						Carta :Item	|ABC07             	|	Warrior	|	0	
+						Carta :Item	|ABC02             	|	Warrior	|	0	
+				Ordem: 4 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 57
+						Carta :Criatura	|Commando Sambo    	|	Monk	|	9	
+						Carta :Item	|Round House Kick  	|	Monk	|	11	
+						Carta :Item	|Low Kick          	|	Monk	|	9	
+						Carta :Item	|Jab Punch         	|	Monk	|	9	
+						Carta :Item	|Dragon Kick       	|	Monk	|	11	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 57
+	Turno 40
+		Mesa
+				Item: Ice Bolt          	|	Mage	|	10	
+				Item: Fireball          	|	Mage	|	11	
+				Item: Dragon Punch      	|	Monk	|	12	
+				Item: Dragon Kick       	|	Monk	|	11	
+				Item: Hook Punch        	|	Monk	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 8
+						Carta :Criatura	|Necromancer       	|	Warlock	|	8	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 52
+						Carta :Criatura	|Karate            	|	Monk	|	6	
+						Carta :Item	|Knee Kick         	|	Monk	|	10	
+						Carta :Item	|Dragon Punch      	|	Monk	|	12	
+						Carta :Item	|Dragon Kick       	|	Monk	|	11	
+						Carta :Item	|Hook Punch        	|	Monk	|	9	
+				Ordem: 3 - Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 10
+						Carta :Criatura	|Master Warlock    	|	Warlock	|	10	
+				Ordem: 4 - Player: Jogador 04 ----- Criatura: Warrior ----- ForçaTotal: 6
+						Carta :Criatura	|Warrior           	|	Warrior	|	6	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 52
+	Turno 41
+		Mesa
+				Item: Low Kick          	|	Monk	|	9	
+				Item: Cauldron of Souls 	|	Warlock	|	10	
+				Item: ABC07             	|	Warrior	|	0	
+				Item: Index Prohibitorum	|	Warlock	|	11	
+				Item: Thunder Bolt      	|	Mage	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 04 ----- Criatura: Warrior ----- ForçaTotal: 10
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+						Carta :Item	|ABC09             	|	Warrior	|	0	
+						Carta :Item	|ABC07             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 18
+						Carta :Criatura	|Hydromancer       	|	Mage	|	7	
+						Carta :Item	|Thunder Bolt      	|	Mage	|	10	
+				Ordem: 3 - Player: Jogador 02 ----- Criatura: Warrior ----- ForçaTotal: 12
+						Carta :Criatura	|Troll             	|	Warrior	|	10	
+						Carta :Item	|ABC07             	|	Warrior	|	0	
+				Ordem: 4 - Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 39
+						Carta :Criatura	|Templar           	|	Warlock	|	7	
+						Carta :Item	|﻿Witchs Scepter   	|	Warlock	|	9	
+						Carta :Item	|Cauldron of Souls 	|	Warlock	|	10	
+						Carta :Item	|Index Prohibitorum	|	Warlock	|	11	
+		Vencedor(es)
+				Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 39
+	Turno 42
+		Mesa
+				Item: ABC10             	|	Warrior	|	0	
+				Item: Jab Punch         	|	Monk	|	9	
+				Item: ABC01             	|	Warrior	|	0	
+				Item: ABC08             	|	Warrior	|	0	
+				Item: ABC03             	|	Warrior	|	0	
+		Jogadas
+				Ordem: 1 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 11
+						Carta :Criatura	|Warrior           	|	Warrior	|	6	
+						Carta :Item	|ABC10             	|	Warrior	|	0	
+						Carta :Item	|ABC01             	|	Warrior	|	0	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+						Carta :Item	|ABC03             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 19
+						Carta :Criatura	|Demonologist      	|	Warlock	|	9	
+						Carta :Item	|Haunted Doll      	|	Warlock	|	10	
+				Ordem: 3 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 6
+						Carta :Criatura	|Apprentice        	|	Warlock	|	6	
+				Ordem: 4 - Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 21
+						Carta :Criatura	|Arch Wizard       	|	Mage	|	10	
+						Carta :Item	|Tornado           	|	Mage	|	11	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 21
+	Turno 43
+		Mesa
+				Item: Thunder Bolt      	|	Mage	|	10	
+				Item: ABC04             	|	Warrior	|	0	
+				Item: Ice Bolt          	|	Mage	|	10	
+				Item: Fire Blast        	|	Mage	|	10	
+				Item: Sacrificial Knife 	|	Warlock	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Warrior ----- ForçaTotal: 11
+						Carta :Criatura	|Giant             	|	Warrior	|	8	
+						Carta :Item	|ABC10             	|	Warrior	|	0	
+						Carta :Item	|ABC09             	|	Warrior	|	0	
+						Carta :Item	|ABC04             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 10
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+						Carta :Item	|ABC04             	|	Warrior	|	0	
+				Ordem: 3 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 18
+						Carta :Criatura	|Demonologist      	|	Warlock	|	9	
+						Carta :Item	|Sacrificial Knife 	|	Warlock	|	9	
+				Ordem: 4 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 19
+						Carta :Criatura	|Master Warlock    	|	Warlock	|	10	
+						Carta :Item	|Sacrificial Knife 	|	Warlock	|	9	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 19
+	Turno 44
+		Mesa
+				Item: Pandoras Box      	|	Warlock	|	10	
+				Item: Scorch            	|	Mage	|	9	
+				Item: Demons Horn       	|	Warlock	|	12	
+				Item: ABC08             	|	Warrior	|	0	
+				Item: Haunted Doll      	|	Warlock	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 11
+						Carta :Criatura	|Giant             	|	Warrior	|	8	
+						Carta :Item	|ABC04             	|	Warrior	|	0	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 30
+						Carta :Criatura	|Pyromancer        	|	Mage	|	6	
+						Carta :Item	|Fire Blast        	|	Mage	|	10	
+						Carta :Item	|Scorch            	|	Mage	|	9	
+				Ordem: 3 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 9
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+				Ordem: 4 - Player: Jogador 04 ----- Criatura: Warrior ----- ForçaTotal: 12
+						Carta :Criatura	|Troll             	|	Warrior	|	10	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 30
+	Turno 45
+		Mesa
+				Item: Fire Blast        	|	Mage	|	10	
+				Item: Ghost Chains      	|	Warlock	|	9	
+				Item: ﻿Witchs Scepter   	|	Warlock	|	9	
+				Item: Middle Kick       	|	Monk	|	10	
+				Item: Jab Punch         	|	Monk	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 27
+						Carta :Criatura	|Aeromancer        	|	Mage	|	8	
+						Carta :Item	|Scorch            	|	Mage	|	9	
+						Carta :Item	|Fire Blast        	|	Mage	|	10	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 31
+						Carta :Criatura	|Commando Sambo    	|	Monk	|	9	
+						Carta :Item	|Middle Kick       	|	Monk	|	10	
+						Carta :Item	|Jab Punch         	|	Monk	|	9	
+				Ordem: 3 - Player: Jogador 02 ----- Criatura: Warrior ----- ForçaTotal: 10
+						Carta :Criatura	|Giant             	|	Warrior	|	8	
+						Carta :Item	|ABC03             	|	Warrior	|	0	
+				Ordem: 4 - Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 30
+						Carta :Criatura	|Master Warlock    	|	Warlock	|	10	
+						Carta :Item	|Ghost Chains      	|	Warlock	|	9	
+						Carta :Item	|﻿Witchs Scepter   	|	Warlock	|	9	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 31
+	Turno 46
+		Mesa
+				Item: Uppercut          	|	Monk	|	11	
+				Item: Soulstone         	|	Warlock	|	11	
+				Item: Pentagram         	|	Warlock	|	11	
+				Item: ABC09             	|	Warrior	|	0	
+				Item: Hook Punch        	|	Monk	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 12
+						Carta :Criatura	|Ogre              	|	Warrior	|	9	
+						Carta :Item	|ABC04             	|	Warrior	|	0	
+						Carta :Item	|ABC09             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 26
+						Carta :Criatura	|Arch Wizard       	|	Mage	|	10	
+						Carta :Item	|Meteor Shower     	|	Mage	|	12	
+				Ordem: 3 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 29
+						Carta :Criatura	|Karate            	|	Monk	|	6	
+						Carta :Item	|Uppercut          	|	Monk	|	11	
+						Carta :Item	|Hook Punch        	|	Monk	|	9	
+				Ordem: 4 - Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 8
+						Carta :Criatura	|Aeromancer        	|	Mage	|	8	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 29
+	Turno 47
+		Mesa
+				Item: Tornado           	|	Mage	|	11	
+				Item: ABC02             	|	Warrior	|	0	
+				Item: ABC04             	|	Warrior	|	0	
+				Item: ABC03             	|	Warrior	|	0	
+				Item: Sacrificial Knife 	|	Warlock	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 15
+						Carta :Criatura	|Apprentice        	|	Warlock	|	6	
+						Carta :Item	|Sacrificial Knife 	|	Warlock	|	9	
+				Ordem: 2 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 13
+						Carta :Criatura	|Giant             	|	Warrior	|	8	
+						Carta :Item	|ABC10             	|	Warrior	|	0	
+						Carta :Item	|ABC06             	|	Warrior	|	0	
+						Carta :Item	|ABC02             	|	Warrior	|	0	
+						Carta :Item	|ABC04             	|	Warrior	|	0	
+						Carta :Item	|ABC03             	|	Warrior	|	0	
+				Ordem: 3 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 32
+						Carta :Criatura	|Master Warlock    	|	Warlock	|	10	
+						Carta :Item	|Pentagram         	|	Warlock	|	11	
+						Carta :Item	|Sacrificial Knife 	|	Warlock	|	9	
+				Ordem: 4 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 30
+						Carta :Criatura	|Arch Wizard       	|	Mage	|	10	
+						Carta :Item	|Scorch            	|	Mage	|	9	
+						Carta :Item	|Tornado           	|	Mage	|	11	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 32
+	Turno 48
+		Mesa
+				Item: Demons Horn       	|	Warlock	|	12	
+				Item: Fireball          	|	Mage	|	11	
+				Item: Tornado           	|	Mage	|	11	
+				Item: ABC10             	|	Warrior	|	0	
+				Item: Wind Blast        	|	Mage	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 30
+						Carta :Criatura	|Apprentice        	|	Warlock	|	6	
+						Carta :Item	|Pentagram         	|	Warlock	|	11	
+						Carta :Item	|Demons Horn       	|	Warlock	|	12	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 19
+						Carta :Criatura	|Templar           	|	Warlock	|	7	
+						Carta :Item	|Demons Horn       	|	Warlock	|	12	
+				Ordem: 3 - Player: Jogador 03 ----- Criatura: Mage ----- ForçaTotal: 42
+						Carta :Criatura	|Arch Wizard       	|	Mage	|	10	
+						Carta :Item	|Fireball          	|	Mage	|	11	
+						Carta :Item	|Tornado           	|	Mage	|	11	
+						Carta :Item	|Wind Blast        	|	Mage	|	9	
+				Ordem: 4 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 45
+						Carta :Criatura	|Master Warlock    	|	Warlock	|	10	
+						Carta :Item	|Index Prohibitorum	|	Warlock	|	11	
+						Carta :Item	|Cauldron of Souls 	|	Warlock	|	10	
+						Carta :Item	|Demons Horn       	|	Warlock	|	12	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 45
+	Turno 49
+		Mesa
+				Item: Middle Kick       	|	Monk	|	10	
+				Item: Jab Punch         	|	Monk	|	9	
+				Item: Pentagram         	|	Warlock	|	11	
+				Item: Ghost Chains      	|	Warlock	|	9	
+				Item: Sacrificial Knife 	|	Warlock	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 6
+						Carta :Criatura	|Pyromancer        	|	Mage	|	6	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 9
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+						Carta :Item	|ABC07             	|	Warrior	|	0	
+				Ordem: 3 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 34
+						Carta :Criatura	|Apprentice        	|	Warlock	|	6	
+						Carta :Item	|Pentagram         	|	Warlock	|	11	
+						Carta :Item	|Ghost Chains      	|	Warlock	|	9	
+						Carta :Item	|Sacrificial Knife 	|	Warlock	|	9	
+				Ordem: 4 - Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 37
+						Carta :Criatura	|Templar           	|	Warlock	|	7	
+						Carta :Item	|Pentagram         	|	Warlock	|	11	
+						Carta :Item	|Ghost Chains      	|	Warlock	|	9	
+						Carta :Item	|Sacrificial Knife 	|	Warlock	|	9	
+		Vencedor(es)
+				Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 37
+	Turno 50
+		Mesa
+				Item: Sacrificial Knife 	|	Warlock	|	9	
+				Item: ﻿Witchs Scepter   	|	Warlock	|	9	
+				Item: Middle Kick       	|	Monk	|	10	
+				Item: Round House Kick  	|	Monk	|	11	
+				Item: Dragon Punch      	|	Monk	|	12	
+		Jogadas
+				Ordem: 1 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 12
+						Carta :Criatura	|Troll             	|	Warrior	|	10	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 10
+						Carta :Criatura	|Arch Wizard       	|	Mage	|	10	
+				Ordem: 3 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 8
+						Carta :Criatura	|Giant             	|	Warrior	|	8	
+				Ordem: 4 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 55
+						Carta :Criatura	|Taekwondo         	|	Monk	|	7	
+						Carta :Item	|Straight Punch    	|	Monk	|	10	
+						Carta :Item	|Middle Kick       	|	Monk	|	10	
+						Carta :Item	|Round House Kick  	|	Monk	|	11	
+						Carta :Item	|Dragon Punch      	|	Monk	|	12	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 55
+	Turno 51
+		Mesa
+				Item: ABC10             	|	Warrior	|	0	
+				Item: ABC08             	|	Warrior	|	0	
+				Item: Meteor Shower     	|	Mage	|	12	
+				Item: Wind Blast        	|	Mage	|	9	
+				Item: Dragon Punch      	|	Monk	|	12	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 33
+						Carta :Criatura	|Aeromancer        	|	Mage	|	8	
+						Carta :Item	|Meteor Shower     	|	Mage	|	12	
+						Carta :Item	|Wind Blast        	|	Mage	|	9	
+				Ordem: 2 - Player: Jogador 03 ----- Criatura: Mage ----- ForçaTotal: 54
+						Carta :Criatura	|Hydromancer       	|	Mage	|	7	
+						Carta :Item	|Frost Nova        	|	Mage	|	9	
+						Carta :Item	|Tornado           	|	Mage	|	11	
+						Carta :Item	|Meteor Shower     	|	Mage	|	12	
+						Carta :Item	|Wind Blast        	|	Mage	|	9	
+				Ordem: 3 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 19
+						Carta :Criatura	|Demonologist      	|	Warlock	|	9	
+						Carta :Item	|Haunted Doll      	|	Warlock	|	10	
+				Ordem: 4 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 10
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+						Carta :Item	|ABC04             	|	Warrior	|	0	
+						Carta :Item	|ABC10             	|	Warrior	|	0	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+		Vencedor(es)
+				Player: Jogador 03 ----- Criatura: Mage ----- ForçaTotal: 54
+	Turno 52
+		Mesa
+				Item: Jab Punch         	|	Monk	|	9	
+				Item: Ghost Chains      	|	Warlock	|	9	
+				Item: ABC03             	|	Warrior	|	0	
+				Item: Pandoras Box      	|	Warlock	|	10	
+				Item: Knee Kick         	|	Monk	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 29
+						Carta :Criatura	|Necromancer       	|	Warlock	|	8	
+						Carta :Item	|Ghost Chains      	|	Warlock	|	9	
+						Carta :Item	|Pandoras Box      	|	Warlock	|	10	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 47
+						Carta :Criatura	|Commando Sambo    	|	Monk	|	9	
+						Carta :Item	|Dragon Punch      	|	Monk	|	12	
+						Carta :Item	|Jab Punch         	|	Monk	|	9	
+						Carta :Item	|Knee Kick         	|	Monk	|	10	
+				Ordem: 3 - Player: Jogador 03 ----- Criatura: Mage ----- ForçaTotal: 6
+						Carta :Criatura	|Pyromancer        	|	Mage	|	6	
+				Ordem: 4 - Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 22
+						Carta :Criatura	|Master Mage       	|	Mage	|	9	
+						Carta :Item	|Ice Bolt          	|	Mage	|	10	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 47
+	Turno 53
+		Mesa
+				Item: Hook Punch        	|	Monk	|	9	
+				Item: Fireball          	|	Mage	|	11	
+				Item: Sacrificial Knife 	|	Warlock	|	9	
+				Item: Haunted Doll      	|	Warlock	|	10	
+				Item: ABC09             	|	Warrior	|	0	
+		Jogadas
+				Ordem: 1 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 38
+						Carta :Criatura	|Templar           	|	Warlock	|	7	
+						Carta :Item	|Cauldron of Souls 	|	Warlock	|	10	
+						Carta :Item	|Sacrificial Knife 	|	Warlock	|	9	
+						Carta :Item	|Haunted Doll      	|	Warlock	|	10	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 10
+						Carta :Criatura	|Giant             	|	Warrior	|	8	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+						Carta :Item	|ABC09             	|	Warrior	|	0	
+				Ordem: 3 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 18
+						Carta :Criatura	|Commando Sambo    	|	Monk	|	9	
+						Carta :Item	|Hook Punch        	|	Monk	|	9	
+				Ordem: 4 - Player: Jogador 03 ----- Criatura: Mage ----- ForçaTotal: 23
+						Carta :Criatura	|Arch Wizard       	|	Mage	|	10	
+						Carta :Item	|Fireball          	|	Mage	|	11	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 38
+	Turno 54
+		Mesa
+				Item: Dragon Kick       	|	Monk	|	11	
+				Item: Hook Punch        	|	Monk	|	9	
+				Item: ABC06             	|	Warrior	|	0	
+				Item: ABC05             	|	Warrior	|	0	
+				Item: Cauldron of Souls 	|	Warlock	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 15
+						Carta :Criatura	|Troll             	|	Warrior	|	10	
+						Carta :Item	|ABC09             	|	Warrior	|	0	
+						Carta :Item	|ABC06             	|	Warrior	|	0	
+						Carta :Item	|ABC05             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 19
+						Carta :Criatura	|Demonologist      	|	Warlock	|	9	
+						Carta :Item	|Cauldron of Souls 	|	Warlock	|	10	
+				Ordem: 3 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 34
+						Carta :Criatura	|Master Warlock    	|	Warlock	|	10	
+						Carta :Item	|Demons Horn       	|	Warlock	|	12	
+						Carta :Item	|Cauldron of Souls 	|	Warlock	|	10	
+				Ordem: 4 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 44
+						Carta :Criatura	|Muay Thai         	|	Monk	|	8	
+						Carta :Item	|Round House Kick  	|	Monk	|	11	
+						Carta :Item	|Dragon Kick       	|	Monk	|	11	
+						Carta :Item	|Hook Punch        	|	Monk	|	9	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 44
+	Turno 55
+		Mesa
+				Item: Jab Punch         	|	Monk	|	9	
+				Item: Uppercut          	|	Monk	|	11	
+				Item: Pentagram         	|	Warlock	|	11	
+				Item: Dragon Punch      	|	Monk	|	12	
+				Item: Fire Blast        	|	Mage	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 33
+						Carta :Criatura	|Arch Wizard       	|	Mage	|	10	
+						Carta :Item	|Ice Bolt          	|	Mage	|	10	
+						Carta :Item	|Fire Blast        	|	Mage	|	10	
+				Ordem: 2 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 12
+						Carta :Criatura	|Troll             	|	Warrior	|	10	
+						Carta :Item	|ABC10             	|	Warrior	|	0	
+				Ordem: 3 - Player: Jogador 04 ----- Criatura: Warrior ----- ForçaTotal: 9
+						Carta :Criatura	|Warrior           	|	Warrior	|	6	
+						Carta :Item	|ABC05             	|	Warrior	|	0	
+				Ordem: 4 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 8
+						Carta :Criatura	|Giant             	|	Warrior	|	8	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 33
+	Turno 56
+		Mesa
+				Item: Pandoras Box      	|	Warlock	|	10	
+				Item: ABC05             	|	Warrior	|	0	
+				Item: Index Prohibitorum	|	Warlock	|	11	
+				Item: Low Kick          	|	Monk	|	9	
+				Item: Ice Bolt          	|	Mage	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 27
+						Carta :Criatura	|Taekwondo         	|	Monk	|	7	
+						Carta :Item	|Hook Punch        	|	Monk	|	9	
+						Carta :Item	|Low Kick          	|	Monk	|	9	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Warrior ----- ForçaTotal: 11
+						Carta :Criatura	|Ogre              	|	Warrior	|	9	
+						Carta :Item	|ABC05             	|	Warrior	|	0	
+				Ordem: 3 - Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 46
+						Carta :Criatura	|Master Warlock    	|	Warlock	|	10	
+						Carta :Item	|Demons Horn       	|	Warlock	|	12	
+						Carta :Item	|Pandoras Box      	|	Warlock	|	10	
+						Carta :Item	|Index Prohibitorum	|	Warlock	|	11	
+				Ordem: 4 - Player: Jogador 04 ----- Criatura: Warrior ----- ForçaTotal: 9
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+						Carta :Item	|ABC05             	|	Warrior	|	0	
+		Vencedor(es)
+				Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 46
+	Turno 57
+		Mesa
+				Item: Tornado           	|	Mage	|	11	
+				Item: ﻿Witchs Scepter   	|	Warlock	|	9	
+				Item: Low Kick          	|	Monk	|	9	
+				Item: Dragon Kick       	|	Monk	|	11	
+				Item: Jab Punch         	|	Monk	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 04 ----- Criatura: Monk ----- ForçaTotal: 52
+						Carta :Criatura	|Taekwondo         	|	Monk	|	7	
+						Carta :Item	|Middle Kick       	|	Monk	|	10	
+						Carta :Item	|Low Kick          	|	Monk	|	9	
+						Carta :Item	|Dragon Kick       	|	Monk	|	11	
+						Carta :Item	|Jab Punch         	|	Monk	|	9	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 19
+						Carta :Criatura	|Master Warlock    	|	Warlock	|	10	
+						Carta :Item	|﻿Witchs Scepter   	|	Warlock	|	9	
+				Ordem: 3 - Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 36
+						Carta :Criatura	|Arch Wizard       	|	Mage	|	10	
+						Carta :Item	|Fireball          	|	Mage	|	11	
+						Carta :Item	|Tornado           	|	Mage	|	11	
+				Ordem: 4 - Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 16
+						Carta :Criatura	|Templar           	|	Warlock	|	7	
+						Carta :Item	|﻿Witchs Scepter   	|	Warlock	|	9	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Monk ----- ForçaTotal: 52
+	Turno 58
+		Mesa
+				Item: Haunted Doll      	|	Warlock	|	10	
+				Item: Frost Nova        	|	Mage	|	9	
+				Item: Blizzard          	|	Mage	|	11	
+				Item: Pentagram         	|	Warlock	|	11	
+				Item: Pandoras Box      	|	Warlock	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 03 ----- Criatura: Mage ----- ForçaTotal: 43
+						Carta :Criatura	|Master Mage       	|	Mage	|	9	
+						Carta :Item	|Wind Blast        	|	Mage	|	9	
+						Carta :Item	|Frost Nova        	|	Mage	|	9	
+						Carta :Item	|Blizzard          	|	Mage	|	11	
+				Ordem: 2 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 41
+						Carta :Criatura	|Demonologist      	|	Warlock	|	9	
+						Carta :Item	|Haunted Doll      	|	Warlock	|	10	
+						Carta :Item	|Pentagram         	|	Warlock	|	11	
+						Carta :Item	|Pandoras Box      	|	Warlock	|	10	
+				Ordem: 3 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 10
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+						Carta :Item	|ABC04             	|	Warrior	|	0	
+				Ordem: 4 - Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 41
+						Carta :Criatura	|Pyromancer        	|	Mage	|	6	
+						Carta :Item	|Fireball          	|	Mage	|	11	
+						Carta :Item	|Frost Nova        	|	Mage	|	9	
+						Carta :Item	|Blizzard          	|	Mage	|	11	
+		Vencedor(es)
+				Player: Jogador 03 ----- Criatura: Mage ----- ForçaTotal: 43
+	Turno 59
+		Mesa
+				Item: Pandoras Box      	|	Warlock	|	10	
+				Item: Round House Kick  	|	Monk	|	11	
+				Item: Blizzard          	|	Mage	|	11	
+				Item: Fireball          	|	Mage	|	11	
+				Item: Sacrificial Knife 	|	Warlock	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 50
+						Carta :Criatura	|Commando Sambo    	|	Monk	|	9	
+						Carta :Item	|Dragon Punch      	|	Monk	|	12	
+						Carta :Item	|Middle Kick       	|	Monk	|	10	
+						Carta :Item	|Round House Kick  	|	Monk	|	11	
+				Ordem: 2 - Player: Jogador 03 ----- Criatura: Mage ----- ForçaTotal: 46
+						Carta :Criatura	|Master Mage       	|	Mage	|	9	
+						Carta :Item	|Tornado           	|	Mage	|	11	
+						Carta :Item	|Blizzard          	|	Mage	|	11	
+						Carta :Item	|Fireball          	|	Mage	|	11	
+				Ordem: 3 - Player: Jogador 04 ----- Criatura: Warrior ----- ForçaTotal: 11
+						Carta :Criatura	|Giant             	|	Warrior	|	8	
+						Carta :Item	|ABC09             	|	Warrior	|	0	
+						Carta :Item	|ABC10             	|	Warrior	|	0	
+				Ordem: 4 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 18
+						Carta :Criatura	|Taekwondo         	|	Monk	|	7	
+						Carta :Item	|Round House Kick  	|	Monk	|	11	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 50
+	Turno 60
+		Mesa
+				Item: Sacrificial Knife 	|	Warlock	|	9	
+				Item: Index Prohibitorum	|	Warlock	|	11	
+				Item: ﻿Witchs Scepter   	|	Warlock	|	9	
+				Item: Fire Blast        	|	Mage	|	10	
+				Item: Pentagram         	|	Warlock	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 37
+						Carta :Criatura	|Arch Wizard       	|	Mage	|	10	
+						Carta :Item	|Fireball          	|	Mage	|	11	
+						Carta :Item	|Fire Blast        	|	Mage	|	10	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 19
+						Carta :Criatura	|Pyromancer        	|	Mage	|	6	
+						Carta :Item	|Fire Blast        	|	Mage	|	10	
+				Ordem: 3 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 15
+						Carta :Criatura	|Troll             	|	Warrior	|	10	
+						Carta :Item	|ABC01             	|	Warrior	|	0	
+				Ordem: 4 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 47
+						Carta :Criatura	|Apprentice        	|	Warlock	|	6	
+						Carta :Item	|Sacrificial Knife 	|	Warlock	|	9	
+						Carta :Item	|Index Prohibitorum	|	Warlock	|	11	
+						Carta :Item	|﻿Witchs Scepter   	|	Warlock	|	9	
+						Carta :Item	|Pentagram         	|	Warlock	|	11	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 47
+	Turno 61
+		Mesa
+				Item: Middle Kick       	|	Monk	|	10	
+				Item: ABC02             	|	Warrior	|	0	
+				Item: Frost Nova        	|	Mage	|	9	
+				Item: Blizzard          	|	Mage	|	11	
+				Item: Thunder Bolt      	|	Mage	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 45
+						Carta :Criatura	|Master Mage       	|	Mage	|	9	
+						Carta :Item	|Frost Nova        	|	Mage	|	9	
+						Carta :Item	|Blizzard          	|	Mage	|	11	
+						Carta :Item	|Thunder Bolt      	|	Mage	|	10	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 9
+						Carta :Criatura	|Demonologist      	|	Warlock	|	9	
+				Ordem: 3 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 16
+						Carta :Criatura	|Karate            	|	Monk	|	6	
+						Carta :Item	|Middle Kick       	|	Monk	|	10	
+				Ordem: 4 - Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 6
+						Carta :Criatura	|Apprentice        	|	Warlock	|	6	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 45
+	Turno 62
+		Mesa
+				Item: Scorch            	|	Mage	|	9	
+				Item: Low Kick          	|	Monk	|	9	
+				Item: Frost Nova        	|	Mage	|	9	
+				Item: Sacrificial Knife 	|	Warlock	|	9	
+				Item: Dragon Kick       	|	Monk	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 19
+						Carta :Criatura	|Master Warlock    	|	Warlock	|	10	
+						Carta :Item	|Sacrificial Knife 	|	Warlock	|	9	
+				Ordem: 2 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 18
+						Carta :Criatura	|Demonologist      	|	Warlock	|	9	
+						Carta :Item	|Sacrificial Knife 	|	Warlock	|	9	
+				Ordem: 3 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 26
+						Carta :Criatura	|Pyromancer        	|	Mage	|	6	
+						Carta :Item	|Scorch            	|	Mage	|	9	
+						Carta :Item	|Frost Nova        	|	Mage	|	9	
+				Ordem: 4 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 35
+						Carta :Criatura	|Commando Sambo    	|	Monk	|	9	
+						Carta :Item	|Low Kick          	|	Monk	|	9	
+						Carta :Item	|Dragon Kick       	|	Monk	|	11	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 35
+	Turno 63
+		Mesa
+				Item: ABC05             	|	Warrior	|	0	
+				Item: ABC09             	|	Warrior	|	0	
+				Item: Scorch            	|	Mage	|	9	
+				Item: ABC06             	|	Warrior	|	0	
+				Item: Wind Blast        	|	Mage	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 17
+						Carta :Criatura	|Karate            	|	Monk	|	6	
+						Carta :Item	|Round House Kick  	|	Monk	|	11	
+				Ordem: 2 - Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 16
+						Carta :Criatura	|Apprentice        	|	Warlock	|	6	
+						Carta :Item	|Haunted Doll      	|	Warlock	|	10	
+				Ordem: 3 - Player: Jogador 04 ----- Criatura: Monk ----- ForçaTotal: 21
+						Carta :Criatura	|Jeet Kune Do      	|	Monk	|	10	
+						Carta :Item	|Uppercut          	|	Monk	|	11	
+				Ordem: 4 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 13
+						Carta :Criatura	|Giant             	|	Warrior	|	8	
+						Carta :Item	|ABC02             	|	Warrior	|	0	
+						Carta :Item	|ABC05             	|	Warrior	|	0	
+						Carta :Item	|ABC09             	|	Warrior	|	0	
+						Carta :Item	|ABC06             	|	Warrior	|	0	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Monk ----- ForçaTotal: 21
+	Turno 64
+		Mesa
+				Item: Fireball          	|	Mage	|	11	
+				Item: Pandoras Box      	|	Warlock	|	10	
+				Item: Fire Blast        	|	Mage	|	10	
+				Item: ABC06             	|	Warrior	|	0	
+				Item: Knee Kick         	|	Monk	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 28
+						Carta :Criatura	|Hydromancer       	|	Mage	|	7	
+						Carta :Item	|Fireball          	|	Mage	|	11	
+						Carta :Item	|Fire Blast        	|	Mage	|	10	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 32
+						Carta :Criatura	|Commando Sambo    	|	Monk	|	9	
+						Carta :Item	|Low Kick          	|	Monk	|	9	
+						Carta :Item	|Knee Kick         	|	Monk	|	10	
+				Ordem: 3 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 11
+						Carta :Criatura	|Giant             	|	Warrior	|	8	
+						Carta :Item	|ABC06             	|	Warrior	|	0	
+				Ordem: 4 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 32
+						Carta :Criatura	|Master Warlock    	|	Warlock	|	10	
+						Carta :Item	|Cauldron of Souls 	|	Warlock	|	10	
+						Carta :Item	|Pandoras Box      	|	Warlock	|	10	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 32
+				Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 32
+	Turno 65
+		Mesa
+				Item: Pandoras Box      	|	Warlock	|	10	
+				Item: ABC04             	|	Warrior	|	0	
+				Item: Fireball          	|	Mage	|	11	
+				Item: ABC06             	|	Warrior	|	0	
+				Item: Meteor Shower     	|	Mage	|	12	
+		Jogadas
+				Ordem: 1 - Player: Jogador 04 ----- Criatura: Warrior ----- ForçaTotal: 12
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+						Carta :Item	|ABC04             	|	Warrior	|	0	
+						Carta :Item	|ABC06             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 37
+						Carta :Criatura	|Arch Wizard       	|	Mage	|	10	
+						Carta :Item	|Fireball          	|	Mage	|	11	
+						Carta :Item	|Meteor Shower     	|	Mage	|	12	
+				Ordem: 3 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 7
+						Carta :Criatura	|Taekwondo         	|	Monk	|	7	
+				Ordem: 4 - Player: Jogador 03 ----- Criatura: Monk ----- ForçaTotal: 17
+						Carta :Criatura	|Muay Thai         	|	Monk	|	8	
+						Carta :Item	|Low Kick          	|	Monk	|	9	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 37
+	Turno 66
+		Mesa
+				Item: Sacrificial Knife 	|	Warlock	|	9	
+				Item: Uppercut          	|	Monk	|	11	
+				Item: ﻿Witchs Scepter   	|	Warlock	|	9	
+				Item: Meteor Shower     	|	Mage	|	12	
+				Item: Demons Horn       	|	Warlock	|	12	
+		Jogadas
+				Ordem: 1 - Player: Jogador 03 ----- Criatura: Monk ----- ForçaTotal: 20
+						Carta :Criatura	|Commando Sambo    	|	Monk	|	9	
+						Carta :Item	|Uppercut          	|	Monk	|	11	
+				Ordem: 2 - Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 19
+						Carta :Criatura	|Hydromancer       	|	Mage	|	7	
+						Carta :Item	|Meteor Shower     	|	Mage	|	12	
+				Ordem: 3 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 9
+						Carta :Criatura	|Ogre              	|	Warrior	|	9	
+				Ordem: 4 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 32
+						Carta :Criatura	|Muay Thai         	|	Monk	|	8	
+						Carta :Item	|Hook Punch        	|	Monk	|	9	
+						Carta :Item	|Uppercut          	|	Monk	|	11	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 32
+	Turno 67
+		Mesa
+				Item: Straight Punch    	|	Monk	|	10	
+				Item: Meteor Shower     	|	Mage	|	12	
+				Item: Pentagram         	|	Warlock	|	11	
+				Item: Cauldron of Souls 	|	Warlock	|	10	
+				Item: Fire Blast        	|	Mage	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Warrior ----- ForçaTotal: 7
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+				Ordem: 2 - Player: Jogador 03 ----- Criatura: Mage ----- ForçaTotal: 36
+						Carta :Criatura	|Arch Wizard       	|	Mage	|	10	
+						Carta :Item	|Meteor Shower     	|	Mage	|	12	
+						Carta :Item	|Fire Blast        	|	Mage	|	10	
+				Ordem: 3 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 40
+						Carta :Criatura	|Templar           	|	Warlock	|	7	
+						Carta :Item	|Pandoras Box      	|	Warlock	|	10	
+						Carta :Item	|Pentagram         	|	Warlock	|	11	
+						Carta :Item	|Cauldron of Souls 	|	Warlock	|	10	
+				Ordem: 4 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 43
+						Carta :Criatura	|Aeromancer        	|	Mage	|	8	
+						Carta :Item	|Tornado           	|	Mage	|	11	
+						Carta :Item	|Meteor Shower     	|	Mage	|	12	
+						Carta :Item	|Fire Blast        	|	Mage	|	10	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 43
+	Turno 68
+		Mesa
+				Item: Ghost Chains      	|	Warlock	|	9	
+				Item: Scorch            	|	Mage	|	9	
+				Item: ABC04             	|	Warrior	|	0	
+				Item: Low Kick          	|	Monk	|	9	
+				Item: ﻿Witchs Scepter   	|	Warlock	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 11
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+						Carta :Item	|ABC06             	|	Warrior	|	0	
+						Carta :Item	|ABC04             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 40
+						Carta :Criatura	|Demonologist      	|	Warlock	|	9	
+						Carta :Item	|Pandoras Box      	|	Warlock	|	10	
+						Carta :Item	|Ghost Chains      	|	Warlock	|	9	
+						Carta :Item	|﻿Witchs Scepter   	|	Warlock	|	9	
+				Ordem: 3 - Player: Jogador 03 ----- Criatura: Monk ----- ForçaTotal: 16
+						Carta :Criatura	|Muay Thai         	|	Monk	|	8	
+						Carta :Item	|Low Kick          	|	Monk	|	9	
+				Ordem: 4 - Player: Jogador 04 ----- Criatura: Monk ----- ForçaTotal: 28
+						Carta :Criatura	|Karate            	|	Monk	|	6	
+						Carta :Item	|Dragon Punch      	|	Monk	|	12	
+						Carta :Item	|Low Kick          	|	Monk	|	9	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 40
+	Turno 69
+		Mesa
+				Item: Low Kick          	|	Monk	|	9	
+				Item: Middle Kick       	|	Monk	|	10	
+				Item: ABC02             	|	Warrior	|	0	
+				Item: Soulstone         	|	Warlock	|	11	
+				Item: Sacrificial Knife 	|	Warlock	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 04 ----- Criatura: Warrior ----- ForçaTotal: 12
+						Carta :Criatura	|Ogre              	|	Warrior	|	9	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+						Carta :Item	|ABC02             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 18
+						Carta :Criatura	|Master Mage       	|	Mage	|	9	
+						Carta :Item	|Fire Blast        	|	Mage	|	10	
+				Ordem: 3 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 30
+						Carta :Criatura	|Demonologist      	|	Warlock	|	9	
+						Carta :Item	|Soulstone         	|	Warlock	|	11	
+						Carta :Item	|Sacrificial Knife 	|	Warlock	|	9	
+				Ordem: 4 - Player: Jogador 03 ----- Criatura: Mage ----- ForçaTotal: 7
+						Carta :Criatura	|Hydromancer       	|	Mage	|	7	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 30
+	Turno 70
+		Mesa
+				Item: ABC10             	|	Warrior	|	0	
+				Item: Ice Bolt          	|	Mage	|	10	
+				Item: ABC05             	|	Warrior	|	0	
+				Item: ABC04             	|	Warrior	|	0	
+				Item: Demons Horn       	|	Warlock	|	12	
+		Jogadas
+				Ordem: 1 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 14
+						Carta :Criatura	|Ogre              	|	Warrior	|	9	
+						Carta :Item	|ABC06             	|	Warrior	|	0	
+						Carta :Item	|ABC10             	|	Warrior	|	0	
+						Carta :Item	|ABC05             	|	Warrior	|	0	
+						Carta :Item	|ABC04             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 32
+						Carta :Criatura	|Arch Wizard       	|	Mage	|	10	
+						Carta :Item	|Scorch            	|	Mage	|	9	
+						Carta :Item	|Ice Bolt          	|	Mage	|	10	
+				Ordem: 3 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 20
+						Carta :Criatura	|Necromancer       	|	Warlock	|	8	
+						Carta :Item	|Demons Horn       	|	Warlock	|	12	
+				Ordem: 4 - Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 30
+						Carta :Criatura	|Hydromancer       	|	Mage	|	7	
+						Carta :Item	|Thunder Bolt      	|	Mage	|	10	
+						Carta :Item	|Ice Bolt          	|	Mage	|	10	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 32
+	Turno 71
+		Mesa
+				Item: Low Kick          	|	Monk	|	9	
+				Item: Fire Blast        	|	Mage	|	10	
+				Item: Wind Blast        	|	Mage	|	9	
+				Item: Cauldron of Souls 	|	Warlock	|	10	
+				Item: Sacrificial Knife 	|	Warlock	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 32
+						Carta :Criatura	|Arch Wizard       	|	Mage	|	10	
+						Carta :Item	|Fire Blast        	|	Mage	|	10	
+						Carta :Item	|Wind Blast        	|	Mage	|	9	
+				Ordem: 2 - Player: Jogador 03 ----- Criatura: Mage ----- ForçaTotal: 27
+						Carta :Criatura	|Aeromancer        	|	Mage	|	8	
+						Carta :Item	|Fire Blast        	|	Mage	|	10	
+						Carta :Item	|Wind Blast        	|	Mage	|	9	
+				Ordem: 3 - Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 30
+						Carta :Criatura	|Master Mage       	|	Mage	|	9	
+						Carta :Item	|Fire Blast        	|	Mage	|	10	
+						Carta :Item	|Wind Blast        	|	Mage	|	9	
+				Ordem: 4 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 34
+						Carta :Criatura	|Jeet Kune Do      	|	Monk	|	10	
+						Carta :Item	|Hook Punch        	|	Monk	|	9	
+						Carta :Item	|Low Kick          	|	Monk	|	9	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 34
+	Turno 72
+		Mesa
+				Item: Haunted Doll      	|	Warlock	|	10	
+				Item: Middle Kick       	|	Monk	|	10	
+				Item: Round House Kick  	|	Monk	|	11	
+				Item: ABC07             	|	Warrior	|	0	
+				Item: Ice Bolt          	|	Mage	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 14
+						Carta :Criatura	|Ogre              	|	Warrior	|	9	
+						Carta :Item	|ABC04             	|	Warrior	|	0	
+						Carta :Item	|ABC07             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 32
+						Carta :Criatura	|Taekwondo         	|	Monk	|	7	
+						Carta :Item	|Middle Kick       	|	Monk	|	10	
+						Carta :Item	|Round House Kick  	|	Monk	|	11	
+				Ordem: 3 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 8
+						Carta :Criatura	|Warrior           	|	Warrior	|	6	
+						Carta :Item	|ABC07             	|	Warrior	|	0	
+				Ordem: 4 - Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 22
+						Carta :Criatura	|Master Mage       	|	Mage	|	9	
+						Carta :Item	|Ice Bolt          	|	Mage	|	10	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 32
+	Turno 73
+		Mesa
+				Item: Cauldron of Souls 	|	Warlock	|	10	
+				Item: Middle Kick       	|	Monk	|	10	
+				Item: Ghost Chains      	|	Warlock	|	9	
+				Item: Ice Bolt          	|	Mage	|	10	
+				Item: ABC09             	|	Warrior	|	0	
+		Jogadas
+				Ordem: 1 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 29
+						Carta :Criatura	|Demonologist      	|	Warlock	|	9	
+						Carta :Item	|Cauldron of Souls 	|	Warlock	|	10	
+						Carta :Item	|Ghost Chains      	|	Warlock	|	9	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 13
+						Carta :Criatura	|Troll             	|	Warrior	|	10	
+						Carta :Item	|ABC03             	|	Warrior	|	0	
+						Carta :Item	|ABC09             	|	Warrior	|	0	
+				Ordem: 3 - Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 22
+						Carta :Criatura	|Arch Wizard       	|	Mage	|	10	
+						Carta :Item	|Ice Bolt          	|	Mage	|	10	
+				Ordem: 4 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 10
+						Carta :Criatura	|Giant             	|	Warrior	|	8	
+						Carta :Item	|ABC09             	|	Warrior	|	0	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 29
+	Turno 74
+		Mesa
+				Item: Soulstone         	|	Warlock	|	11	
+				Item: Jab Punch         	|	Monk	|	9	
+				Item: Sacrificial Knife 	|	Warlock	|	9	
+				Item: Cauldron of Souls 	|	Warlock	|	10	
+				Item: Uppercut          	|	Monk	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 03 ----- Criatura: Mage ----- ForçaTotal: 8
+						Carta :Criatura	|Master Mage       	|	Mage	|	9	
+				Ordem: 2 - Player: Jogador 04 ----- Criatura: Warrior ----- ForçaTotal: 7
+						Carta :Criatura	|Giant             	|	Warrior	|	8	
+				Ordem: 3 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 49
+						Carta :Criatura	|Demonologist      	|	Warlock	|	9	
+						Carta :Item	|﻿Witchs Scepter   	|	Warlock	|	9	
+						Carta :Item	|Soulstone         	|	Warlock	|	11	
+						Carta :Item	|Sacrificial Knife 	|	Warlock	|	9	
+						Carta :Item	|Cauldron of Souls 	|	Warlock	|	10	
+				Ordem: 4 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 51
+						Carta :Criatura	|Necromancer       	|	Warlock	|	8	
+						Carta :Item	|Demons Horn       	|	Warlock	|	12	
+						Carta :Item	|Soulstone         	|	Warlock	|	11	
+						Carta :Item	|Sacrificial Knife 	|	Warlock	|	9	
+						Carta :Item	|Cauldron of Souls 	|	Warlock	|	10	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 51
+	Turno 75
+		Mesa
+				Item: ABC07             	|	Warrior	|	0	
+				Item: Demons Horn       	|	Warlock	|	12	
+				Item: ABC08             	|	Warrior	|	0	
+				Item: Pandoras Box      	|	Warlock	|	10	
+				Item: Straight Punch    	|	Monk	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Warrior ----- ForçaTotal: 12
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+						Carta :Item	|ABC02             	|	Warrior	|	0	
+						Carta :Item	|ABC01             	|	Warrior	|	0	
+						Carta :Item	|ABC07             	|	Warrior	|	0	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 03 ----- Criatura: Mage ----- ForçaTotal: 31
+						Carta :Criatura	|Master Mage       	|	Mage	|	9	
+						Carta :Item	|Thunder Bolt      	|	Mage	|	10	
+						Carta :Item	|Ice Bolt          	|	Mage	|	10	
+				Ordem: 3 - Player: Jogador 04 ----- Criatura: Monk ----- ForçaTotal: 20
+						Carta :Criatura	|Jeet Kune Do      	|	Monk	|	10	
+						Carta :Item	|Straight Punch    	|	Monk	|	10	
+				Ordem: 4 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 32
+						Carta :Criatura	|Demonologist      	|	Warlock	|	9	
+						Carta :Item	|Demons Horn       	|	Warlock	|	12	
+						Carta :Item	|Pandoras Box      	|	Warlock	|	10	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 32
+	Turno 76
+		Mesa
+				Item: ABC09             	|	Warrior	|	0	
+				Item: Haunted Doll      	|	Warlock	|	10	
+				Item: ABC10             	|	Warrior	|	0	
+				Item: ABC05             	|	Warrior	|	0	
+				Item: Fire Blast        	|	Mage	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 18
+						Carta :Criatura	|Taekwondo         	|	Monk	|	7	
+						Carta :Item	|Dragon Kick       	|	Monk	|	11	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 6
+						Carta :Criatura	|Karate            	|	Monk	|	6	
+				Ordem: 3 - Player: Jogador 03 ----- Criatura: Mage ----- ForçaTotal: 26
+						Carta :Criatura	|Hydromancer       	|	Mage	|	7	
+						Carta :Item	|Frost Nova        	|	Mage	|	9	
+						Carta :Item	|Fire Blast        	|	Mage	|	10	
+				Ordem: 4 - Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 38
+						Carta :Criatura	|Arch Wizard       	|	Mage	|	10	
+						Carta :Item	|Fireball          	|	Mage	|	11	
+						Carta :Item	|Fire Blast        	|	Mage	|	10	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 38
+	Turno 77
+		Mesa
+				Item: ABC10             	|	Warrior	|	0	
+				Item: ﻿Witchs Scepter   	|	Warlock	|	9	
+				Item: Sacrificial Knife 	|	Warlock	|	9	
+				Item: Haunted Doll      	|	Warlock	|	10	
+				Item: Round House Kick  	|	Monk	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 04 ----- Criatura: Monk ----- ForçaTotal: 33
+						Carta :Criatura	|Muay Thai         	|	Monk	|	8	
+						Carta :Item	|Middle Kick       	|	Monk	|	10	
+						Carta :Item	|Round House Kick  	|	Monk	|	11	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 51
+						Carta :Criatura	|Master Warlock    	|	Warlock	|	10	
+						Carta :Item	|Pandoras Box      	|	Warlock	|	10	
+						Carta :Item	|﻿Witchs Scepter   	|	Warlock	|	9	
+						Carta :Item	|Sacrificial Knife 	|	Warlock	|	9	
+						Carta :Item	|Haunted Doll      	|	Warlock	|	10	
+				Ordem: 3 - Player: Jogador 02 ----- Criatura: Warrior ----- ForçaTotal: 10
+						Carta :Criatura	|Ogre              	|	Warrior	|	9	
+						Carta :Item	|ABC10             	|	Warrior	|	0	
+				Ordem: 4 - Player: Jogador 03 ----- Criatura: Monk ----- ForçaTotal: 16
+						Carta :Criatura	|Karate            	|	Monk	|	6	
+						Carta :Item	|Round House Kick  	|	Monk	|	11	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 51
+	Turno 78
+		Mesa
+				Item: Fire Blast        	|	Mage	|	10	
+				Item: Hook Punch        	|	Monk	|	9	
+				Item: Wind Blast        	|	Mage	|	9	
+				Item: ABC02             	|	Warrior	|	0	
+				Item: ABC01             	|	Warrior	|	0	
+		Jogadas
+				Ordem: 1 - Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 10
+						Carta :Criatura	|Master Warlock    	|	Warlock	|	10	
+				Ordem: 2 - Player: Jogador 04 ----- Criatura: Warrior ----- ForçaTotal: 12
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+						Carta :Item	|ABC02             	|	Warrior	|	0	
+						Carta :Item	|ABC01             	|	Warrior	|	0	
+				Ordem: 3 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 11
+						Carta :Criatura	|Warrior           	|	Warrior	|	6	
+						Carta :Item	|ABC02             	|	Warrior	|	0	
+						Carta :Item	|ABC01             	|	Warrior	|	0	
+				Ordem: 4 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 19
+						Carta :Criatura	|Demonologist      	|	Warlock	|	9	
+						Carta :Item	|Haunted Doll      	|	Warlock	|	10	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 19
+	Turno 79
+		Mesa
+				Item: Demons Horn       	|	Warlock	|	12	
+				Item: Low Kick          	|	Monk	|	9	
+				Item: Cauldron of Souls 	|	Warlock	|	10	
+				Item: ABC03             	|	Warrior	|	0	
+				Item: ﻿Witchs Scepter   	|	Warlock	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 31
+						Carta :Criatura	|Taekwondo         	|	Monk	|	7	
+						Carta :Item	|Dragon Kick       	|	Monk	|	11	
+						Carta :Item	|Low Kick          	|	Monk	|	9	
+				Ordem: 2 - Player: Jogador 03 ----- Criatura: Mage ----- ForçaTotal: 9
+						Carta :Criatura	|Master Mage       	|	Mage	|	9	
+				Ordem: 3 - Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 21
+						Carta :Criatura	|Aeromancer        	|	Mage	|	8	
+						Carta :Item	|Ice Bolt          	|	Mage	|	10	
+				Ordem: 4 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 16
+						Carta :Criatura	|Hydromancer       	|	Mage	|	7	
+						Carta :Item	|Scorch            	|	Mage	|	9	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 31
+	Turno 80
+		Mesa
+				Item: Middle Kick       	|	Monk	|	10	
+				Item: Uppercut          	|	Monk	|	11	
+				Item: Ice Bolt          	|	Mage	|	10	
+				Item: Haunted Doll      	|	Warlock	|	10	
+				Item: Low Kick          	|	Monk	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 31
+						Carta :Criatura	|Master Mage       	|	Mage	|	9	
+						Carta :Item	|Wind Blast        	|	Mage	|	9	
+						Carta :Item	|Ice Bolt          	|	Mage	|	10	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 42
+						Carta :Criatura	|Taekwondo         	|	Monk	|	7	
+						Carta :Item	|Middle Kick       	|	Monk	|	10	
+						Carta :Item	|Uppercut          	|	Monk	|	11	
+						Carta :Item	|Low Kick          	|	Monk	|	9	
+				Ordem: 3 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 9
+						Carta :Criatura	|Warrior           	|	Warrior	|	6	
+						Carta :Item	|ABC05             	|	Warrior	|	0	
+				Ordem: 4 - Player: Jogador 04 ----- Criatura: Warrior ----- ForçaTotal: 10
+						Carta :Criatura	|Troll             	|	Warrior	|	10	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 42
+	Turno 81
+		Mesa
+				Item: Pentagram         	|	Warlock	|	11	
+				Item: ABC07             	|	Warrior	|	0	
+				Item: Haunted Doll      	|	Warlock	|	10	
+				Item: ABC02             	|	Warrior	|	0	
+				Item: ABC04             	|	Warrior	|	0	
+		Jogadas
+				Ordem: 1 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 40
+						Carta :Criatura	|Templar           	|	Warlock	|	7	
+						Carta :Item	|Cauldron of Souls 	|	Warlock	|	10	
+						Carta :Item	|Pentagram         	|	Warlock	|	11	
+						Carta :Item	|Haunted Doll      	|	Warlock	|	10	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 8
+						Carta :Criatura	|Aeromancer        	|	Mage	|	8	
+				Ordem: 3 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 8
+						Carta :Criatura	|Jeet Kune Do      	|	Monk	|	10	
+				Ordem: 4 - Player: Jogador 03 ----- Criatura: Mage ----- ForçaTotal: 10
+						Carta :Criatura	|Arch Wizard       	|	Mage	|	10	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 40
+	Turno 82
+		Mesa
+				Item: ABC05             	|	Warrior	|	0	
+				Item: ABC06             	|	Warrior	|	0	
+				Item: ABC08             	|	Warrior	|	0	
+				Item: Index Prohibitorum	|	Warlock	|	11	
+				Item: Ghost Chains      	|	Warlock	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 11
+						Carta :Criatura	|Giant             	|	Warrior	|	8	
+						Carta :Item	|ABC02             	|	Warrior	|	0	
+						Carta :Item	|ABC05             	|	Warrior	|	0	
+						Carta :Item	|ABC06             	|	Warrior	|	0	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 29
+						Carta :Criatura	|Templar           	|	Warlock	|	7	
+						Carta :Item	|Index Prohibitorum	|	Warlock	|	11	
+						Carta :Item	|Ghost Chains      	|	Warlock	|	9	
+				Ordem: 3 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 6
+						Carta :Criatura	|Karate            	|	Monk	|	6	
+				Ordem: 4 - Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 7
+						Carta :Criatura	|Hydromancer       	|	Mage	|	7	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 29
+	Turno 83
+		Mesa
+				Item: Fireball          	|	Mage	|	11	
+				Item: Thunder Bolt      	|	Mage	|	10	
+				Item: ABC06             	|	Warrior	|	0	
+				Item: Hook Punch        	|	Monk	|	9	
+				Item: Round House Kick  	|	Monk	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 51
+						Carta :Criatura	|Karate            	|	Monk	|	6	
+						Carta :Item	|Uppercut          	|	Monk	|	11	
+						Carta :Item	|Middle Kick       	|	Monk	|	10	
+						Carta :Item	|Hook Punch        	|	Monk	|	9	
+						Carta :Item	|Round House Kick  	|	Monk	|	11	
+				Ordem: 2 - Player: Jogador 03 ----- Criatura: Monk ----- ForçaTotal: 34
+						Carta :Criatura	|Commando Sambo    	|	Monk	|	9	
+						Carta :Item	|Hook Punch        	|	Monk	|	9	
+						Carta :Item	|Round House Kick  	|	Monk	|	11	
+				Ordem: 3 - Player: Jogador 04 ----- Criatura: Warrior ----- ForçaTotal: 11
+						Carta :Criatura	|Giant             	|	Warrior	|	8	
+						Carta :Item	|ABC06             	|	Warrior	|	0	
+				Ordem: 4 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 42
+						Carta :Criatura	|Pyromancer        	|	Mage	|	6	
+						Carta :Item	|Scorch            	|	Mage	|	9	
+						Carta :Item	|Fireball          	|	Mage	|	11	
+						Carta :Item	|Thunder Bolt      	|	Mage	|	10	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 51
+	Turno 84
+		Mesa
+				Item: Middle Kick       	|	Monk	|	10	
+				Item: Pentagram         	|	Warlock	|	11	
+				Item: Uppercut          	|	Monk	|	11	
+				Item: Meteor Shower     	|	Mage	|	12	
+				Item: Fireball          	|	Mage	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 48
+						Carta :Criatura	|Commando Sambo    	|	Monk	|	9	
+						Carta :Item	|Hook Punch        	|	Monk	|	9	
+						Carta :Item	|Middle Kick       	|	Monk	|	10	
+						Carta :Item	|Uppercut          	|	Monk	|	11	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 29
+						Carta :Criatura	|Muay Thai         	|	Monk	|	8	
+						Carta :Item	|Middle Kick       	|	Monk	|	10	
+						Carta :Item	|Uppercut          	|	Monk	|	11	
+				Ordem: 3 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 9
+						Carta :Criatura	|Warrior           	|	Warrior	|	6	
+						Carta :Item	|ABC06             	|	Warrior	|	0	
+				Ordem: 4 - Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 56
+						Carta :Criatura	|Arch Wizard       	|	Mage	|	10	
+						Carta :Item	|Thunder Bolt      	|	Mage	|	10	
+						Carta :Item	|Wind Blast        	|	Mage	|	9	
+						Carta :Item	|Meteor Shower     	|	Mage	|	12	
+						Carta :Item	|Fireball          	|	Mage	|	11	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 56
+	Turno 85
+		Mesa
+				Item: Middle Kick       	|	Monk	|	10	
+				Item: Hook Punch        	|	Monk	|	9	
+				Item: ABC10             	|	Warrior	|	0	
+				Item: Dragon Punch      	|	Monk	|	12	
+				Item: Low Kick          	|	Monk	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 31
+						Carta :Criatura	|Templar           	|	Warlock	|	7	
+						Carta :Item	|Index Prohibitorum	|	Warlock	|	11	
+						Carta :Item	|Soulstone         	|	Warlock	|	11	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 8
+						Carta :Criatura	|Warrior           	|	Warrior	|	6	
+						Carta :Item	|ABC10             	|	Warrior	|	0	
+				Ordem: 3 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 56
+						Carta :Criatura	|Commando Sambo    	|	Monk	|	9	
+						Carta :Item	|Middle Kick       	|	Monk	|	10	
+						Carta :Item	|Hook Punch        	|	Monk	|	9	
+						Carta :Item	|Dragon Punch      	|	Monk	|	12	
+						Carta :Item	|Low Kick          	|	Monk	|	9	
+				Ordem: 4 - Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 8
+						Carta :Criatura	|Necromancer       	|	Warlock	|	8	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 56
+	Turno 86
+		Mesa
+				Item: ABC03             	|	Warrior	|	0	
+				Item: Round House Kick  	|	Monk	|	11	
+				Item: Scorch            	|	Mage	|	9	
+				Item: Soulstone         	|	Warlock	|	11	
+				Item: Frost Nova        	|	Mage	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 38
+						Carta :Criatura	|Templar           	|	Warlock	|	7	
+						Carta :Item	|Index Prohibitorum	|	Warlock	|	11	
+						Carta :Item	|﻿Witchs Scepter   	|	Warlock	|	9	
+						Carta :Item	|Soulstone         	|	Warlock	|	11	
+				Ordem: 2 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 23
+						Carta :Criatura	|Master Warlock    	|	Warlock	|	10	
+						Carta :Item	|Soulstone         	|	Warlock	|	11	
+				Ordem: 3 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 29
+						Carta :Criatura	|Jeet Kune Do      	|	Monk	|	10	
+						Carta :Item	|Knee Kick         	|	Monk	|	10	
+						Carta :Item	|Round House Kick  	|	Monk	|	11	
+				Ordem: 4 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 18
+						Carta :Criatura	|Taekwondo         	|	Monk	|	7	
+						Carta :Item	|Round House Kick  	|	Monk	|	11	
+		Vencedor(es)
+				Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 38
+	Turno 87
+		Mesa
+				Item: Ice Bolt          	|	Mage	|	10	
+				Item: Tornado           	|	Mage	|	11	
+				Item: Soulstone         	|	Warlock	|	11	
+				Item: Haunted Doll      	|	Warlock	|	10	
+				Item: Uppercut          	|	Monk	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 29
+						Carta :Criatura	|Karate            	|	Monk	|	6	
+						Carta :Item	|Hook Punch        	|	Monk	|	9	
+						Carta :Item	|Uppercut          	|	Monk	|	11	
+				Ordem: 2 - Player: Jogador 03 ----- Criatura: Monk ----- ForçaTotal: 20
+						Carta :Criatura	|Commando Sambo    	|	Monk	|	9	
+						Carta :Item	|Uppercut          	|	Monk	|	11	
+				Ordem: 3 - Player: Jogador 04 ----- Criatura: Warrior ----- ForçaTotal: 12
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+						Carta :Item	|ABC01             	|	Warrior	|	0	
+				Ordem: 4 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 12
+						Carta :Criatura	|Troll             	|	Warrior	|	10	
+						Carta :Item	|ABC10             	|	Warrior	|	0	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 29
+	Turno 88
+		Mesa
+				Item: Dragon Kick       	|	Monk	|	11	
+				Item: Blizzard          	|	Mage	|	11	
+				Item: Meteor Shower     	|	Mage	|	12	
+				Item: Knee Kick         	|	Monk	|	10	
+				Item: Low Kick          	|	Monk	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 14
+						Carta :Criatura	|Ogre              	|	Warrior	|	9	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+						Carta :Item	|ABC01             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 68
+						Carta :Criatura	|Commando Sambo    	|	Monk	|	9	
+						Carta :Item	|Straight Punch    	|	Monk	|	10	
+						Carta :Item	|Round House Kick  	|	Monk	|	11	
+						Carta :Item	|Dragon Kick       	|	Monk	|	11	
+						Carta :Item	|Knee Kick         	|	Monk	|	10	
+						Carta :Item	|Low Kick          	|	Monk	|	9	
+				Ordem: 3 - Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 6
+						Carta :Criatura	|Apprentice        	|	Warlock	|	6	
+				Ordem: 4 - Player: Jogador 04 ----- Criatura: Monk ----- ForçaTotal: 43
+						Carta :Criatura	|Taekwondo         	|	Monk	|	7	
+						Carta :Item	|Dragon Kick       	|	Monk	|	11	
+						Carta :Item	|Knee Kick         	|	Monk	|	10	
+						Carta :Item	|Low Kick          	|	Monk	|	9	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 68
+	Turno 89
+		Mesa
+				Item: Frost Nova        	|	Mage	|	9	
+				Item: Jab Punch         	|	Monk	|	9	
+				Item: Soulstone         	|	Warlock	|	11	
+				Item: ABC05             	|	Warrior	|	0	
+				Item: ﻿Witchs Scepter   	|	Warlock	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 19
+						Carta :Criatura	|Master Mage       	|	Mage	|	9	
+						Carta :Item	|Frost Nova        	|	Mage	|	9	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 11
+						Carta :Criatura	|Warrior           	|	Warrior	|	6	
+						Carta :Item	|ABC03             	|	Warrior	|	0	
+						Carta :Item	|ABC05             	|	Warrior	|	0	
+				Ordem: 3 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 27
+						Carta :Criatura	|Apprentice        	|	Warlock	|	6	
+						Carta :Item	|Soulstone         	|	Warlock	|	11	
+						Carta :Item	|﻿Witchs Scepter   	|	Warlock	|	9	
+				Ordem: 4 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 10
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+						Carta :Item	|ABC05             	|	Warrior	|	0	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 27
+	Turno 90
+		Mesa
+				Item: Straight Punch    	|	Monk	|	10	
+				Item: Soulstone         	|	Warlock	|	11	
+				Item: ABC02             	|	Warrior	|	0	
+				Item: Pentagram         	|	Warlock	|	11	
+				Item: Dragon Punch      	|	Monk	|	12	
+		Jogadas
+				Ordem: 1 - Player: Jogador 03 ----- Criatura: Monk ----- ForçaTotal: 38
+						Carta :Criatura	|Jeet Kune Do      	|	Monk	|	10	
+						Carta :Item	|Straight Punch    	|	Monk	|	10	
+						Carta :Item	|Dragon Punch      	|	Monk	|	12	
+				Ordem: 2 - Player: Jogador 04 ----- Criatura: Warrior ----- ForçaTotal: 11
+						Carta :Criatura	|Warrior           	|	Warrior	|	6	
+						Carta :Item	|ABC04             	|	Warrior	|	0	
+						Carta :Item	|ABC02             	|	Warrior	|	0	
+				Ordem: 3 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 9
+						Carta :Criatura	|Master Mage       	|	Mage	|	9	
+				Ordem: 4 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 29
+						Carta :Criatura	|Apprentice        	|	Warlock	|	6	
+						Carta :Item	|Soulstone         	|	Warlock	|	11	
+						Carta :Item	|Pentagram         	|	Warlock	|	11	
+		Vencedor(es)
+				Player: Jogador 03 ----- Criatura: Monk ----- ForçaTotal: 38
+	Turno 91
+		Mesa
+				Item: Tornado           	|	Mage	|	11	
+				Item: Jab Punch         	|	Monk	|	9	
+				Item: ABC06             	|	Warrior	|	0	
+				Item: ﻿Witchs Scepter   	|	Warlock	|	9	
+				Item: Uppercut          	|	Monk	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Warrior ----- ForçaTotal: 12
+						Carta :Criatura	|Ogre              	|	Warrior	|	9	
+						Carta :Item	|ABC07             	|	Warrior	|	0	
+						Carta :Item	|ABC06             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 03 ----- Criatura: Mage ----- ForçaTotal: 26
+						Carta :Criatura	|Pyromancer        	|	Mage	|	6	
+						Carta :Item	|Frost Nova        	|	Mage	|	9	
+						Carta :Item	|Tornado           	|	Mage	|	11	
+				Ordem: 3 - Player: Jogador 04 ----- Criatura: Monk ----- ForçaTotal: 32
+						Carta :Criatura	|Muay Thai         	|	Monk	|	8	
+						Carta :Item	|Jab Punch         	|	Monk	|	9	
+						Carta :Item	|Uppercut          	|	Monk	|	11	
+				Ordem: 4 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 9
+						Carta :Criatura	|Warrior           	|	Warrior	|	6	
+						Carta :Item	|ABC02             	|	Warrior	|	0	
+						Carta :Item	|ABC06             	|	Warrior	|	0	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Monk ----- ForçaTotal: 32
+	Turno 92
+		Mesa
+				Item: Middle Kick       	|	Monk	|	10	
+				Item: Index Prohibitorum	|	Warlock	|	11	
+				Item: Fireball          	|	Mage	|	11	
+				Item: Pandoras Box      	|	Warlock	|	10	
+				Item: Meteor Shower     	|	Mage	|	12	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 18
+						Carta :Criatura	|Commando Sambo    	|	Monk	|	9	
+						Carta :Item	|Middle Kick       	|	Monk	|	10	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 17
+						Carta :Criatura	|Muay Thai         	|	Monk	|	8	
+						Carta :Item	|Middle Kick       	|	Monk	|	10	
+				Ordem: 3 - Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 40
+						Carta :Criatura	|Demonologist      	|	Warlock	|	9	
+						Carta :Item	|Ghost Chains      	|	Warlock	|	9	
+						Carta :Item	|Index Prohibitorum	|	Warlock	|	11	
+						Carta :Item	|Pandoras Box      	|	Warlock	|	10	
+				Ordem: 4 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 42
+						Carta :Criatura	|Master Warlock    	|	Warlock	|	10	
+						Carta :Item	|Haunted Doll      	|	Warlock	|	10	
+						Carta :Item	|Index Prohibitorum	|	Warlock	|	11	
+						Carta :Item	|Pandoras Box      	|	Warlock	|	10	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 42
+	Turno 93
+		Mesa
+				Item: Straight Punch    	|	Monk	|	10	
+				Item: Wind Blast        	|	Mage	|	9	
+				Item: ABC04             	|	Warrior	|	0	
+				Item: Scorch            	|	Mage	|	9	
+				Item: ﻿Witchs Scepter   	|	Warlock	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 04 ----- Criatura: Monk ----- ForçaTotal: 31
+						Carta :Criatura	|Taekwondo         	|	Monk	|	7	
+						Carta :Item	|Dragon Kick       	|	Monk	|	11	
+						Carta :Item	|Straight Punch    	|	Monk	|	10	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 53
+						Carta :Criatura	|Hydromancer       	|	Mage	|	7	
+						Carta :Item	|Thunder Bolt      	|	Mage	|	10	
+						Carta :Item	|Tornado           	|	Mage	|	11	
+						Carta :Item	|Wind Blast        	|	Mage	|	9	
+						Carta :Item	|Scorch            	|	Mage	|	9	
+				Ordem: 3 - Player: Jogador 02 ----- Criatura: Warrior ----- ForçaTotal: 10
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+						Carta :Item	|ABC10             	|	Warrior	|	0	
+						Carta :Item	|ABC04             	|	Warrior	|	0	
+				Ordem: 4 - Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 28
+						Carta :Criatura	|Templar           	|	Warlock	|	7	
+						Carta :Item	|Pandoras Box      	|	Warlock	|	10	
+						Carta :Item	|﻿Witchs Scepter   	|	Warlock	|	9	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 53
+	Turno 94
+		Mesa
+				Item: ABC04             	|	Warrior	|	0	
+				Item: Pentagram         	|	Warlock	|	11	
+				Item: Dragon Kick       	|	Monk	|	11	
+				Item: Sacrificial Knife 	|	Warlock	|	9	
+				Item: Fireball          	|	Mage	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 03 ----- Criatura: Mage ----- ForçaTotal: 36
+						Carta :Criatura	|Aeromancer        	|	Mage	|	8	
+						Carta :Item	|Fire Blast        	|	Mage	|	10	
+						Carta :Item	|Tornado           	|	Mage	|	11	
+						Carta :Item	|Fireball          	|	Mage	|	11	
+				Ordem: 2 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 32
+						Carta :Criatura	|Master Warlock    	|	Warlock	|	10	
+						Carta :Item	|Pentagram         	|	Warlock	|	11	
+						Carta :Item	|Sacrificial Knife 	|	Warlock	|	9	
+				Ordem: 3 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 10
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+						Carta :Item	|ABC04             	|	Warrior	|	0	
+				Ordem: 4 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 30
+						Carta :Criatura	|Necromancer       	|	Warlock	|	8	
+						Carta :Item	|Pentagram         	|	Warlock	|	11	
+						Carta :Item	|Sacrificial Knife 	|	Warlock	|	9	
+		Vencedor(es)
+				Player: Jogador 03 ----- Criatura: Mage ----- ForçaTotal: 36
+	Turno 95
+		Mesa
+				Item: Blizzard          	|	Mage	|	11	
+				Item: Fire Blast        	|	Mage	|	10	
+				Item: Jab Punch         	|	Monk	|	9	
+				Item: ABC08             	|	Warrior	|	0	
+				Item: Fireball          	|	Mage	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Warrior ----- ForçaTotal: 11
+						Carta :Criatura	|Ogre              	|	Warrior	|	9	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 03 ----- Criatura: Monk ----- ForçaTotal: 19
+						Carta :Criatura	|Jeet Kune Do      	|	Monk	|	10	
+						Carta :Item	|Jab Punch         	|	Monk	|	9	
+				Ordem: 3 - Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 54
+						Carta :Criatura	|Aeromancer        	|	Mage	|	8	
+						Carta :Item	|Thunder Bolt      	|	Mage	|	10	
+						Carta :Item	|Blizzard          	|	Mage	|	11	
+						Carta :Item	|Fire Blast        	|	Mage	|	10	
+						Carta :Item	|Fireball          	|	Mage	|	11	
+				Ordem: 4 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 33
+						Carta :Criatura	|Muay Thai         	|	Monk	|	8	
+						Carta :Item	|Dragon Punch      	|	Monk	|	12	
+						Carta :Item	|Jab Punch         	|	Monk	|	9	
+		Vencedor(es)
+				Player: Jogador 04 ----- Criatura: Mage ----- ForçaTotal: 54
+	Turno 96
+		Mesa
+				Item: Frost Nova        	|	Mage	|	9	
+				Item: Haunted Doll      	|	Warlock	|	10	
+				Item: Straight Punch    	|	Monk	|	10	
+				Item: ABC08             	|	Warrior	|	0	
+				Item: ABC03             	|	Warrior	|	0	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 28
+						Carta :Criatura	|Karate            	|	Monk	|	6	
+						Carta :Item	|Jab Punch         	|	Monk	|	9	
+						Carta :Item	|Straight Punch    	|	Monk	|	10	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 29
+						Carta :Criatura	|Master Mage       	|	Mage	|	9	
+						Carta :Item	|Scorch            	|	Mage	|	9	
+						Carta :Item	|Frost Nova        	|	Mage	|	9	
+				Ordem: 3 - Player: Jogador 03 ----- Criatura: Warlock ----- ForçaTotal: 17
+						Carta :Criatura	|Templar           	|	Warlock	|	7	
+						Carta :Item	|Haunted Doll      	|	Warlock	|	10	
+				Ordem: 4 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 16
+						Carta :Criatura	|Apprentice        	|	Warlock	|	6	
+						Carta :Item	|Haunted Doll      	|	Warlock	|	10	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 29
+	Turno 97
+		Mesa
+				Item: ABC08             	|	Warrior	|	0	
+				Item: Demons Horn       	|	Warlock	|	12	
+				Item: ABC07             	|	Warrior	|	0	
+				Item: Thunder Bolt      	|	Mage	|	10	
+				Item: Knee Kick         	|	Monk	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 04 ----- Criatura: Monk ----- ForçaTotal: 20
+						Carta :Criatura	|Jeet Kune Do      	|	Monk	|	10	
+						Carta :Item	|Knee Kick         	|	Monk	|	10	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 29
+						Carta :Criatura	|Apprentice        	|	Warlock	|	6	
+						Carta :Item	|Cauldron of Souls 	|	Warlock	|	10	
+						Carta :Item	|Demons Horn       	|	Warlock	|	12	
+				Ordem: 3 - Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 32
+						Carta :Criatura	|Master Mage       	|	Mage	|	9	
+						Carta :Item	|Fireball          	|	Mage	|	11	
+						Carta :Item	|Thunder Bolt      	|	Mage	|	10	
+				Ordem: 4 - Player: Jogador 03 ----- Criatura: Monk ----- ForçaTotal: 27
+						Carta :Criatura	|Karate            	|	Monk	|	6	
+						Carta :Item	|Jab Punch         	|	Monk	|	9	
+						Carta :Item	|Knee Kick         	|	Monk	|	10	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 32
+	Turno 98
+		Mesa
+				Item: Index Prohibitorum	|	Warlock	|	11	
+				Item: Uppercut          	|	Monk	|	11	
+				Item: Sacrificial Knife 	|	Warlock	|	9	
+				Item: Frost Nova        	|	Mage	|	9	
+				Item: ABC06             	|	Warrior	|	0	
+		Jogadas
+				Ordem: 1 - Player: Jogador 03 ----- Criatura: Warrior ----- ForçaTotal: 11
+						Carta :Criatura	|Warrior           	|	Warrior	|	6	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+						Carta :Item	|ABC06             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 04 ----- Criatura: Monk ----- ForçaTotal: 20
+						Carta :Criatura	|Commando Sambo    	|	Monk	|	9	
+						Carta :Item	|Uppercut          	|	Monk	|	11	
+				Ordem: 3 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 14
+						Carta :Criatura	|Ogre              	|	Warrior	|	9	
+						Carta :Item	|ABC05             	|	Warrior	|	0	
+						Carta :Item	|ABC06             	|	Warrior	|	0	
+				Ordem: 4 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 30
+						Carta :Criatura	|Karate            	|	Monk	|	6	
+						Carta :Item	|Straight Punch    	|	Monk	|	10	
+						Carta :Item	|Uppercut          	|	Monk	|	11	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 30
+	Turno 99
+		Mesa
+				Item: ABC02             	|	Warrior	|	0	
+				Item: Dragon Punch      	|	Monk	|	12	
+				Item: Cauldron of Souls 	|	Warlock	|	10	
+				Item: ABC07             	|	Warrior	|	0	
+				Item: ABC05             	|	Warrior	|	0	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 32
+						Carta :Criatura	|Taekwondo         	|	Monk	|	7	
+						Carta :Item	|Middle Kick       	|	Monk	|	10	
+						Carta :Item	|Dragon Punch      	|	Monk	|	12	
+				Ordem: 2 - Player: Jogador 03 ----- Criatura: Monk ----- ForçaTotal: 22
+						Carta :Criatura	|Jeet Kune Do      	|	Monk	|	10	
+						Carta :Item	|Dragon Punch      	|	Monk	|	12	
+				Ordem: 3 - Player: Jogador 04 ----- Criatura: Warlock ----- ForçaTotal: 19
+						Carta :Criatura	|Demonologist      	|	Warlock	|	9	
+						Carta :Item	|Cauldron of Souls 	|	Warlock	|	10	
+				Ordem: 4 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 16
+						Carta :Criatura	|Apprentice        	|	Warlock	|	6	
+						Carta :Item	|Cauldron of Souls 	|	Warlock	|	10	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 32
+	Turno 100
+		Mesa
+				Item: Uppercut          	|	Monk	|	11	
+				Item: Pandoras Box      	|	Warlock	|	10	
+				Item: ABC02             	|	Warrior	|	0	
+				Item: Hook Punch        	|	Monk	|	9	
+				Item: ABC04             	|	Warrior	|	0	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 12
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+						Carta :Item	|ABC02             	|	Warrior	|	0	
+						Carta :Item	|ABC04             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 29
+						Carta :Criatura	|Demonologist      	|	Warlock	|	9	
+						Carta :Item	|Ghost Chains      	|	Warlock	|	9	
+						Carta :Item	|Pandoras Box      	|	Warlock	|	10	
+				Ordem: 3 - Player: Jogador 03 ----- Criatura: Mage ----- ForçaTotal: 22
+						Carta :Criatura	|Hydromancer       	|	Mage	|	7	
+						Carta :Item	|Tornado           	|	Mage	|	11	
+				Ordem: 4 - Player: Jogador 04 ----- Criatura: Monk ----- ForçaTotal: 28
+						Carta :Criatura	|Karate            	|	Monk	|	6	
+						Carta :Item	|Uppercut          	|	Monk	|	11	
+						Carta :Item	|Hook Punch        	|	Monk	|	9	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 29
+
+
+Vitórias de Mage : 26  Empates: (0)
+Vitórias de Monk : 38  Empates: (1)
+Vitórias de Warlock : 36  Empates: (1)
+Vitórias de Warrior : 1  Empates: (0)
+
+
+Vitórias limpas de Mage: 26
+Vitórias limpas de Monk: 37
+Vitórias limpas de Warlock: 35
+Vitórias limpas de Warrior: 1
+
+
+Monstro-Warrior
+Level Vencedor:	LEVEL-5              	 revelado:	84 	 vitórias:	26 	 rev-vito:	   14	(	6,67%	)
+
+Monstro-Mage
+Level Vencedor:	LEVEL-5              	 revelado:	84 	 vitórias:	26 	 rev-vito:	   18	(	33,33%	)
+Level Vencedor:	LEVEL-1              	 revelado:	74 	 vitórias:	14 	 rev-vito:	    9	(	10,00%	)
+Level Vencedor:	LEVEL-2              	 revelado:	88 	 vitórias:	21 	 rev-vito:	   16	(	20,00%	)
+Level Vencedor:	LEVEL-3              	 revelado:	69 	 vitórias:	13 	 rev-vito:	   11	(	26,67%	)
+Level Vencedor:	LEVEL-4              	 revelado:	85 	 vitórias:	27 	 rev-vito:	   18	(	30,77%	)
+
+Monstro-Monk
+Level Vencedor:	LEVEL-5              	 revelado:	84 	 vitórias:	26 	 rev-vito:	   12	(	36,84%	)
+Level Vencedor:	LEVEL-1              	 revelado:	74 	 vitórias:	14 	 rev-vito:	   15	(	31,82%	)
+Level Vencedor:	LEVEL-2              	 revelado:	88 	 vitórias:	21 	 rev-vito:	   12	(	42,86%	)
+Level Vencedor:	LEVEL-3              	 revelado:	69 	 vitórias:	13 	 rev-vito:	   12	(	33,33%	)
+Level Vencedor:	LEVEL-4              	 revelado:	85 	 vitórias:	27 	 rev-vito:	    9	(	50,00%	)
+
+Monstro-Warlock
+Level Vencedor:	LEVEL-5              	 revelado:	84 	 vitórias:	26 	 rev-vito:	   14	(	39,13%	)
+Level Vencedor:	LEVEL-1              	 revelado:	74 	 vitórias:	14 	 rev-vito:	   15	(	28,57%	)
+Level Vencedor:	LEVEL-2              	 revelado:	88 	 vitórias:	21 	 rev-vito:	   12	(	40,00%	)
+Level Vencedor:	LEVEL-3              	 revelado:	69 	 vitórias:	13 	 rev-vito:	   12	(	20,00%	)
+Level Vencedor:	LEVEL-4              	 revelado:	85 	 vitórias:	27 	 rev-vito:	   12	(	45,45%	)
+
+Criatura Vencedora:	Mage    	-	Aeromancer           	 revelado:	15 	 vitórias:	4 	 rev-vito:	   11	(	26,67%	)
+Criatura Vencedora:	Warlock    	-	Apprentice           	 revelado:	21 	 vitórias:	6 	 rev-vito:	   15	(	28,57%	)
+Criatura Vencedora:	Mage    	-	Arch Wizard          	 revelado:	27 	 vitórias:	9 	 rev-vito:	   18	(	33,33%	)
+Criatura Vencedora:	Monk    	-	Commando Sambo       	 revelado:	18 	 vitórias:	9 	 rev-vito:	    9	(	50,00%	)
+Criatura Vencedora:	Warlock    	-	Demonologist         	 revelado:	22 	 vitórias:	10 	 rev-vito:	   12	(	45,45%	)
+Criatura Vencedora:	Mage    	-	Hydromancer          	 revelado:	20 	 vitórias:	4 	 rev-vito:	   16	(	20,00%	)
+Criatura Vencedora:	Monk    	-	Jeet Kune Do         	 revelado:	19 	 vitórias:	7 	 rev-vito:	   12	(	36,84%	)
+Criatura Vencedora:	Monk    	-	Karate               	 revelado:	22 	 vitórias:	7 	 rev-vito:	   15	(	31,82%	)
+Criatura Vencedora:	Mage    	-	Master Mage          	 revelado:	26 	 vitórias:	8 	 rev-vito:	   18	(	30,77%	)
+Criatura Vencedora:	Warlock    	-	Master Warlock       	 revelado:	23 	 vitórias:	9 	 rev-vito:	   14	(	39,13%	)
+Criatura Vencedora:	Monk    	-	Muay Thai            	 revelado:	18 	 vitórias:	6 	 rev-vito:	   12	(	33,33%	)
+Criatura Vencedora:	Warlock    	-	Necromancer          	 revelado:	15 	 vitórias:	3 	 rev-vito:	   12	(	20,00%	)
+Criatura Vencedora:	Mage    	-	Pyromancer           	 revelado:	10 	 vitórias:	1 	 rev-vito:	    9	(	10,00%	)
+Criatura Vencedora:	Monk    	-	Taekwondo            	 revelado:	21 	 vitórias:	9 	 rev-vito:	   12	(	42,86%	)
+Criatura Vencedora:	Warlock    	-	Templar              	 revelado:	20 	 vitórias:	8 	 rev-vito:	   12	(	40,00%	)
+Criatura Vencedora:	Warrior    	-	Troll                	 revelado:	15 	 vitórias:	1 	 rev-vito:	   14	(	6,67%	)
+
+
+
+Força das Vitórias: LEVEL-5        	  Min:	12	  Avg:	36,58	  Max:	64
+Força das Vitórias: LEVEL-1        	  Min:	26	  Avg:	38,50	  Max:	62
+Força das Vitórias: LEVEL-2        	  Min:	27	  Avg:	40,33	  Max:	55
+Força das Vitórias: LEVEL-3        	  Min:	24	  Avg:	39,08	  Max:	54
+Força das Vitórias: LEVEL-4        	  Min:	19	  Avg:	37,67	  Max:	68
+
+
+
+Força das Vitórias: Arch Wizard    	  Min:	21	  Avg:	38,56	  Max:	61
+Força das Vitórias: Demonologist   	  Min:	19	  Avg:	30,50	  Max:	44
+Força das Vitórias: Troll          	  Min:	12	  Avg:	12,00	  Max:	12
+Força das Vitórias: Master Warlock 	  Min:	19	  Avg:	36,89	  Max:	51
+Força das Vitórias: Pyromancer     	  Min:	30	  Avg:	30,00	  Max:	30
+Força das Vitórias: Hydromancer    	  Min:	30	  Avg:	46,25	  Max:	54
+Força das Vitórias: Commando Sambo 	  Min:	31	  Avg:	46,78	  Max:	68
+Força das Vitórias: Apprentice     	  Min:	26	  Avg:	36,33	  Max:	47
+Força das Vitórias: Templar        	  Min:	27	  Avg:	36,88	  Max:	47
+Força das Vitórias: Karate         	  Min:	29	  Avg:	41,57	  Max:	62
+Força das Vitórias: Jeet Kune Do   	  Min:	21	  Avg:	37,14	  Max:	64
+Força das Vitórias: Master Mage    	  Min:	20	  Avg:	36,38	  Max:	45
+Força das Vitórias: Necromancer    	  Min:	29	  Avg:	36,67	  Max:	51
+Força das Vitórias: Muay Thai      	  Min:	24	  Avg:	36,50	  Max:	44
+Força das Vitórias: Taekwondo      	  Min:	31	  Avg:	40,78	  Max:	55
+Força das Vitórias: Aeromancer     	  Min:	36	  Avg:	44,75	  Max:	54
+
+
+
+Força das Vitórias: Mage           	  Min:	20	  Avg:	39,69	  Max:	61
+Força das Vitórias: Monk           	  Min:	21	  Avg:	41,00	  Max:	68
+Força das Vitórias: Warlock        	  Min:	19	  Avg:	35,00	  Max:	51
+Força das Vitórias: Warrior        	  Min:	12	  Avg:	12,00	  Max:	12
+
+Força das Vitórias: Mage           	 QntItensUsados:1	 Min:	20	  Avg:	20,50	  Max:	21 Count:2
+Força das Vitórias: Mage           	 QntItensUsados:2	 Min:	29	  Avg:	33,09	  Max:	38 Count:11
+Força das Vitórias: Mage           	 QntItensUsados:3	 Min:	36	  Avg:	43,00	  Max:	46 Count:7
+Força das Vitórias: Mage           	 QntItensUsados:4	 Min:	48	  Avg:	54,33	  Max:	61 Count:6
+
+Força das Vitórias: Monk           	 QntItensUsados:1	 Min:	21	  Avg:	21,00	  Max:	21 Count:1
+Força das Vitórias: Monk           	 QntItensUsados:2	 Min:	24	  Avg:	32,00	  Max:	38 Count:17
+Força das Vitórias: Monk           	 QntItensUsados:3	 Min:	38	  Avg:	43,27	  Max:	50 Count:11
+Força das Vitórias: Monk           	 QntItensUsados:4	 Min:	51	  Avg:	55,29	  Max:	64 Count:7
+Força das Vitórias: Monk           	 QntItensUsados:5	 Min:	62	  Avg:	65,00	  Max:	68 Count:2
+
+Força das Vitórias: Warlock        	 QntItensUsados:1	 Min:	19	  Avg:	19,67	  Max:	21 Count:3
+Força das Vitórias: Warlock        	 QntItensUsados:2	 Min:	26	  Avg:	29,88	  Max:	35 Count:16
+Força das Vitórias: Warlock        	 QntItensUsados:3	 Min:	37	  Avg:	40,54	  Max:	46 Count:13
+Força das Vitórias: Warlock        	 QntItensUsados:4	 Min:	47	  Avg:	49,00	  Max:	51 Count:4
+
+Força das Vitórias: Warrior        	 QntItensUsados:1	 Min:	12	  Avg:	12,00	  Max:	12 Count:1
+
+
+
+		Monstros X Quantidade de Itens Utilizados X Força Média por Jogada
+
+Monstro: Aeromancer        	Itens:	0	Vezes Realizada	3	Min:	8	  Avg:	8,00	  Max:	8
+Monstro: Aeromancer        	Itens:	1	Vezes Realizada	4	Min:	18	  Avg:	19,25	  Max:	21
+Monstro: Aeromancer        	Itens:	2	Vezes Realizada	4	Min:	27	  Avg:	29,00	  Max:	33
+Monstro: Aeromancer        	Itens:	3	Vezes Realizada	3	Min:	36	  Avg:	41,67	  Max:	46
+Monstro: Aeromancer        	Itens:	4	Vezes Realizada	1	Min:	54	  Avg:	54,00	  Max:	54
+Monstro: Apprentice        	Itens:	0	Vezes Realizada	5	Min:	6	  Avg:	6,00	  Max:	6
+Monstro: Apprentice        	Itens:	1	Vezes Realizada	4	Min:	15	  Avg:	15,75	  Max:	16
+Monstro: Apprentice        	Itens:	2	Vezes Realizada	6	Min:	26	  Avg:	28,33	  Max:	30
+Monstro: Apprentice        	Itens:	3	Vezes Realizada	5	Min:	34	  Avg:	37,60	  Max:	40
+Monstro: Apprentice        	Itens:	4	Vezes Realizada	1	Min:	47	  Avg:	47,00	  Max:	47
+Monstro: Arch Wizard       	Itens:	0	Vezes Realizada	4	Min:	10	  Avg:	10,00	  Max:	10
+Monstro: Arch Wizard       	Itens:	1	Vezes Realizada	6	Min:	19	  Avg:	21,67	  Max:	26
+Monstro: Arch Wizard       	Itens:	2	Vezes Realizada	14	Min:	30	  Avg:	34,50	  Max:	38
+Monstro: Arch Wizard       	Itens:	3	Vezes Realizada	1	Min:	42	  Avg:	42,00	  Max:	42
+Monstro: Arch Wizard       	Itens:	4	Vezes Realizada	2	Min:	56	  Avg:	58,50	  Max:	61
+Monstro: Barbarian         	Itens:	0	Vezes Realizada	2	Min:	7	  Avg:	7,00	  Max:	7
+Monstro: Barbarian         	Itens:	1	Vezes Realizada	13	Min:	9	  Avg:	9,46	  Max:	10
+Monstro: Barbarian         	Itens:	2	Vezes Realizada	10	Min:	10	  Avg:	11,10	  Max:	12
+Monstro: Barbarian         	Itens:	3	Vezes Realizada	1	Min:	10	  Avg:	10,00	  Max:	10
+Monstro: Barbarian         	Itens:	4	Vezes Realizada	1	Min:	12	  Avg:	12,00	  Max:	12
+Monstro: Commando Sambo    	Itens:	1	Vezes Realizada	5	Min:	18	  Avg:	19,20	  Max:	20
+Monstro: Commando Sambo    	Itens:	2	Vezes Realizada	5	Min:	31	  Avg:	33,00	  Max:	35
+Monstro: Commando Sambo    	Itens:	3	Vezes Realizada	5	Min:	45	  Avg:	47,40	  Max:	50
+Monstro: Commando Sambo    	Itens:	4	Vezes Realizada	2	Min:	56	  Avg:	56,50	  Max:	57
+Monstro: Commando Sambo    	Itens:	5	Vezes Realizada	1	Min:	68	  Avg:	68,00	  Max:	68
+Monstro: Demonologist      	Itens:	0	Vezes Realizada	1	Min:	9	  Avg:	9,00	  Max:	9
+Monstro: Demonologist      	Itens:	1	Vezes Realizada	8	Min:	18	  Avg:	19,00	  Max:	21
+Monstro: Demonologist      	Itens:	2	Vezes Realizada	7	Min:	29	  Avg:	30,43	  Max:	32
+Monstro: Demonologist      	Itens:	3	Vezes Realizada	5	Min:	39	  Avg:	40,80	  Max:	44
+Monstro: Demonologist      	Itens:	4	Vezes Realizada	1	Min:	49	  Avg:	49,00	  Max:	49
+Monstro: Giant             	Itens:	0	Vezes Realizada	4	Min:	7	  Avg:	7,75	  Max:	8
+Monstro: Giant             	Itens:	1	Vezes Realizada	5	Min:	10	  Avg:	10,40	  Max:	11
+Monstro: Giant             	Itens:	2	Vezes Realizada	6	Min:	10	  Avg:	11,50	  Max:	13
+Monstro: Giant             	Itens:	3	Vezes Realizada	2	Min:	11	  Avg:	11,00	  Max:	11
+Monstro: Giant             	Itens:	4	Vezes Realizada	3	Min:	11	  Avg:	11,67	  Max:	13
+Monstro: Giant             	Itens:	5	Vezes Realizada	1	Min:	13	  Avg:	13,00	  Max:	13
+Monstro: Hydromancer       	Itens:	0	Vezes Realizada	3	Min:	7	  Avg:	7,00	  Max:	7
+Monstro: Hydromancer       	Itens:	1	Vezes Realizada	7	Min:	16	  Avg:	18,29	  Max:	22
+Monstro: Hydromancer       	Itens:	2	Vezes Realizada	7	Min:	25	  Avg:	28,86	  Max:	34
+Monstro: Hydromancer       	Itens:	4	Vezes Realizada	3	Min:	48	  Avg:	51,67	  Max:	54
+Monstro: Jeet Kune Do      	Itens:	0	Vezes Realizada	3	Min:	8	  Avg:	9,33	  Max:	10
+Monstro: Jeet Kune Do      	Itens:	1	Vezes Realizada	6	Min:	19	  Avg:	20,33	  Max:	22
+Monstro: Jeet Kune Do      	Itens:	2	Vezes Realizada	8	Min:	29	  Avg:	33,88	  Max:	38
+Monstro: Jeet Kune Do      	Itens:	3	Vezes Realizada	1	Min:	48	  Avg:	48,00	  Max:	48
+Monstro: Jeet Kune Do      	Itens:	4	Vezes Realizada	1	Min:	64	  Avg:	64,00	  Max:	64
+Monstro: Karate            	Itens:	0	Vezes Realizada	2	Min:	6	  Avg:	6,00	  Max:	6
+Monstro: Karate            	Itens:	1	Vezes Realizada	5	Min:	15	  Avg:	15,80	  Max:	17
+Monstro: Karate            	Itens:	2	Vezes Realizada	9	Min:	27	  Avg:	28,11	  Max:	30
+Monstro: Karate            	Itens:	3	Vezes Realizada	3	Min:	37	  Avg:	39,67	  Max:	44
+Monstro: Karate            	Itens:	4	Vezes Realizada	2	Min:	51	  Avg:	51,50	  Max:	52
+Monstro: Karate            	Itens:	5	Vezes Realizada	1	Min:	62	  Avg:	62,00	  Max:	62
+Monstro: Master Mage       	Itens:	0	Vezes Realizada	5	Min:	8	  Avg:	8,80	  Max:	9
+Monstro: Master Mage       	Itens:	1	Vezes Realizada	8	Min:	18	  Avg:	20,88	  Max:	24
+Monstro: Master Mage       	Itens:	2	Vezes Realizada	8	Min:	29	  Avg:	31,13	  Max:	34
+Monstro: Master Mage       	Itens:	3	Vezes Realizada	5	Min:	43	  Avg:	44,40	  Max:	46
+Monstro: Master Warlock    	Itens:	0	Vezes Realizada	3	Min:	10	  Avg:	10,00	  Max:	10
+Monstro: Master Warlock    	Itens:	1	Vezes Realizada	6	Min:	18	  Avg:	19,50	  Max:	23
+Monstro: Master Warlock    	Itens:	2	Vezes Realizada	8	Min:	30	  Avg:	32,13	  Max:	35
+Monstro: Master Warlock    	Itens:	3	Vezes Realizada	5	Min:	40	  Avg:	43,00	  Max:	46
+Monstro: Master Warlock    	Itens:	4	Vezes Realizada	1	Min:	51	  Avg:	51,00	  Max:	51
+Monstro: Muay Thai         	Itens:	0	Vezes Realizada	2	Min:	8	  Avg:	8,00	  Max:	8
+Monstro: Muay Thai         	Itens:	1	Vezes Realizada	6	Min:	16	  Avg:	17,00	  Max:	19
+Monstro: Muay Thai         	Itens:	2	Vezes Realizada	7	Min:	24	  Avg:	30,71	  Max:	33
+Monstro: Muay Thai         	Itens:	3	Vezes Realizada	3	Min:	43	  Avg:	43,67	  Max:	44
+Monstro: Necromancer       	Itens:	0	Vezes Realizada	2	Min:	8	  Avg:	8,00	  Max:	8
+Monstro: Necromancer       	Itens:	1	Vezes Realizada	6	Min:	18	  Avg:	19,17	  Max:	20
+Monstro: Necromancer       	Itens:	2	Vezes Realizada	6	Min:	29	  Avg:	30,17	  Max:	32
+Monstro: Necromancer       	Itens:	4	Vezes Realizada	1	Min:	51	  Avg:	51,00	  Max:	51
+Monstro: Ogre              	Itens:	0	Vezes Realizada	2	Min:	9	  Avg:	9,00	  Max:	9
+Monstro: Ogre              	Itens:	1	Vezes Realizada	6	Min:	10	  Avg:	10,83	  Max:	11
+Monstro: Ogre              	Itens:	2	Vezes Realizada	8	Min:	12	  Avg:	13,00	  Max:	14
+Monstro: Ogre              	Itens:	3	Vezes Realizada	1	Min:	13	  Avg:	13,00	  Max:	13
+Monstro: Ogre              	Itens:	4	Vezes Realizada	2	Min:	14	  Avg:	14,00	  Max:	14
+Monstro: Pyromancer        	Itens:	0	Vezes Realizada	2	Min:	6	  Avg:	6,00	  Max:	6
+Monstro: Pyromancer        	Itens:	1	Vezes Realizada	2	Min:	18	  Avg:	18,50	  Max:	19
+Monstro: Pyromancer        	Itens:	2	Vezes Realizada	4	Min:	26	  Avg:	27,25	  Max:	30
+Monstro: Pyromancer        	Itens:	3	Vezes Realizada	2	Min:	41	  Avg:	41,50	  Max:	42
+Monstro: Taekwondo         	Itens:	0	Vezes Realizada	3	Min:	7	  Avg:	7,00	  Max:	7
+Monstro: Taekwondo         	Itens:	1	Vezes Realizada	5	Min:	16	  Avg:	17,60	  Max:	18
+Monstro: Taekwondo         	Itens:	2	Vezes Realizada	5	Min:	27	  Avg:	30,60	  Max:	32
+Monstro: Taekwondo         	Itens:	3	Vezes Realizada	5	Min:	39	  Avg:	41,60	  Max:	43
+Monstro: Taekwondo         	Itens:	4	Vezes Realizada	3	Min:	52	  Avg:	54,00	  Max:	55
+Monstro: Templar           	Itens:	1	Vezes Realizada	7	Min:	16	  Avg:	17,43	  Max:	19
+Monstro: Templar           	Itens:	2	Vezes Realizada	6	Min:	27	  Avg:	28,83	  Max:	31
+Monstro: Templar           	Itens:	3	Vezes Realizada	6	Min:	37	  Avg:	38,67	  Max:	40
+Monstro: Templar           	Itens:	4	Vezes Realizada	1	Min:	47	  Avg:	47,00	  Max:	47
+Monstro: Troll             	Itens:	0	Vezes Realizada	1	Min:	10	  Avg:	10,00	  Max:	10
+Monstro: Troll             	Itens:	1	Vezes Realizada	7	Min:	12	  Avg:	12,43	  Max:	15
+Monstro: Troll             	Itens:	2	Vezes Realizada	4	Min:	13	  Avg:	13,00	  Max:	13
+Monstro: Troll             	Itens:	3	Vezes Realizada	3	Min:	15	  Avg:	15,00	  Max:	15
+Monstro: Warrior           	Itens:	0	Vezes Realizada	2	Min:	6	  Avg:	6,00	  Max:	6
+Monstro: Warrior           	Itens:	1	Vezes Realizada	8	Min:	8	  Avg:	8,75	  Max:	11
+Monstro: Warrior           	Itens:	2	Vezes Realizada	8	Min:	8	  Avg:	9,75	  Max:	11
+Monstro: Warrior           	Itens:	3	Vezes Realizada	1	Min:	11	  Avg:	11,00	  Max:	11
+Monstro: Warrior           	Itens:	4	Vezes Realizada	2	Min:	11	  Avg:	11,00	  Max:	11
+
+
+		Tipo Monstro X Força Média por Jogada
+
+Monstro: Warrior           	  Min:	6	  Avg:	10,75	  Max:	15
+Monstro: Warlock           	  Min:	6	  Avg:	27,05	  Max:	51
+Monstro: Monk              	  Min:	6	  Avg:	29,96	  Max:	68
+Monstro: Mage              	  Min:	6	  Avg:	26,91	  Max:	61
+
+
+		Monstro X Força Média por Jogada
+
+Monstro: Commando Sambo    	  Min:	18	  Avg:	37,72	  Max:	68
+Monstro: Karate            	  Min:	6	  Avg:	28,55	  Max:	62
+Monstro: Ogre              	  Min:	9	  Avg:	12,00	  Max:	14
+Monstro: Muay Thai         	  Min:	8	  Avg:	25,78	  Max:	44
+Monstro: Warrior           	  Min:	6	  Avg:	9,19	  Max:	11
+Monstro: Hydromancer       	  Min:	7	  Avg:	25,30	  Max:	54
+Monstro: Aeromancer        	  Min:	8	  Avg:	26,40	  Max:	54
+Monstro: Pyromancer        	  Min:	6	  Avg:	24,10	  Max:	42
+Monstro: Barbarian         	  Min:	7	  Avg:	10,00	  Max:	12
+Monstro: Necromancer       	  Min:	8	  Avg:	24,20	  Max:	51
+Monstro: Master Mage       	  Min:	8	  Avg:	26,23	  Max:	46
+Monstro: Taekwondo         	  Min:	7	  Avg:	30,10	  Max:	55
+Monstro: Arch Wizard       	  Min:	10	  Avg:	30,07	  Max:	61
+Monstro: Jeet Kune Do      	  Min:	8	  Avg:	28,05	  Max:	64
+Monstro: Troll             	  Min:	10	  Avg:	12,93	  Max:	15
+Monstro: Giant             	  Min:	7	  Avg:	10,57	  Max:	13
+Monstro: Demonologist      	  Min:	9	  Avg:	28,50	  Max:	49
+Monstro: Templar           	  Min:	16	  Avg:	28,70	  Max:	47
+Monstro: Apprentice        	  Min:	6	  Avg:	23,71	  Max:	47
+Monstro: Master Warlock    	  Min:	10	  Avg:	29,13	  Max:	51
+
+
+ Estatísticas de Combo Humano 
+
+ Combo Realizado:	KK	Quantidade:	6
+ Combo Realizado:	PP	Quantidade:	11
+ Combo Realizado:	KKP	Quantidade:	11
+ Combo Realizado:	KKPP	Quantidade:	1
+ Combo Realizado:	KP	Quantidade:	13
+ Combo Realizado:	KKK	Quantidade:	3
+ Combo Realizado:	KPP	Quantidade:	10
+
+

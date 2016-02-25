@@ -77,6 +77,9 @@ public class FXMLDocumentController {
     private TextField txtQntItensReve;
 
     @FXML
+    private TextField txtQntItensComprados;
+    
+    @FXML
     private TextField txtPathItems;
 
     @FXML
@@ -86,6 +89,8 @@ public class FXMLDocumentController {
             Configuracoes.NumeroDeJogadores = Integer.parseInt(txtNumPlayers.getText());
             Configuracoes.NumeroDeTurnos = Integer.parseInt(txtNumTurns.getText());
             Configuracoes.QuantidadeItensReveladosPorTurno = Integer.parseInt(txtQntItensReve.getText());
+            Configuracoes.QuantidadeItensCompradosPorJogador = Integer.parseInt(txtQntItensComprados.getText());
+            
             Configuracoes.CaminhoCSVMonstros = txtPathMonsters.getText();
             Configuracoes.CaminhoCSVItens = txtPathItems.getText();
 //            Configuracoes.CaminhoCSVSetBonus = txtSetBonusPath.getText();

@@ -44,6 +44,7 @@ public class Estatisticas {
 
         Comparator<Card> byNome = (e1, e2) -> String.valueOf(e1.Nome).compareTo(e2.Nome);
         Comparator<Jogada> byNomeMonstroJogada = (e1, e2) -> String.valueOf(e1.Jogador.MonstroNaMao().Nome).compareTo(e2.Jogador.MonstroNaMao().Nome);
+        Comparator<Jogada> byTipoMonstroJogada = (e1, e2) -> String.valueOf(e1.Jogador.MonstroNaMao().TipoMonstro.toString()).compareTo(e2.Jogador.MonstroNaMao().TipoMonstro.toString());
         Comparator<Jogada> byLevelMonstroJogada = (e1, e2) -> String.valueOf(e1.Jogador.MonstroNaMao().Level).compareTo(String.valueOf(e2.Jogador.MonstroNaMao().Level));
         Comparator<Object> byString = (e1, e2) -> String.valueOf(e1.toString()).compareTo(e2.toString());
         List<Jogada> jogadasVencedoras = partida.Turnos.stream().flatMap(turno -> turno.JogadaVencedoraOuEmpate.stream()).collect(Collectors.toList());
@@ -94,6 +95,16 @@ public class Estatisticas {
         jogadasPorCriaturaQuantidadeItem = jogadas.stream()
                 .sorted(byNomeMonstroJogada)
                 .collect(Collectors.groupingBy(x -> "Monstro: " + StringUtil.padRight(x.Jogador.MonstroNaMao().Nome,18,' ') + "\tItens:\t" + (x.CartasUtilizadas.size() - 1)));
+        
+        Map<String, List<Jogada>> jogadasPorTipoCriatura;
+        jogadasPorTipoCriatura = jogadas.stream()
+                .sorted(byTipoMonstroJogada)
+                .collect(Collectors.groupingBy(x -> "Monstro: " + StringUtil.padRight(x.Jogador.MonstroNaMao().TipoMonstro.toString(),18,' ')));
+        
+        Map<String, List<Jogada>> jogadasPorCriatura;
+        jogadasPorCriatura = jogadas.stream()
+                .sorted(byTipoMonstroJogada)
+                .collect(Collectors.groupingBy(x -> "Monstro: " + StringUtil.padRight(x.Jogador.MonstroNaMao().Nome,18,' ')));
         
         Map<String, Map<String, List<Jogada>>> winsPorCriaturaLevel;
         winsPorCriaturaLevel = jogadasVencedoras.stream()
@@ -250,18 +261,52 @@ public class Estatisticas {
         
         strbRelat.append("\r\n");
         strbRelat.append("\r\n");
-        
         strbRelat.append(espacamento2);
         strbRelat.append("Monstros X Quantidade de Itens Utilizados X Força Média por Jogada");
-        
         strbRelat.append("\r\n");
         strbRelat.append("\r\n");
         TreeMap<String, List<Jogada>> sorted = new TreeMap<>(jogadasPorCriaturaQuantidadeItem);
         for (Map.Entry<String, List<Jogada>> entry : sorted.entrySet()) {
-            strbRelat.append(String.format("\t%1$s\tVezes Realizada\t%2$s\t Força Média: %3$.2f",  entry.getKey(), entry.getValue().size(), entry.getValue().stream().mapToLong(f -> f.ForcaTotal).average().getAsDouble()));
-            strbRelat.append("\r\n");
+            
+            List<Long> forcasPorJogada = entry.getValue().stream().map(forca -> forca.ForcaTotal).collect(Collectors.toList());
+            
+            forcaMin = forcasPorJogada.stream().min(byForcaTotal).get();
+            forcaAvg = forcasPorJogada.stream().mapToLong(f -> f).average().getAsDouble();
+            forcaMax = forcasPorJogada.stream().max(byForcaTotal).get();
+
+            strbRelat.append(String.format("%1$s\tVezes Realizada\t%5$s\tMin:\t%2$s\t  Avg:\t%3$.2f\t  Max:\t%4$s", StringUtil.padRight(entry.getKey(), 15, ' '), forcaMin, forcaAvg, forcaMax, entry.getValue().size())).append("\r\n");
         }
 
+        strbRelat.append("\r\n");
+        strbRelat.append("\r\n");
+        strbRelat.append(espacamento2);
+        strbRelat.append("Tipo Monstro X Força Média por Jogada");
+        strbRelat.append("\r\n");
+        strbRelat.append("\r\n");
+        for (Map.Entry<String, List<Jogada>> entry : jogadasPorTipoCriatura.entrySet()) {
+            List<Long> forcasPorJogada = entry.getValue().stream().map(forca -> forca.ForcaTotal).collect(Collectors.toList());
+            forcaMin = forcasPorJogada.stream().min(byForcaTotal).get();
+            forcaAvg = forcasPorJogada.stream().mapToLong(f -> f).average().getAsDouble();
+            forcaMax = forcasPorJogada.stream().max(byForcaTotal).get();
+            strbRelat.append(String.format("%1$s\t  Min:\t%2$s\t  Avg:\t%3$.2f\t  Max:\t%4$s", StringUtil.padRight(entry.getKey(), 15, ' '), forcaMin, forcaAvg, forcaMax)).append("\r\n");
+        }
+        
+        
+        strbRelat.append("\r\n");
+        strbRelat.append("\r\n");
+        strbRelat.append(espacamento2);
+        strbRelat.append("Monstro X Força Média por Jogada");
+        strbRelat.append("\r\n");
+        strbRelat.append("\r\n");
+        for (Map.Entry<String, List<Jogada>> entry : jogadasPorCriatura.entrySet()) {
+            List<Long> forcasPorJogada = entry.getValue().stream().map(forca -> forca.ForcaTotal).collect(Collectors.toList());
+            forcaMin = forcasPorJogada.stream().min(byForcaTotal).get();
+            forcaAvg = forcasPorJogada.stream().mapToLong(f -> f).average().getAsDouble();
+            forcaMax = forcasPorJogada.stream().max(byForcaTotal).get();
+            strbRelat.append(String.format("%1$s\t  Min:\t%2$s\t  Avg:\t%3$.2f\t  Max:\t%4$s", StringUtil.padRight(entry.getKey(), 15, ' '), forcaMin, forcaAvg, forcaMax)).append("\r\n");
+        }
+
+        
         MonkCard.GeraEstatisca(strbRelat);
         
         FileIO.WriteStingToFile(strbRelat.toString(), Configuracoes.CaminhoDestinoEstatisticas + String.format("RelatorioAnalitico_%1$s.txt", new SimpleDateFormat("yyyyMMddHHmmss").format(new Date())));

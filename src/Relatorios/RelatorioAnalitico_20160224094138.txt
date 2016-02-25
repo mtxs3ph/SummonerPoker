@@ -1,0 +1,302 @@
+Dados Estatísticos - 24/02/2016 09:41:38
+Número de Jogadores: 2
+Número de Turnos: 10
+
+	Turno 1
+		Mesa
+				Item: Dragon Punch      	|	Monk	|	12	
+				Item: Fire Blast        	|	Mage	|	10	
+				Item: Straight Punch    	|	Monk	|	10	
+				Item: Fireball          	|	Mage	|	11	
+				Item: Jab Punch         	|	Monk	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Warrior ----- ForçaTotal: 13
+						Carta :Criatura	|Giant             	|	Warrior	|	8	
+						Carta :Item	|ABC05             	|	Warrior	|	0	
+						Carta :Item	|ABC03             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 34
+						Carta :Criatura	|Pyromancer        	|	Mage	|	6	
+						Carta :Item	|Fire Blast        	|	Mage	|	10	
+						Carta :Item	|Fireball          	|	Mage	|	11	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 34
+	Turno 2
+		Mesa
+				Item: Meteor Shower     	|	Mage	|	12	
+				Item: Frost Nova        	|	Mage	|	9	
+				Item: ﻿Witchs Scepter   	|	Warlock	|	9	
+				Item: Cauldron of Souls 	|	Warlock	|	10	
+				Item: Dragon Kick       	|	Monk	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 30
+						Carta :Criatura	|Master Warlock    	|	Warlock	|	10	
+						Carta :Item	|﻿Witchs Scepter   	|	Warlock	|	9	
+						Carta :Item	|Cauldron of Souls 	|	Warlock	|	10	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 27
+						Carta :Criatura	|Demonologist      	|	Warlock	|	9	
+						Carta :Item	|﻿Witchs Scepter   	|	Warlock	|	9	
+						Carta :Item	|Cauldron of Souls 	|	Warlock	|	10	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 30
+	Turno 3
+		Mesa
+				Item: ABC06             	|	Warrior	|	0	
+				Item: Uppercut          	|	Monk	|	11	
+				Item: Meteor Shower     	|	Mage	|	12	
+				Item: Tornado           	|	Mage	|	11	
+				Item: ABC01             	|	Warrior	|	0	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 39
+						Carta :Criatura	|Pyromancer        	|	Mage	|	6	
+						Carta :Item	|Ice Bolt          	|	Mage	|	10	
+						Carta :Item	|Meteor Shower     	|	Mage	|	12	
+						Carta :Item	|Tornado           	|	Mage	|	11	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 13
+						Carta :Criatura	|Giant             	|	Warrior	|	8	
+						Carta :Item	|ABC10             	|	Warrior	|	0	
+						Carta :Item	|ABC06             	|	Warrior	|	0	
+						Carta :Item	|ABC01             	|	Warrior	|	0	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Mage ----- ForçaTotal: 39
+	Turno 4
+		Mesa
+				Item: Uppercut          	|	Monk	|	11	
+				Item: Dragon Punch      	|	Monk	|	12	
+				Item: ABC05             	|	Warrior	|	0	
+				Item: ﻿Witchs Scepter   	|	Warlock	|	9	
+				Item: ABC04             	|	Warrior	|	0	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 12
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+						Carta :Item	|ABC05             	|	Warrior	|	0	
+						Carta :Item	|ABC04             	|	Warrior	|	0	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 32
+						Carta :Criatura	|Commando Sambo    	|	Monk	|	9	
+						Carta :Item	|Uppercut          	|	Monk	|	11	
+						Carta :Item	|Dragon Punch      	|	Monk	|	12	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 32
+	Turno 5
+		Mesa
+				Item: Meteor Shower     	|	Mage	|	12	
+				Item: Jab Punch         	|	Monk	|	9	
+				Item: Thunder Bolt      	|	Mage	|	10	
+				Item: ABC04             	|	Warrior	|	0	
+				Item: ABC07             	|	Warrior	|	0	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 18
+						Carta :Criatura	|Demonologist      	|	Warlock	|	9	
+						Carta :Item	|Sacrificial Knife 	|	Warlock	|	9	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Warrior ----- ForçaTotal: 11
+						Carta :Criatura	|Warrior           	|	Warrior	|	6	
+						Carta :Item	|ABC04             	|	Warrior	|	0	
+						Carta :Item	|ABC07             	|	Warrior	|	0	
+		Vencedor(es)
+				Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 18
+	Turno 6
+		Mesa
+				Item: ABC05             	|	Warrior	|	0	
+				Item: Cauldron of Souls 	|	Warlock	|	10	
+				Item: Uppercut          	|	Monk	|	11	
+				Item: ABC08             	|	Warrior	|	0	
+				Item: Thunder Bolt      	|	Mage	|	10	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 17
+						Carta :Criatura	|Templar           	|	Warlock	|	7	
+						Carta :Item	|Cauldron of Souls 	|	Warlock	|	10	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Warrior ----- ForçaTotal: 10
+						Carta :Criatura	|Barbarian         	|	Warrior	|	7	
+						Carta :Item	|ABC05             	|	Warrior	|	0	
+						Carta :Item	|ABC08             	|	Warrior	|	0	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 17
+	Turno 7
+		Mesa
+				Item: ABC09             	|	Warrior	|	0	
+				Item: ABC08             	|	Warrior	|	0	
+				Item: Fireball          	|	Mage	|	11	
+				Item: ABC01             	|	Warrior	|	0	
+				Item: Wind Blast        	|	Mage	|	9	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 18
+						Carta :Criatura	|Taekwondo         	|	Monk	|	7	
+						Carta :Item	|Round House Kick  	|	Monk	|	11	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 19
+						Carta :Criatura	|Commando Sambo    	|	Monk	|	9	
+						Carta :Item	|Knee Kick         	|	Monk	|	10	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 19
+	Turno 8
+		Mesa
+				Item: ABC04             	|	Warrior	|	0	
+				Item: ABC07             	|	Warrior	|	0	
+				Item: Haunted Doll      	|	Warlock	|	10	
+				Item: Index Prohibitorum	|	Warlock	|	11	
+				Item: Dragon Punch      	|	Monk	|	12	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 28
+						Carta :Criatura	|Apprentice        	|	Warlock	|	6	
+						Carta :Item	|Haunted Doll      	|	Warlock	|	10	
+						Carta :Item	|Index Prohibitorum	|	Warlock	|	11	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Monk ----- ForçaTotal: 20
+						Carta :Criatura	|Commando Sambo    	|	Monk	|	9	
+						Carta :Item	|Dragon Punch      	|	Monk	|	12	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Warlock ----- ForçaTotal: 28
+	Turno 9
+		Mesa
+				Item: Hook Punch        	|	Monk	|	9	
+				Item: Ice Bolt          	|	Mage	|	10	
+				Item: ABC10             	|	Warrior	|	0	
+				Item: Soulstone         	|	Warlock	|	11	
+				Item: ABC06             	|	Warrior	|	0	
+		Jogadas
+				Ordem: 1 - Player: Jogador 02 ----- Criatura: Warlock ----- ForçaTotal: 21
+						Carta :Criatura	|Necromancer       	|	Warlock	|	8	
+						Carta :Item	|Soulstone         	|	Warlock	|	11	
+				Ordem: 2 - Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 26
+						Carta :Criatura	|Taekwondo         	|	Monk	|	7	
+						Carta :Item	|Low Kick          	|	Monk	|	9	
+						Carta :Item	|Hook Punch        	|	Monk	|	9	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Monk ----- ForçaTotal: 26
+	Turno 10
+		Mesa
+				Item: Dragon Punch      	|	Monk	|	12	
+				Item: Uppercut          	|	Monk	|	11	
+				Item: ABC01             	|	Warrior	|	0	
+				Item: Low Kick          	|	Monk	|	9	
+				Item: Fireball          	|	Mage	|	11	
+		Jogadas
+				Ordem: 1 - Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 19
+						Carta :Criatura	|Aeromancer        	|	Mage	|	8	
+						Carta :Item	|Fireball          	|	Mage	|	11	
+				Ordem: 2 - Player: Jogador 02 ----- Criatura: Warrior ----- ForçaTotal: 15
+						Carta :Criatura	|Troll             	|	Warrior	|	10	
+						Carta :Item	|ABC01             	|	Warrior	|	0	
+		Vencedor(es)
+				Player: Jogador 01 ----- Criatura: Mage ----- ForçaTotal: 19
+
+
+Vitórias de Mage : 3  Empates: (0)
+Vitórias de Monk : 3  Empates: (0)
+Vitórias de Warlock : 4  Empates: (0)
+
+
+Vitórias limpas de Mage: 3
+Vitórias limpas de Monk: 3
+Vitórias limpas de Warlock: 4
+
+
+Monstro-Mage
+Level Vencedor:	LEVEL-1              	 revelado:	4 	 vitórias:	3 	 rev-vito:	    0	(	100,00%	)
+Level Vencedor:	LEVEL-3              	 revelado:	4 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+
+Monstro-Monk
+Level Vencedor:	LEVEL-2              	 revelado:	5 	 vitórias:	2 	 rev-vito:	    1	(	50,00%	)
+Level Vencedor:	LEVEL-4              	 revelado:	5 	 vitórias:	3 	 rev-vito:	    1	(	66,67%	)
+
+Monstro-Warlock
+Level Vencedor:	LEVEL-5              	 revelado:	2 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+Level Vencedor:	LEVEL-1              	 revelado:	4 	 vitórias:	3 	 rev-vito:	    0	(	100,00%	)
+Level Vencedor:	LEVEL-2              	 revelado:	5 	 vitórias:	2 	 rev-vito:	    0	(	100,00%	)
+Level Vencedor:	LEVEL-4              	 revelado:	5 	 vitórias:	3 	 rev-vito:	    1	(	50,00%	)
+
+Criatura Vencedora:	Mage    	-	Aeromancer           	 revelado:	1 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+Criatura Vencedora:	Warlock    	-	Apprentice           	 revelado:	1 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+Criatura Vencedora:	Monk    	-	Commando Sambo       	 revelado:	3 	 vitórias:	2 	 rev-vito:	    1	(	66,67%	)
+Criatura Vencedora:	Warlock    	-	Demonologist         	 revelado:	2 	 vitórias:	1 	 rev-vito:	    1	(	50,00%	)
+Criatura Vencedora:	Warlock    	-	Master Warlock       	 revelado:	1 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+Criatura Vencedora:	Mage    	-	Pyromancer           	 revelado:	2 	 vitórias:	2 	 rev-vito:	    0	(	100,00%	)
+Criatura Vencedora:	Monk    	-	Taekwondo            	 revelado:	2 	 vitórias:	1 	 rev-vito:	    1	(	50,00%	)
+Criatura Vencedora:	Warlock    	-	Templar              	 revelado:	1 	 vitórias:	1 	 rev-vito:	    0	(	100,00%	)
+
+
+
+Força das Vitórias: LEVEL-5        	  Min:	30	  Avg:	30,00	  Max:	30
+Força das Vitórias: LEVEL-1        	  Min:	28	  Avg:	33,67	  Max:	39
+Força das Vitórias: LEVEL-2        	  Min:	17	  Avg:	21,50	  Max:	26
+Força das Vitórias: LEVEL-3        	  Min:	19	  Avg:	19,00	  Max:	19
+Força das Vitórias: LEVEL-4        	  Min:	18	  Avg:	23,00	  Max:	32
+
+
+
+Força das Vitórias: Templar        	  Min:	17	  Avg:	17,00	  Max:	17
+Força das Vitórias: Demonologist   	  Min:	18	  Avg:	18,00	  Max:	18
+Força das Vitórias: Master Warlock 	  Min:	30	  Avg:	30,00	  Max:	30
+Força das Vitórias: Pyromancer     	  Min:	34	  Avg:	36,50	  Max:	39
+Força das Vitórias: Taekwondo      	  Min:	26	  Avg:	26,00	  Max:	26
+Força das Vitórias: Commando Sambo 	  Min:	19	  Avg:	25,50	  Max:	32
+Força das Vitórias: Aeromancer     	  Min:	19	  Avg:	19,00	  Max:	19
+Força das Vitórias: Apprentice     	  Min:	28	  Avg:	28,00	  Max:	28
+
+
+
+Força das Vitórias: Mage           	  Min:	19	  Avg:	30,67	  Max:	39
+Força das Vitórias: Monk           	  Min:	19	  Avg:	25,67	  Max:	32
+Força das Vitórias: Warlock        	  Min:	17	  Avg:	23,25	  Max:	30
+
+Força das Vitórias: Mage           	 QntItensUsados:1	 Min:	19	  Avg:	19,00	  Max:	19 Count:1
+Força das Vitórias: Mage           	 QntItensUsados:2	 Min:	34	  Avg:	34,00	  Max:	34 Count:1
+Força das Vitórias: Mage           	 QntItensUsados:3	 Min:	39	  Avg:	39,00	  Max:	39 Count:1
+
+Força das Vitórias: Monk           	 QntItensUsados:1	 Min:	19	  Avg:	19,00	  Max:	19 Count:1
+Força das Vitórias: Monk           	 QntItensUsados:2	 Min:	26	  Avg:	29,00	  Max:	32 Count:2
+
+Força das Vitórias: Warlock        	 QntItensUsados:1	 Min:	17	  Avg:	17,50	  Max:	18 Count:2
+Força das Vitórias: Warlock        	 QntItensUsados:2	 Min:	28	  Avg:	29,00	  Max:	30 Count:2
+
+
+
+		Monstros X Quantidade de Itens Utilizados X Força Média por Jogada
+
+Monstro: Aeromancer        	Itens:	1	Vezes Realizada	1	Min:	19	  Avg:	19,00	  Max:	19
+Monstro: Apprentice        	Itens:	2	Vezes Realizada	1	Min:	28	  Avg:	28,00	  Max:	28
+Monstro: Barbarian         	Itens:	2	Vezes Realizada	2	Min:	10	  Avg:	11,00	  Max:	12
+Monstro: Commando Sambo    	Itens:	1	Vezes Realizada	2	Min:	19	  Avg:	19,50	  Max:	20
+Monstro: Commando Sambo    	Itens:	2	Vezes Realizada	1	Min:	32	  Avg:	32,00	  Max:	32
+Monstro: Demonologist      	Itens:	1	Vezes Realizada	1	Min:	18	  Avg:	18,00	  Max:	18
+Monstro: Demonologist      	Itens:	2	Vezes Realizada	1	Min:	27	  Avg:	27,00	  Max:	27
+Monstro: Giant             	Itens:	2	Vezes Realizada	1	Min:	13	  Avg:	13,00	  Max:	13
+Monstro: Giant             	Itens:	3	Vezes Realizada	1	Min:	13	  Avg:	13,00	  Max:	13
+Monstro: Master Warlock    	Itens:	2	Vezes Realizada	1	Min:	30	  Avg:	30,00	  Max:	30
+Monstro: Necromancer       	Itens:	1	Vezes Realizada	1	Min:	21	  Avg:	21,00	  Max:	21
+Monstro: Pyromancer        	Itens:	2	Vezes Realizada	1	Min:	34	  Avg:	34,00	  Max:	34
+Monstro: Pyromancer        	Itens:	3	Vezes Realizada	1	Min:	39	  Avg:	39,00	  Max:	39
+Monstro: Taekwondo         	Itens:	1	Vezes Realizada	1	Min:	18	  Avg:	18,00	  Max:	18
+Monstro: Taekwondo         	Itens:	2	Vezes Realizada	1	Min:	26	  Avg:	26,00	  Max:	26
+Monstro: Templar           	Itens:	1	Vezes Realizada	1	Min:	17	  Avg:	17,00	  Max:	17
+Monstro: Troll             	Itens:	1	Vezes Realizada	1	Min:	15	  Avg:	15,00	  Max:	15
+Monstro: Warrior           	Itens:	2	Vezes Realizada	1	Min:	11	  Avg:	11,00	  Max:	11
+
+
+		Tipo Monstro X Força Média por Jogada
+
+Monstro: Warrior           	  Min:	10	  Avg:	12,33	  Max:	15
+Monstro: Warlock           	  Min:	17	  Avg:	23,50	  Max:	30
+Monstro: Monk              	  Min:	18	  Avg:	23,00	  Max:	32
+Monstro: Mage              	  Min:	19	  Avg:	30,67	  Max:	39
+
+
+		Monstro X Força Média por Jogada
+
+Monstro: Commando Sambo    	  Min:	19	  Avg:	23,67	  Max:	32
+Monstro: Barbarian         	  Min:	10	  Avg:	11,00	  Max:	12
+Monstro: Necromancer       	  Min:	21	  Avg:	21,00	  Max:	21
+Monstro: Taekwondo         	  Min:	18	  Avg:	22,00	  Max:	26
+Monstro: Warrior           	  Min:	11	  Avg:	11,00	  Max:	11
+Monstro: Troll             	  Min:	15	  Avg:	15,00	  Max:	15
+Monstro: Aeromancer        	  Min:	19	  Avg:	19,00	  Max:	19
+Monstro: Giant             	  Min:	13	  Avg:	13,00	  Max:	13
+Monstro: Templar           	  Min:	17	  Avg:	17,00	  Max:	17
+Monstro: Demonologist      	  Min:	18	  Avg:	22,50	  Max:	27
+Monstro: Apprentice        	  Min:	28	  Avg:	28,00	  Max:	28
+Monstro: Pyromancer        	  Min:	34	  Avg:	36,50	  Max:	39
+Monstro: Master Warlock    	  Min:	30	  Avg:	30,00	  Max:	30
+
+
+ Estatísticas de Combo Humano 
+
+ Combo Realizado:	KP	Quantidade:	1
+
+
